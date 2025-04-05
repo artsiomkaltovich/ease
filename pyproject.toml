@@ -1,0 +1,11 @@
+[project]
+name = "ease"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "sphinx-autobuild>=2024.10.3",
+    "sphinx>=8.2.3",
+    "rinohtype>=0.5.5",
+]
