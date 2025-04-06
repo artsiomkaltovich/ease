@@ -12,7 +12,6 @@ include::etc/index.adoc[leveloffset=+1]
 include::lists/index.adoc[leveloffset=+1]
 include::optional/index.adoc[leveloffset=+1]
 
-// conditions
 // feats
 // fire/ice/electricity
 // poison/acid/oil/

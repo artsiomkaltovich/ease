@@ -1,9 +1,7 @@
 = Conditions
 
-include::blessed.adoc[leveloffset=+1]
 include::blind.adoc[leveloffset=+1]
 include::charmed.adoc[leveloffset=+1]
-include::cursed.adoc[leveloffset=+1]
 include::frightened.adoc[leveloffset=+1]
 include::poisoned.adoc[leveloffset=+1]
 include::unconscious.adoc[leveloffset=+1]

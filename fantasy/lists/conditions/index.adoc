@@ -1,0 +1,2 @@
+include::blessed.adoc[leveloffset=+1]
+include::cursed.adoc[leveloffset=+1]
