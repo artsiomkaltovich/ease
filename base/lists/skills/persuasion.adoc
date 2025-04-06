@@ -3,7 +3,10 @@ The ability to influence others through charm and reasoning. The primary stat is
 
 == Rank I
 - [[charm]]Charm: Charm a creature, making it charmed for 1 round. The charm effect ends early if you  harm the charmed creature.
+- [[demoralize]]Demoralize: As an action, you can attempt to demoralize a creature. On a success, the target is loses 1 EP.
 
 == Rank II
 - Charm: Charm up to *two* creatures in the same zone.
 - Charm: On a successful charm, you can choose one ally. The affected creature is charmed by both you and the chosen ally.
+- Demoralize: On success the target loses 2 EP.
+- Demoralize: You can demoralize up to *two* creatures in the same zone.
