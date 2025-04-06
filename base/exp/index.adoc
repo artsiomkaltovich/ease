@@ -5,4 +5,4 @@ The starting experience points (**XP**) for a character are determined by the st
 
 == Skill Ranks
 
-Each skill has a rank. When a character reaches a new rank, the player can spend 1 XP to unlock a new option. The available options are listed in the skill description. A character cannot have more chosen options than the skill's rank. Each option has a rank requirement, meaning the character must reach the required rank to unlock it. However, it is not mandatory to choose an option immediately upon reaching the required rank; options from previous ranks can also be selected instead.
+Each skill has a rank. When a character reaches a new rank, the player can spend 1 XP to unlock a new *perk*. The available perks are listed in the skill description. A character cannot have more chosen perks than the skill's rank. Each perk has a rank requirement, meaning the character must reach the required rank to unlock it. However, it is not mandatory to choose a perk immediately upon reaching the required rank; perks from previous ranks can also be selected instead.

@@ -1,4 +1,4 @@
-= Actions
+= Combat Actions
 
 == Full Actions
 

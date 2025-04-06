@@ -1,4 +1,4 @@
-= Skills
+= Skills and Perks
 
 Some skills depend on other skills or <<stats, stats>>. For example, attacking with a heavy weapon requires the Strength skill. The <<skill-value, skill value>> of the dependent skill cannot exceed the skill value of the primary skill.
 

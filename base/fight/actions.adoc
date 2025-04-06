@@ -4,16 +4,17 @@ A fight is composed of a series of rounds. During each round, every creature can
 
 *Short actions* are quick maneuvers, such as stowing a weapon or reloading a light crossbow, while full actions involve more complex or time-consuming tasks, such as attacking.
 
-== Action Options
+[[action-variety]]
+== Action Varieties
 
-Some actions offer different options. Actions tied to specific skills typically correspond to distinct actions, but there are exceptions:
+Some actions offer different varieties. Actions tied to specific skills typically correspond to distinct actions, but there are exceptions:
 
-- Attacking with any weapon, including unarmed attacks, is considered an option of the *attack* action, even though different skills may be used.
+- Attacking with any weapon, including unarmed attacks, is considered a variety of the *attack* action, even though different skills may be used.
 - Grappling and attacking are separate actions, but both can utilize weapon skills if the weapon permits it.
 
 Using an item for different tasks is treated as separate actions. For example, using a rope to bind a creature, climb, or set on fire from campfire are distinct actions. However, using an item repeatedly for the same task, such as binding a creature and after that tying objects together, is not considered a different action.
 
-Different actions can be performed within the same round; however, this does not apply to options of the same action.
+Different actions can be performed within the same round; however, this does not apply to varieties of the same action.
 
 == Resolving The Round
 

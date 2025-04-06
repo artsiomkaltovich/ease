@@ -4,7 +4,7 @@ Specific changes can be applied to the rules to simplify and enhance the experie
 
 == Simplified Experience and Skill Unlocking
 
-Typically, unlocking a skill rank requires spending XP. In one-shots, the game master may allow players to unlock these options without spending XP. However, only one option can be unlocked per rank. This approach helps streamline and simplify character progression.
+Typically, unlocking a skill <<perk, perk>> requires spending XP. In one-shots, the game master may allow players to unlock them without spending XP. However, only one perk can be unlocked per rank. This approach helps streamline and simplify character progression.
 
 For certain stories, experience points can be disregarded entirely, limiting characters to the options available at the start of the adventure.
 
