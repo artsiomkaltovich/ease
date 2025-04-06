@@ -4,6 +4,7 @@
 
 - Move from one zone to another
 - <<attack, Attack>>
+- <<rest, Rest>>
 - Use a skill
 - Use an item
 - [[sneak]]Sneak (<<stealth, Stealth>> check)

@@ -8,8 +8,6 @@ include::../base/character/index.adoc[leveloffset=+1]
 include::../base/tests/index.adoc[leveloffset=+1]
 include::../base/fight/index.adoc[leveloffset=+1]
 include::../base/items/index.adoc[leveloffset=+1]
-include::../base/rest/index.adoc[leveloffset=+1]
-include::../base/exp/index.adoc[leveloffset=+1]
 include::../base/etc/index.adoc[leveloffset=+1]
 
 == Lists

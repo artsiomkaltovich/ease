@@ -1,3 +1,4 @@
+[[rest]]
 = Rest and Exhaustion
 
 A character can take a rest action to recover 1 EP. However, this increases their exhaustion level by 1. Each level of **exhaustion** reduces the maximum EP by 1.

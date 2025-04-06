@@ -17,4 +17,6 @@ and their skills, which are actively used for checks.
 | [[obs]]Observation (OBS)      | Representing how skilled a creature is at noticing details and forming logical connections.
 |===
 
-include::skills/index.adoc[leveloffset=+1]
+include::skills.adoc[leveloffset=+1]
+include::exp.adoc[leveloffset=+1]
+include::rest.adoc[leveloffset=+1]
