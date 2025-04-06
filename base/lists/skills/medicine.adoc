@@ -1,0 +1,16 @@
+[[medicine]]
+=== Medicine
+Advanced medical knowledge for diagnosing and treating ailments. Typically used outside of combat as it requires significant time. The primary stat is <<obs, Observation>>.
+
+== Rank I
+- [[diagnose-condition]]Diagnose Condition: Identify the severity of a condition (e.g., poisoned) on a successful roll.
+- [[treat-wound]]Treat Wound: Restore 1 health on a successful roll. The treated character must rest for 1 hour to benefit from the treatment. Can be used only once per day per target.
+- [[treat-condition]]Treat Condition: Completely remove a short-term condition on a successful roll or reduce the severity/duration of a long-term condition. The treated character must rest for 1 hour to benefit from the treatment. Can be used only once per day per target. Both negative and positive conditions can be removed this way.
+- [[false-diagnosis]]False Diagnosis: Imply a negative condition or deal 1 damage point to the target. The treated character must rest for 1 hour for the changes to take effect. Can be used only once per day per target.
+
+== Rank II
+- Diagnose Condition: Identify the severity of a condition (e.g., poisoned) without requiring a roll.
+- Treat Wound: Restore 2 health on a successful roll.
+- Treat Wound: Restore 1 health without requiring a roll.
+- False Diagnosis: Deal 1 additional damage point to the target.
+- [[prophylactic]]Prophylactic: Spend 1 EP. On success, the target gains a positive condition for 1 day. The treated character must rest for 1 hour to benefit from the treatment. Can be used only once per day per target.

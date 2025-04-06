@@ -1,0 +1,11 @@
+= Throwing
+Proficiency in accurately hurling objects or weapons. Primary skill is <<str, Strength>>.
+
+== Rank I
+- Throw: Spend 1 EP to make a roll with a result of **7**. This cannot be used if your check pool has no dice.
+- [[throw-aim]]Throw Aim: Take an action to aim, reducing the cover penalty of this attack by 1 die.
+- Throw: You can target a <<hidden, *hidden*>> but <<undetected, *detected*>> creature with your throw, provided you are in the same zone as the target. If you make a weapon attack, this attack incurs a penalty of *one* die. The penalty does not apply if you are using an area-of-effect attack.
+
+== Rank II
+- Throw Aim: Take an action to aim, negating the cover penalty of the attack completely.
+- Throw a Melee Weapon: Throwing a melee weapon causes you to become unarmed. This is not considered an attack action but a separate action. You can make a melee weapon attack and then throw the weapon, or throw the weapon and then make an unarmed attack (as you no longer have the weapon) or a melee attack with another weapon in your other hand.

@@ -1,0 +1,23 @@
+= Actions
+
+A fight is composed of a series of rounds. During each round, every creature can perform up to two different *full actions*. Additionally, each creature is allowed one short action per round.
+
+*Short actions* are quick maneuvers, such as stowing a weapon or reloading a light crossbow, while full actions involve more complex or time-consuming tasks, such as attacking.
+
+== Action Options
+
+Some actions offer different options. Actions tied to specific skills typically correspond to distinct actions, but there are exceptions:
+
+- Attacking with any weapon, including unarmed attacks, is considered an option of the *attack* action, even though different skills may be used.
+- Grappling and attacking are separate actions, but both can utilize weapon skills if the weapon permits it.
+
+Using an item for different tasks is treated as separate actions. For example, using a rope to bind a creature, climb, or set on fire from campfire are distinct actions. However, using an item repeatedly for the same task, such as binding a creature and after that tying objects together, is not considered a different action.
+
+Different actions can be performed within the same round; however, this does not apply to options of the same action.
+
+== Resolving The Round
+
+During the decision phase of a round, players have one minute to decide their actions. During this time, the master determines the actions of non-player characters (NPCs). After this phase, players declare their actions, and the master resolves the round.
+
+Players can specify triggers and conditions for their actions. For example, a player might declare, "I will attack creature A if it moves; otherwise, I will attack creature B." Significant changes in the battlefield, such as a wall collapsing, may alter the planned actions of players and NPCs. The master has the discretion to allow or disallow such changes.
+Such decisions take into account the suddenness of the change, the character's awareness of it, and the character's *speed* and *perception*.

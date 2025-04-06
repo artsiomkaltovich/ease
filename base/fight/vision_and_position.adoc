@@ -13,7 +13,7 @@ Creatures can benefit from cover, which comes in the following types:
 
 == Vision, Hidden, and Undetected Characters
 
-Seeing a target is required for certain actions and attacks. However, characters can still attempt to attack an adjacent target based on hearing or other senses. Such attacks incur a penalty of **one** die. These characters can still be affected by area-of-effect abilities. 
+Seeing a target is required for certain actions and attacks. [[hidden]]Hidden characters cannot be targeted by single-target attacks or skills at range. However, adjacent targets can still be attacked based on hearing or other senses, though such attacks incur a penalty of **one** die. Hidden characters can still be affected by area-of-effect abilities.
 
 *[[undetected]] Undetected characters* — characters the attacker is unaware of — cannot be targeted by single-target or area-of-effect actions.
 

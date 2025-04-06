@@ -4,4 +4,6 @@ Optional rules are additional rules that can be used to enhance or modify the co
 
 include::moving.adoc[leveloffset=+1]
 include::hidden_checks.adoc[leveloffset=+1]
+include::plot_points.adoc[leveloffset=+1]
+include::one_shots.adoc[leveloffset=+1]
 include::dying.adoc[leveloffset=+1]

@@ -1,0 +1,14 @@
+= Insult
+The art of delivering cutting remarks to provoke or demoralize others. Primary stat is <<chr, Charisma>>.
+
+== Rank I
+- [[provoke]]Provoke: Choose *one* creature. On a success, this creature is provoked, loses its current action, and instead tries to harm you.
+
+== Rank II
+- Provoke: You can choose up to *two* creatures, who must be in the same zone.
+- Provoke: An insulted creature can't move away from you this round.
+
+== Rank III
+- Provoke: You can choose up to *three* creatures, who must be in the same zone.
+- Provoke: You can provoke up to *two* creatures from up to *two* different zones.
+- Provoke: A provoked creature loses its entire round instead of just one action. It still has its normal number of full and short actions but can't do anything except harm you. You can provoke only one creature in this way per round.

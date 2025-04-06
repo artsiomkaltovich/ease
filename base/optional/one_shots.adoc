@@ -1,0 +1,15 @@
+= One-Shots
+
+Specific changes can be applied to the rules to simplify and enhance the experience of one-shot adventures. These changes are optional and can be implemented at the discretion of the players and the game master.
+
+== Simplified Experience and Skill Unlocking
+
+Typically, unlocking a skill rank requires spending XP. In one-shots, the game master may allow players to unlock these options without spending XP. However, only one option can be unlocked per rank. This approach helps streamline and simplify character progression.
+
+For certain stories, experience points can be disregarded entirely, limiting characters to the options available at the start of the adventure.
+
+== Faster Healing, Recovery, and Repair
+
+In one-shot adventures, the game master may choose to accelerate the healing process. Resting effects can be applied after a short break instead of requiring sleep, while sleeping fully restores all spent resources.
+
+Additionally, item and skill uses can be replenished immediately after each battle. This approach makes the game more dynamic and fast-paced, while also helping to balance encounters and enhance the experience of the final fight.

@@ -1,0 +1,17 @@
+[[trade]]
+= Trade
+The skill of negotiating and bartering for goods and services. The primary attribute for this skill is <<chr, Charisma>>.
+
+== Rank I
+- Trade: As part of a trade action, spend 1 EP to make a roll with a result of **7**. This cannot be used if your check pool has no dice.
+- Trade: You can attempt to trade items that are not typically handled by the trader, such as selling a sword to a baker. While the trader may not offer the full price for the item, you can still secure a fair deal if you succeed. However, you cannot attempt to sell stolen items in this manner if the trader is aware they are stolen.
+- Trade: You can identify the approximate value of an item without requiring a roll. This allows you to better assess the fairness of a deal.
+- Trade: You can appraise rare or exotic items, determining their value with a roll.
+- Trade: You can establish a long-term trading relationship with a merchant, gaining a small discount on future transactions.
+- Trade: You can convince a trader to hold an item for you for a limited time without requiring immediate payment.
+
+== Rank II
+- Trade: You can attempt to trade stolen items to an ordinary trader. On success, the trader will pay for them, but at a significant discount and with a decrease in their attitude towards you.
+- Trade: You can barter services instead of goods, offering assistance with everyday tasks in exchange for items. The time required is determined by the game master and depends on the item's value, your skills, and whether the party assists you with the tasks.
+- Trade: You can identify counterfeit or fake items with a successful roll for *rare* items, avoiding potential scams.
+- Trade: You can secure loans or credit from merchants or lenders, allowing you to acquire items or services immediately and pay later.

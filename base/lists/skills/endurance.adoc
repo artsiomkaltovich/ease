@@ -1,0 +1,12 @@
+= Endurance
+Measures stamina and the ability to sustain physical effort over time.
+
+== Rank I
+- [[resist-condition]]Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *one* level for 1 round on a successful roll.
+
+== Rank II
+- Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *one* level for 1 round without requiring a roll.
+- Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *two* levels for 1 round without requiring a roll.
+
+// restore 1 HP
+// do not fall unconscious

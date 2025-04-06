@@ -1,0 +1,17 @@
+= Actions
+
+== Full Actions
+
+- Move from one zone to another
+- Attack
+- Use a skill
+- Use an item
+- [[sneak]]Sneak (<<stealth, Stealth>> check)
+- [[grapple]]Grapple (<<strength, Strength>> check)
+
+== Short Actions
+
+- Moving within the same zone
+- Stepping into an adjacent zone for its border
+- Stowing or drawing a weapon
+- Reloading (unless explicitly stated otherwise)

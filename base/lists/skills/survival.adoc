@@ -1,0 +1,12 @@
+= Survival
+Knowledge of wilderness skills, such as finding food and shelter.  The primary skill is <<endurance, Endurance>>.
+
+== Rank I
+- [[track]]Track: As an action, you can attempt to locate a creature even if your <<obs, Observation>> skill is insufficient to spot it.
+- Find Food: You automatically succeed in finding food in the wilderness. The roll determines the quality and an amount of the food, ranging from ordinary to very good.
+- Find Ingredients: You automatically succeed in finding ingredients in the wilderness. The roll determines the quality and the amount of the ingredients, ranging from ordinary to very good. The terrain you can use this skill in is limited to your background, and can even include urban environments.
+- Find Shelter: You automatically succeed in finding shelter. The roll determines the quality of the shelter, ranging from ordinary to very good. The terrain you can use this skill in is limited to your background, and can even include urban environments.
+- Predict Weather: You can predict the weather for the next 24 hours with a successful roll, allowing you to prepare accordingly.
+
+== Rank II
+- Track: You can track a creature even if it is not in the same zone as you.

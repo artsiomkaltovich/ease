@@ -1,0 +1,38 @@
+= Skills
+
+Some skills depend on other skills or <<stats, stats>>. For example, attacking with a heavy weapon requires the Strength skill. The <<skill-value, skill value>> of the dependent skill cannot exceed the skill value of the primary skill.
+
+== Skill List
+
+
+touch alchemy.adoc
+touch enchantment.adoc
+touch lore_nature.adoc
+touch lore_religion.adoc
+touch recharge.adoc
+touch shield.adoc
+
+=== Alchemy
+The skill of creating potions, poisons, and other chemical concoctions.
+
+=== Enchantment
+The ability to imbue objects with magical properties.
+
+=== Lore: Nature
+Understanding of the natural world, including plants, animals, and ecosystems.
+
+=== Lore: Religion
+Knowledge of religious practices, beliefs, and deities.
+
+=== Recharge
+The skill of restoring energy or power to magical or mechanical devices.
+
+=== Shield
+Proficiency in using shields for defense in combat.
+
+
+Every weapon and armor type, as well as spells and certain other abilities like understanding a foreign language, are also considered skills.
+
+== Lore Skills
+
+Lore skills are a special type of skill that represents knowledge about specific subjects. Lore skills are typically associated with a particular field of study or expertise, such as history, religion, nature, geography, or arcana.

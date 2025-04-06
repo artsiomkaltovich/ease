@@ -1,0 +1,14 @@
+= Stealth
+The ability to move silently and remain undetected. The primary skill is <<agility, Agility>>.
+
+== Rank I
+- Sneak: As an action, you can attempt to hide in a battle. On a success, you become hidden from all creatures in the same zone. You remain hidden until you attack or are discovered.
+- [[hide-item]]Hide Item: As an action, you can attempt to hide an item. On a success, the item is concealed.
+- [[hide-steps]]Hide Steps: As an action, you can attempt to hide your tracks. On a success, you leave no trace of your passage.
+
+== Rank II
+- Sneak: You can attempt to hide in dim light.
+- Hide Steps: On a success, your entire group leaves no trace of passage.
+- Hide Steps: Hiding your steps no longer requires a roll.
+
+// teleport in dim light

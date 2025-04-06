@@ -1,0 +1,10 @@
+[[strength]]
+= Strength
+Represents physical power and the ability to lift or move heavy objects.
+
+== Rank I
+- [[topple]]Topple: As an action, you can attempt to topple a creature. On a success, the target is knocked prone.
+- Grapple: You can attempt to grapple a creature even if you don't have a free hand. You can grapple *one* creature at a time.
+
+== Rank II
+- Grapple: You can grapple *one* additional creature. You need a free hand, but only one hand is required for both creatures.

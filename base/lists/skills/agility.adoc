@@ -1,0 +1,8 @@
+= Agility
+Represents dexterity and coordination, useful for tasks requiring precision. Allow to evade some attacks.
+
+== Rank I
+- Evade: Reduce the attack roll of enemies by 1 die on a successful roll, or spend 1 EP to achieve the same effect without rolling.
+
+== Rank II
+- Evade: Reduce the attack roll of enemies by 2 dice on a successful roll, or spend 1 EP to achieve the same effect without rolling.

@@ -1,0 +1,26 @@
+= Fantasy Roleplaying Game System
+:toc:
+:toc-title: Table of Contents
+:toclevels: 2
+:no-chapter-page-breaks:
+
+include::../base/character/index.adoc[leveloffset=+1]
+include::../base/tests/index.adoc[leveloffset=+1]
+include::../base/fight/index.adoc[leveloffset=+1]
+include::../base/items/index.adoc[leveloffset=+1]
+include::../base/rest/index.adoc[leveloffset=+1]
+include::../base/exp/index.adoc[leveloffset=+1]
+include::../base/etc/index.adoc[leveloffset=+1]
+
+== Lists
+
+include::../base/lists/actions.adoc[leveloffset=+2]
+include::lists/skills.adoc[leveloffset=+2]
+include::../base/optional/index.adoc[leveloffset=+1]
+
+// conditions
+// feats
+// fire/ice/electricity
+// poison/acid/oil/
+// smoke/steam
+// blood as a an element

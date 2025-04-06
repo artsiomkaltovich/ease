@@ -1,0 +1,14 @@
+= First Aid
+Basic medical knowledge for treating wounds and injuries. Can be used in combat. Primary stat is <<obs, Observation>>.
+
+== Rank I
+- First Aid: Restore 1 EP on success.
+- Stabilize Condition: Reduce the severity of a condition (e.g., poisoned) by one level.
+- Stabilize Condition: Reduce the duration of a condition (e.g., poisoned) by one round.
+
+== Rank II
+- First Aid: Restore 1 EP without a roll.
+- First Aid: Restore 2 EP on success.
+- First Aid: Restore 1 health on success.
+- Stabilize Condition: Further reduce the severity of a condition (e.g., poisoned) by one level.
+- Stabilize Condition: Further reduce the duration of a condition (e.g., poisoned) by one round.
