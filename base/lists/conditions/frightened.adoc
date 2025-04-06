@@ -1,0 +1,4 @@
+[[frightened]]
+= Frightened
+
+A frightened creature cannot willingly move closer to the source of its fear.

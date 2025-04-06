@@ -1,0 +1,4 @@
+[[cursed]]
+= Cursed
+
+*Cursed N* is a condition that causes characters to replace every roll of *six* on their dice with *N*.

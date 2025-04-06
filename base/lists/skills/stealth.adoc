@@ -10,5 +10,6 @@ The ability to move silently and remain undetected. The primary skill is <<agili
 - Sneak: You can attempt to hide in dim light.
 - Hide Steps: On a success, your entire group leaves no trace of passage.
 - Hide Steps: Hiding your steps no longer requires a roll.
+// dagger: - [[unexpected-attack]]Unexpected Attack: You can make an <<attack, attack>> action with a one-handed or ranged weapon, using a Stealth check instead of a weapon check. On a success, the target cannot block the damage from the attack.
 
 // teleport in dim light

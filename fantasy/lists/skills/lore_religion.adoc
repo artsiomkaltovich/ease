@@ -2,12 +2,12 @@
 Knowledge of religious practices, beliefs, and deities.
 
 == Rank I
-- [bless]Bless: As an action, bless a target on a success, making every *one* on dice rolls count as *two*. The effect lasts until the end of the round.
-- [curse]Curse: As an action, curse a target on a success, making every *six* on dice rolls count as *five*. The effect lasts until the end of the round.
+- [bless]Bless: As an action, <<blessed, bless 2>> a target on a success. The effect lasts until the end of the round.
+- [curse]Curse: As an action, curse a target on a success, making it <<cursed, cursed 5>>, the effect last until the end of the round.
 
 == Rank II
-- Bless: As an action, bless a target on a success, making every *one* on dice rolls count as *six*. The effect lasts until the end of the encounter.
+- Bless: As an action, bless a target on a success, making it **blessed 6**.
 - Bless: Bless a target without requiring a roll.
 - Bless: You can choose up to *two* creatures to bless at once. The creatures must be in the same zone.
-- Curse: As an action, curse a target on a success, making every *six* on dice rolls count as *one*. The effect lasts until the end of the encounter.
+- Curse: As an action, curse a target on a success, making it <<cursed 1>>.
 - Curse: You can choose up to *two* creatures to curse at once. The creatures must be in the same zone.

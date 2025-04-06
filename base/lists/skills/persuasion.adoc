@@ -2,7 +2,7 @@
 The ability to influence others through charm and reasoning. The primary stat is <<chr, Charisma>>.
 
 == Rank I
-- [[charm]]Charm: Charm a creature, making it charmed for 1 round. The charm effect ends early if you  harm the charmed creature.
+- [[charm]]Charm: Charm a creature, making it <<charmed>> for 1 round.
 - [[demoralize]]Demoralize: As an action, you can attempt to demoralize a creature. On a success, the target is loses 1 EP.
 
 == Rank II

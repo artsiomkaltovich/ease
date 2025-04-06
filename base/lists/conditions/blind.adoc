@@ -1,0 +1,9 @@
+[[blind]]
+= Blind
+
+Blind creatures cannot see and must perceive the world around them through other means. If the creature's primary sense is sight, other creatures become <<hidden, hidden>> to it.
+
+[[partially-blind]]
+== Partially Blind
+
+Partially blind creatures have limited vision and cannot see creatures in other zones. Creatures in other zones become <<hidden, hidden>> to them, but they can still perceive creatures in the same zone. This condition is one degree less severe than the blind condition.

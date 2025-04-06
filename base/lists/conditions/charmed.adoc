@@ -1,0 +1,4 @@
+[[charmed]]
+= Charmed
+
+A charmed creature cannot harm the charmer and exhibits a more positive attitude toward the charmer during social interactions. The condition ends immediately if the charmer harms the charmed creature.

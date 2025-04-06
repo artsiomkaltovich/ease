@@ -1,0 +1,4 @@
+[[blessed]]
+= Blessed
+
+*Blessed N* is a condition applied to characters, allowing them to replace every *one* rolled on the dice with *N*.

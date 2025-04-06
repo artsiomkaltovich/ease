@@ -1,0 +1,4 @@
+[[unconscious]]
+= Unconscious
+
+Unconscious creatures cannot perform full or short actions, nor can they perceive their surroundings in any way.
