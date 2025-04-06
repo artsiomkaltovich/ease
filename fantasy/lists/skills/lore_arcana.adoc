@@ -1,0 +1,3 @@
+[[lore-arcana]]
+= Lore: Arcana
+A skill representing knowledge of magical traditions, arcane symbols, and ancient mysteries.

@@ -1,0 +1,23 @@
+[[shield-skill]]
+= Shield
+Proficiency in using shields for defense in combat. The primary skill is <<strength, Strength>>.
+
+== Rank I
+- [[shield-block]]Shield Block: Negate one attack completely at the cost of 1 EP and 1 <<item-slot, item use slot>>. Does not require an action.
+- [[guard]]Guard: Take an action to protect an adjacent ally. On success, block all damage they receive from one attack at the cost of 1 EP. You can still use Shield Block for yourself during this round if it has been unlocked.
+- [[shield-bash]]Shield Bash: Perform an attack with the shield. On success, the target is pushed away by their size. This is a separate action, so it can be combined with an <<attack, attack>> action.
+
+== Rank II
+- Shield Block: You can now negate attacks from *two* enemies simultaneously at the cost of 1 EP for both.
+- Guard: When protecting an adjacent ally, you can block all damage without requiring a skill check.
+- Guard: You can protect up to *two* adjacent allies at the cost of 1 EP per ally.
+- Guard: You can protect target from *two* simultaneous attacks at the cost of 1 EP for both.
+- Shield Bash: During a shield bash, you can choose one of the following effects:
+    * Knock the target *prone*.
+    * Reduce the target's EP by 1.
+
+== Rank III
+- Shield Bash: Your shield bash deals an additional 1 damage point to the target's HP.
+
+== Rank IV
+- Shield Bash: Throw your shield at an enemy in the same or an adjacent zone. All other shield bash effects apply. Use a shield skill check instead of a <<throwing, throwing>> check.

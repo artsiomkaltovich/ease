@@ -3,7 +3,7 @@
 == Full Actions
 
 - Move from one zone to another
-- Attack
+- [[attack]]Attack
 - Use a skill
 - Use an item
 - [[sneak]]Sneak (<<stealth, Stealth>> check)

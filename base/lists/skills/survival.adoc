@@ -1,5 +1,5 @@
 = Survival
-Knowledge of wilderness skills, such as finding food and shelter.  The primary skill is <<endurance, Endurance>>.
+Knowledge of wilderness skills, such as finding food and shelter. The primary skill is <<endurance, Endurance>>.
 
 == Rank I
 - [[track]]Track: As an action, you can attempt to locate a creature even if your <<obs, Observation>> skill is insufficient to spot it.

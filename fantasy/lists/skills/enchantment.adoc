@@ -1,0 +1,11 @@
+= Enchantment
+The ability to imbue objects with magical properties. The primary skill is <<lore-arcana, Lore: Arcana>>.  
+Only one enchantment can be applied to an item at a time, but you can enchant multiple items.
+
+== Rank I
+- [[enchant]]Enchant: As an action, you can attempt to enchant a non-magical <<gear, gear>>. On success, the item becomes infused with one of the following elements: fire, frost, or lightning. Weapons deal *+1* elemental damage this round, while other gear provides an elemental shield that deals *1* elemental damage to an attacker. The shield can be used only once.
+- Enchant: As an action, you can attempt to enchant a non-magical item. On success, the item receives a *+2* bonus to any *skill value* this round. Choose one skill during enchantment.
+
+== Rank II
+- Enchant: By spending 1 EP, you can attempt to enchant an item for an extended duration. This ritual requires an hour to complete. On success, the item becomes enchanted for 1 day.
+- Enchant: Gear enchanted with elemental damage can now deal +2 elemental damage instead of +1 or apply elemental conditions. Choose additional damage or condition at a time of enchantment.

@@ -43,6 +43,5 @@ This is a list of additional actions that are unlocked when you equip a specific
 | Aim | The following attack ignore cover of your target. | Bow
 | Grub with a weapon (variant of Grapple) | Grub an enemy, do not require free hand. | Axe, Spear
 | Flank | Move to a position behind an enemy. If you attack from behind, gain +1 dice to your attack roll. | Dagger
-| Guard | Spend 1 Energy to protect an adjacent ally, allowing to block all the damage they receive in exchange for 1 EP, but you can't use ordinary shield block for yourself during this round. | Shield
 | Disarm | Make a Strength check to force an enemy to drop their weapon. | All melee weapons
 |===

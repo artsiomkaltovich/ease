@@ -1,0 +1,11 @@
+= Light Armor
+The skill of wearing and maintaining lightweight protective gear. The primary skill is <<agility, Agility>>.
+Wearing light armor decreases your <<spd, Speed>>, <<agility, Agility>>, and <<strength, Strength>> by *1*.
+
+== Rank I
+- [[light-armor-block]]Armor Block: Reduces damage received from attacks by *1* at the cost of 1 EP and 1 <<item-slot, item use slot>>. Does not require an action.
+- [[light-armor-penalty-decrease]]Light Armor Penalty Reduction: Completely removes penalties from wearing light armor.
+- Light Armor Feels Like a Second Skin: Removes penalties for sleeping in light armor and reduces the time required to equip light armor by half.
+
+== Rank II
+- Armor Block: Increases the damage reduction to *2*.

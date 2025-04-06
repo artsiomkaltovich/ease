@@ -1,0 +1,8 @@
+include::alchemy.adoc[leveloffset=+2]
+include::enchantment.adoc[leveloffset=+2]
+include::heavy_armor.adoc[leveloffset=+2]
+include::light_armor.adoc[leveloffset=+2]
+include::lore_nature.adoc[leveloffset=+2]
+include::lore_religion.adoc[leveloffset=+2]
+include::recharge.adoc[leveloffset=+2]
+include::shield.adoc[leveloffset=+2]

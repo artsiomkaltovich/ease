@@ -1,0 +1,10 @@
+[[recharge]]
+= Recharge
+The skill of restoring energy or power to magical or mechanical devices. The primary skill is <<lore-arcana,Lore: Arcana>>.
+
+== Rank I
+- Recharge: As an action, you can attempt to recharge a magical item or device. On a success, the item regains *one* charge.
+
+== Rank II
+- Recharge: Your recharge action restores *one extra* charge on a success.
+- Recharge: Recharge actions no longer require a roll.

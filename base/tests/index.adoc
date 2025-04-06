@@ -27,3 +27,7 @@ If a player decides to perform a help action, they must describe what they are d
 == Extended Checks
 
 Most checks are resolved in a single roll, but some tasks may require multiple rolls over several rounds or an extended period. The game master will specify the difficulty level and the number of rolls allowed to complete the task before the first roll.
+
+== Target Several Creatures
+
+If a check targets multiple creatures, one roll is made, unless explicitly stated in the description of the action. Creatures whose difficulty were beaten (see <<enemies, enemies>>) are affected.
