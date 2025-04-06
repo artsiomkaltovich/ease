@@ -1,0 +1,10 @@
+= Rest and Exhaustion
+
+A character can take a rest action to recover 1 EP. However, this increases their exhaustion level by 1. Each level of **exhaustion** reduces the maximum EP by 1.
+
+After spending the night in a safe place, creatures can rest and recover. A creature reduces its **exhaustion** level by half (minimum 1), restores **EP** up to its maximum, and regains 1 **HP**. The exhaustion level reduction is applied before EP recovery.
+
+[example]
+For example, if a creature has 3 levels of exhaustion and an original maximum EP of 5 (reduced to 2 due to exhaustion: 5 original EP - 3 exhaustion = 2 current max), after resting it will have 1 level of exhaustion and a maximum EP of 4 (original 5, reduced by 1 due to exhaustion).
+
+Skipping rest or doing tough tasks can make exhaustion worse. The game master might increase the exhaustion level by 1 in situations like a long journey or a difficult night.

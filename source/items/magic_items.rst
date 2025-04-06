@@ -1,4 +1,0 @@
-Magic Items and Scrolls
-=======================
-
-Magic items and scrolls are consumable items used to cast spells. A scroll disappears after a single use, while a magic item can be used multiple times. The number of uses for a magic item depends on the user's skill rank. To restore its uses, a successful recharge skill check is required.

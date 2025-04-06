@@ -1,0 +1,5 @@
+= General Rules
+
+== Rounding
+
+When performing arithmetic division, rounding follows standard mathematical rules. For example, 2 divided by 3 rounds to 1, and 2 divided by 4 also rounds to 1.

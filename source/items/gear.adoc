@@ -1,0 +1,34 @@
+= Gear
+
+== Attack
+
+To make an attack make a check using the relevant skill. The result of the check is compared to the target's defense. Refer to the table below:
+
+[options="header"]
+|===
+| Roll Result | Outcome
+
+| All ones
+| Miss, No damage
+
+| Below the target's defense
+| Weapon damage - 1
+
+| Between the target's defense and defense + 5
+| Weapon damage
+
+| The target's defense + 6 or above
+| Weapon damage + 1
+|===
+
+== Equipping and Using Gear
+
+Equipping a shield or weapon requires a short action. The time needed to equip armor depends on the specific armor and is detailed in its description.
+
+Equipped armor, shields, and weapons provide additional options:
+
+- Shields allow a player to completely negate one attack at the cost of 1 EP.
+- Armor can block damage, with the number of points blocked determined by the armor's specifications.
+- Each weapon type offers unique features, which vary depending on the weapon.
+
+To access these features, a player must have at least rank I in the related skill. The number of uses for these features is determined by the <<skill-value, skill value>>. To reset the uses, a successful repair skill check is required.

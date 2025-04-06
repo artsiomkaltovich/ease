@@ -1,0 +1,7 @@
+heading:
+  chapter:
+    break-before: auto
+    break-after: auto
+  part:
+    break-before: auto
+    break-after: auto

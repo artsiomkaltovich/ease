@@ -1,0 +1,7 @@
+== Death Rules
+
+For players seeking a more challenging and deadly approach to combat, the following optional rules can be applied:
+
+- When a creature's HP drops to 0, it will die in 1 + d3 rounds (or 2d6 divided by 3) unless it is healed.
+- A creature's HP can drop below 0, with the amount below 0 considered "negative HP." A creature dies when its negative HP reaches a specific threshold, e.g. half of maximum HP.
+- Alternatively, a creature dies immediately when its HP drops to 0.

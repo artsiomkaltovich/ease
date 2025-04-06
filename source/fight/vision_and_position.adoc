@@ -1,0 +1,24 @@
+= Vision and Position
+
+== Cover
+
+Creatures can benefit from cover, which comes in the following types:
+
+[[partial-cover]] 
+- **Partial Cover**: The target is partially obscured by an obstacle, such as a rock or tree. This reduces the attack roll dice pool against the creature by **one** die.
+[[heavy-cover]] 
+- **Heavy Cover**: The target is almost completely obscured by an obstacle, such as a wall or building. This reduces the attack roll dice pool against the creature by **two** dice.
+[[full-cover]] 
+- **Full Cover**: The target is completely obscured by an obstacle and is considered *hidden* but *<<undetected, detected>>* if it has not moved since gaining cover.
+
+== Vision, Hidden, and Undetected Characters
+
+Seeing a target is required for certain actions and attacks. However, characters can still attempt to attack an adjacent target based on hearing or other senses. Such attacks incur a penalty of **one** die. These characters can still be affected by area-of-effect abilities. 
+
+*[[undetected]] Undetected characters* — characters the attacker is unaware of — cannot be targeted by single-target or area-of-effect actions.
+
+== Crouching, Laying, Getting Up and High Ground
+
+A character's pose plays an important role, giving bonuses or penalties to their attacks and defenses. These effects depend on the poses of both the attacker and the defender, as well as their positions on the battlefield. For example, crouching behind a low wall might provide full cover, which would not work for a standing character. On the other hand, targeting a prone character from higher ground can be easier than targeting a standing one, though this advantage is not the case for flat terrain.
+
+Weapons also influence these bonuses and penalties. For instance, attacking a prone character in melee is generally easier than attacking a standing character, but attacking a prone character with a ranged weapon is usually harder. The attack rolls of crouching or prone characters using ranged weapons depend on the weapon type: easily reloaded firearms are often easier to use while crouching or lying down, whereas bows and slings are more difficult to handle in such positions.

@@ -1,0 +1,3 @@
+= Health Points (HP) and Damage
+
+Every creature has a number of health points (HP) representing its overall vitality. A creature loses consciousness and becomes unable to fight when its HP drops to 0, and HP cannot fall below this value. If the creature is healed by any amount, it regains consciousness. When a creature takes damage, it may choose to spend EP instead of HP. The amount of EP that can be spent this way is limited to half the damage taken. The full amount of damage cannot be mitigated this way unless the creature possesses an ability that explicitly allows it.
