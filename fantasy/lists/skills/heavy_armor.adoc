@@ -4,7 +4,7 @@ The skill of wearing and maintaining heavy protective gear. The primary attribut
 Wearing heavy armor decreases your <<spd, Speed>>, <<agility, Agility>>, and <<strength, Strength>> by *2*.
 
 == Rank I
-- [[heavy-armor-block]]Armor Block: Reduces damage received from attacks by *2* at the cost of 1 EP and 1 <<item-slot, item use slot>>. Does not require an action.
+- [[heavy-armor-block]]Armor Block: Reduces damage received from attacks by *2* at the cost of 1 EP and 1 <<item-usage-token, item use slot>>. Does not require an action.
 - [[heavy-armor-penalty-decrease]]Heavy Armor Penalty Reduction: Reduces the penalties to your skills and stats from wearing heavy armor by *1*.
 
 == Rank II

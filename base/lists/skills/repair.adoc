@@ -1,8 +1,12 @@
+[[repair]]
 = Repair
 The ability to fix broken or damaged equipment and structures. The primary stat is <<obs, Observation>>.
 
+== Rank 0
+- Repair: Outside of combat, repair *half* usable slots per hour on a success. An item can only be repaired once per day.
+
 == Rank I
-- [[repair-action]]Repair: As an action, spend 1 EP to repair *one* usable slot of an item. Outside of combat, repair *all* usable slots per hour on a success or *half* of the slots on a failure. An item can only be repaired once per day.
+- Repair: As an action, spend 1 EP to repair *one* usable slot of an item. Outside of combat, repair *all* usable slots per hour on a success or *half* of the slots on a failure. An item can only be repaired once per day.
 - [[sabotage-item]]Sabotage Item: As an action, attempt to sabotage one item. On a success, *one* of its usable slots is considered used.
 
 == Rank II
