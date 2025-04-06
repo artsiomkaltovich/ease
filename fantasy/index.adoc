@@ -11,9 +11,9 @@ include::../base/items/index.adoc[leveloffset=+1]
 include::../base/etc/index.adoc[leveloffset=+1]
 
 == Lists
-include::../base/lists/actions.adoc[leveloffset=+2]
 include::../base/lists/skills/index.adoc[leveloffset=+2]
 include::lists/skills/index.adoc[leveloffset=+2]
+include::../base/lists/conditions/index.adoc[leveloffset=+2]
 
 include::../base/optional/index.adoc[leveloffset=+1]
 
