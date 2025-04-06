@@ -3,7 +3,7 @@
 Proficiency in using shields for defense in combat. The primary skill is <<strength, Strength>>.
 
 == Rank I
-- [[shield-block]]Shield Block: Negate one attack completely at the cost of 1 EP and 1 <<item-usage-token, item use slot>>. Does not require an action.
+- [[shield-block]]Shield Block: Negate one attack completely at the cost of 1 EP and 1 <<item-usage-token, item use token>>. Does not require an action.
 - [[guard]]Guard: Take an action to protect an adjacent ally. On success, block all damage they receive from one attack at the cost of 1 EP. You can still use Shield Block for yourself during this round if it has been unlocked.
 - [[shield-bash]]Shield Bash: Perform an attack with the shield. On success, the target is pushed away by their size. This is a separate action, so it can be combined with an <<attack, attack>> action.
 
