@@ -8,7 +8,7 @@ Each player can carry a number of items equal to 4 + the rank of Strength + the 
 - Main Hand
 - Off Hand
 - Jewelry
-- A number of quick slots determined by your clothes/armor
+- [[item-quick-slot]]A number of quick slots determined by your clothes/armor
 
 Weapons, shields, armors, clothes, and jewelry are called [[gear]]*gear*. They are equipped in all slots except quick slots. Quick slots are used for items that can be used for potions, scrolls, and other consumables. Each quick slot can hold one item.
 
