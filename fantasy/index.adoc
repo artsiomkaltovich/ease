@@ -9,6 +9,8 @@ include::../base/tests/index.adoc[leveloffset=+1]
 include::../base/fight/index.adoc[leveloffset=+1]
 include::../base/items/index.adoc[leveloffset=+1]
 include::items/magic_items.adoc[leveloffset=+1]
+include::items/weapons/perks.adoc[leveloffset=+2]
+include::items/weapons/index.adoc[leveloffset=+2]
 include::../base/etc/index.adoc[leveloffset=+1]
 
 == Lists

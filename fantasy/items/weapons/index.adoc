@@ -1,0 +1,11 @@
+= Weapon Types
+
+The following table outlines the requirements, damage, and rank options for different weapon types:
+
+include::axe.adoc[leveloffset=+1]
+include::bow.adoc[leveloffset=+1]
+include::dagger.adoc[leveloffset=+1]
+include::mace.adoc[leveloffset=+1]
+include::one_handed_sword.adoc[leveloffset=+1]
+include::spear.adoc[leveloffset=+1]
+include::two_handed_sword.adoc[leveloffset=+1]

@@ -1,0 +1,14 @@
+= Spear
+
+Primary skill is <<strength,Strength>>, <<two-handed>>. Base damage is 3.
+
+== Rank I
+- <<zone-of-control,Zone of Control>> - Control the zone in front of you (line).
+- Lunge - Perform a special <<attack>> that allows you to strike an enemy in the same zone as you, even if they are outside your normal reach. Costs 1 EP.
+
+== Rank II
+- <<piercing-strike,Piercing Strike>> - Ignore 1 point of armor when attacking for a price of 1 EP.
+- <<zone-of-control,Zone of Control>> - Expand the zone of control to a 90-degree arc.
+- Lunge - Increase the damage of the lunge attack by 1.
+- Lunge - Enhance your lunge action, allowing you to move to an adjacent zone as part of the action. This is only possible if no enemies are adjacent to you, you can move, and you are not grappling an enemy.
+- Topple - A heavy attack that makes the enemy prone instead of causing damage.

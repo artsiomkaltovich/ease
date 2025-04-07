@@ -1,0 +1,17 @@
+= Mace
+
+Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed>> or <<two-handed>>.
+
+== Damage
+- One-Handed: 2 for the main attack, 1 for the off-hand attack.
+- Two-Handed: 3.
+
+== Rank I
+- <<push,Push>>
+- <<powerful-attack,Powerful Attack>>
+- Armor Breaker - If the enemy blocks your attack with an armor, they must spend twice as many <<item-use-token,item use tokens>>.
+
+== Rank II
+- Powerful Attack - Increase the damage by 1, leaving the EP cost unchanged.
+- <<push,Push>> - Increase the distance the enemy is pushed back.
+- <<stun,Stun>> - Instead of making a damage your attack stun target for 1 action.

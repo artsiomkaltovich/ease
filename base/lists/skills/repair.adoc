@@ -3,7 +3,7 @@
 The ability to fix broken or damaged equipment and structures. The primary stat is <<obs, Observation>>.
 
 == Rank 0
-- Repair: Outside of combat, repair *half* <<item-usage-token, usable tokens>> per hour on a success. An item can only be repaired once per day.
+- Repair: Outside of combat, repair *half* <<item-use-token, use tokens>> per hour on a success. An item can only be repaired once per day.
 
 == Rank I
 - Repair: As an action, spend 1 EP to repair *one* usable token of an item. Outside of combat, repair *all* usable tokens per hour on a success or *half* of the tokens on a failure. An item can only be repaired once per day.

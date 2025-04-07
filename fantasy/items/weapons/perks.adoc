@@ -1,0 +1,67 @@
+= Weapon Perks
+
+// == [[rapid-fire]]Rapid Fire
+// Fires multiple arrows in quick succession, making 2 attacks instead of one. Costs 1 EP.
+
+== [[aim]]Aim
+Reduces the penalty of your next attack by 1 die.
+
+== [[armor-breaker]]Armor Breaker
+If the enemy blocks your attack with armor, they must spend twice as many <<item-use-token,item use tokens>>.
+
+== [[cleave]]Cleave N
+Hits *N* adjacent enemies in a single swing. Each enemy must be within the weapon's range to you and to each other.
+
+== [[demoralizing-blow]]Demoralizing Blow
+If an attack exceeds the enemy's difficulty by at least 6, it causes the target or one enemy in the same zone to become frightened.
+
+== [[disarm]]Disarm
+Make a Strength check to force an enemy to drop their weapon.
+
+== [[fix-on]]Fix On
+Your next attack ignores the target's cover.
+
+== [[flank]]Flank
+Move to a position behind an enemy. If you attack from behind, gain +1 damage to your attack roll. Spend 1 EP.
+
+== [[grub-with-weapon]]Grub with a Weapon
+<<action-variety,Variety>> of Grapple. Grabs an enemy without requiring a free hand.
+
+== [[long-shot]]Long Shot
+Allows a ranged attack at extended distance (+1 zone) at the cost of 1 EP.
+
+== [[parry]]Parry N
+Blocks an incoming attack, reducing damage by *N*.
+
+== [[pierce]]Pierce N
+A powerful attack that ignores *N* points of armor and shields.
+
+== [[powerful-attack]]Powerful Attack
+When landing a successful attack, you can expose the enemy's weakness and deal 1 extra damage by spending 1 EP.
+
+== [[push]]Push
+On a successful attack, you can push an enemy back.
+
+== [[quick-stab]]Quick Stab
+Spend a short attack to make an additional attack.
+
+== [[reliable-strike]]Reliable Strike
+Spend 1 EP to make a roll with a result of **7**. This cannot be used if your check pool has no dice.
+
+== [[shield-breaker]]Shield Breaker
+If the enemy blocks your attack with a shield, they must spend twice as many <<item-use-token,item use tokens>>.
+
+== [[stun]]Stun N
+Temporarily stuns the target for *N* rounds.
+
+== [[throw]]Throw
+Throwing a weapon causes normal damage.
+
+== [[topple]]Topple
+A heavy attack that makes the enemy prone.
+
+== [[unexpected-attack]]Unexpected Attack
+Perform an <<attack,attack>> action using a <<stealth,Stealth>> check instead of a weapon attack check. On a success, the target cannot block the damage from the attack.
+
+== [[zone-of-control]]Zone of Control
+Wave and brandish your weapon in a threatening manner. You can make an attack against *any* enemy that enters your zone.

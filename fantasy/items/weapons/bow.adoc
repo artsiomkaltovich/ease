@@ -1,0 +1,15 @@
+= Bow
+
+Primary skill is <<obs,Observability>>, <<ranged>>.
+
+== Damage
+1 if attacking an enemy in the same zone, 2 otherwise.
+
+== Rank I
+- <<aim,Aim>>
+- <<long-shot,Long Shot>> - Perform a ranged attack at an extended distance (+1 zone) by spending 1 EP.
+
+== Rank II
+- <<fix-on,Fix On>> - Requires the *Aim* perk to unlock this option.
+- <<pinning-shot,Pinning Shot>> - Immobilizes the target during this action for a cost of 1 EP.
+- <<long-shot,Long Shot>> - Extends the range by an additional zone.

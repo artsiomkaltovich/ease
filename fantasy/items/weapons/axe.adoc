@@ -1,0 +1,20 @@
+= Axe
+
+Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed>> or <<two-handed>>.
+
+== Damage
+- One-Handed: 2 for the main attack, 1 for the off-hand attack.
+- Two-Handed: 3.
+
+== Rank I
+- <<push,Push>>
+- <<powerful-attack,Powerful Attack>>
+- Grub With a Weapon - When wielding an Axe two-handed, you can grapple an enemy without requiring a free hand. While grappling an enemy, you cannot use the weapon to attack.
+- Throw: Throwing weapon cause normal damage.
+- <<cleave,Cleave>> - Attack up to *two* adjacent enemies in a single swing.
+- Shield Breaker - If the enemy blocks your attack with a shield, they must spend twice as many <<item-use-token,item use tokens>>.
+
+== Rank II
+- <<push,Push>> - Increase the distance the enemy is pushed back.
+- <<topple,Topple>> - Requires the *Push* perk. A heavy attack that makes the enemy prone.
+- <<cleave,Cleave>> - Attack one additional enemy.

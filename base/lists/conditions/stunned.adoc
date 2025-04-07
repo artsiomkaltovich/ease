@@ -1,0 +1,4 @@
+[[stunned]]
+= Stunned
+
+Stunned creatures can not act.
