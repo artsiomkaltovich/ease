@@ -1,22 +1,22 @@
 = Fantasy Roleplaying Game System
+:doctype: book
 :toc:
 :toc-title: Table of Contents
 :toclevels: 2
-:no-chapter-page-breaks:
 
 include::../base/preamble.adoc[leveloffset=+1]
 include::../base/character/index.adoc[leveloffset=+1]
 include::../base/tests/index.adoc[leveloffset=+1]
-include::../base/fight/index.adoc[leveloffset=+1]
+include::../base/combat/index.adoc[leveloffset=+1]
 include::../base/items/index.adoc[leveloffset=+1]
 include::items/magic_items.adoc[leveloffset=+1]
-include::items/weapons/perks.adoc[leveloffset=+2]
-include::items/weapons/index.adoc[leveloffset=+2]
 include::../base/etc/index.adoc[leveloffset=+1]
 
-== Lists
-include::../base/lists/skills/index.adoc[leveloffset=+2]
-include::lists/skills/index.adoc[leveloffset=+2]
-include::../base/lists/conditions/index.adoc[leveloffset=+2]
-include::lists/conditions/index.adoc[leveloffset=+2]
+== The Adventure Arsenal
+include::../base/arsenal/skills/index.adoc[leveloffset=+2]
+include::arsenal/skills/index.adoc[leveloffset=+2]
+include::../base/arsenal/conditions/index.adoc[leveloffset=+2]
+include::arsenal/conditions/index.adoc[leveloffset=+2]
+include::arsenal/weapons/perks.adoc[leveloffset=+2]
+include::arsenal/weapons/index.adoc[leveloffset=+2]
 include::../base/optional/index.adoc[leveloffset=+1]

@@ -1,4 +1,4 @@
-= Lists
+= The Adventure Arsenal
 
 //include::actions.adoc[leveloffset=+1]
 include::skills/index.adoc[leveloffset=+1]

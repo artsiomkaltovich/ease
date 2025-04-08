@@ -1,16 +1,16 @@
 = Roleplaying Game System
+:doctype: book
 :toc:
 :toc-title: Table of Contents
 :toclevels: 2
-:no-chapter-page-breaks:
 
 include::preamble.adoc[leveloffset=+1]
 include::character/index.adoc[leveloffset=+1]
 include::tests/index.adoc[leveloffset=+1]
-include::fight/index.adoc[leveloffset=+1]
+include::combat/index.adoc[leveloffset=+1]
 include::items/index.adoc[leveloffset=+1]
 include::etc/index.adoc[leveloffset=+1]
-include::lists/index.adoc[leveloffset=+1]
+include::arsenal/index.adoc[leveloffset=+1]
 include::optional/index.adoc[leveloffset=+1]
 
 // feats
