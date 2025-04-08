@@ -21,4 +21,4 @@ Different actions can be performed within the same round; however, this does not
 During the decision phase of a round, players have one minute to decide their actions. During this time, the master determines the actions of non-player characters (NPCs). After this phase, players declare their actions, and the master resolves the round.
 
 Players can specify triggers and conditions for their actions. For example, a player might declare, "I will attack creature A if it moves; otherwise, I will attack creature B." Significant changes in the battlefield, such as a wall collapsing, may alter the planned actions of players and NPCs. The master has the discretion to allow or disallow such changes.
-Such decisions take into account the suddenness of the change, the character's awareness of it, and the character's *speed* and *perception*.
+Such decisions take into account the suddenness of the change, the character's awareness of it, and the character's <<spd, *speed*>> and <<obs, *observability*>>.

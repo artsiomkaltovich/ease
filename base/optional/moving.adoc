@@ -5,4 +5,4 @@ For players who prefer a more tactical approach to movement, the battlefield or 
 - Moving to a horizontally or vertically adjacent square costs 2 movement points.
 - Moving to a diagonally adjacent square costs 3 movement points.
 
-The movement cost may increase if the square is considered difficult terrain. A creature has a number of movement points equal to its Speed (SPD) attribute.
+Movement costs may increase if a square is considered difficult terrain. A creature's total movement points are calculated as 10 plus twice its <<spd, Speed>> value.

@@ -1,6 +1,6 @@
 = Zones
 
-The battlefield is divided into distinct zones. A character's position within a zone is significant; zones may contain obstacles such as rocks, bushes, or other terrain features. Positioning behind these obstacles can provide cover from enemies, while being exposed leaves you vulnerable.
+The battlefield is divided into distinct zones. A character's position within a zone is significant; zones may contain obstacles such as rocks, bushes, or other terrain features. Positioning behind these obstacles can provide cover from enemies, while positioning in front of them leaves you vulnerable.
 
 Movement within the same zone is considered a short action. Stepping into an adjacent zone from the border of your current zone is also a short action. However, moving to a new zone from any other point within the current zone requires a full action.
 

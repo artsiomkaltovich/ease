@@ -1,3 +1,4 @@
+[[throwing]]
 = Throwing
 Proficiency in accurately hurling objects or weapons. Primary skill is <<str, Strength>>.
 

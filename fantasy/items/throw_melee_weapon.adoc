@@ -1,0 +1,3 @@
+= Throwing Melee Weapons
+
+The character can still throw melee weapons that are not ordinarily throwable by using the <<throwing>> skill. The damage of such an attack is half the melee damage of the weapon.
