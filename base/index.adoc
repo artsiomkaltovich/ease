@@ -14,8 +14,6 @@ include::arsenal/index.adoc[leveloffset=+1]
 include::optional/index.adoc[leveloffset=+1]
 
 // feats
-// fire/ice/electricity
-// poison/acid/oil/
 // smoke/steam
 // blood as a an element
 // throwing melee weapons
