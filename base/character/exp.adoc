@@ -1,7 +1,7 @@
 [[experience-points]]
 = Experience Points
 
-The starting experience points (**XP**), as well as HP and EP for a character, are determined by the story. It is recommended to use *2-4* as starting values. During a session, a character receives **2 XP**: one during the mid-session break and one at the end of the session. XP can be used to increase the skill or to acquire a new skill. XP not only represents the experience of the characters but also the material rewards, loot and possessions they acquire. Therefore, XP can be exchanged to buy additional <<gear>> or items such as homes, horses, ships, etc.
+The starting experience points (**XP**), as well as HP and EP for a character, are determined by the story. It is recommended to use *2-4* as starting values. During a session, a character receives **2 XP**: one during the mid-session break and one at the end of the session. XP can be used to increase the skill or to acquire a new skill. XP not only represents the experience of the characters but also the material rewards, loot and possessions they acquire. Therefore, XP can be exchanged to buy additional <<gear,gear>> or items such as homes, horses, ships, etc.
 
 == Primary and Dependent Skills
 
@@ -9,4 +9,4 @@ Some skills depend on other skills or <<stats, stats>>. For example, attacking w
 
 == Skill Ranks And Perks
 
-Each skill has a rank. When a character reaches a new rank, the player can spend 1 XP to unlock a new <<perk>>. The available perks are listed in the skill description. A character cannot have more chosen perks than the skill's rank. Each perk has a rank requirement, meaning the character must reach the required rank to unlock it. However, it is not mandatory to choose a perk immediately upon reaching the required rank; perks from previous ranks can also be selected instead.
+Each skill has a rank. When a character reaches a new rank, the player can spend 1 XP to unlock a new <<perk,perk>>. The available perks are listed in the skill description. A character cannot have more chosen perks than the skill's rank. Each perk has a rank requirement, meaning the character must reach the required rank to unlock it. However, it is not mandatory to choose a perk immediately upon reaching the required rank; perks from previous ranks can also be selected instead.
