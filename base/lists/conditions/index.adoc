@@ -3,6 +3,8 @@
 include::blind.adoc[leveloffset=+1]
 include::charmed.adoc[leveloffset=+1]
 include::frightened.adoc[leveloffset=+1]
+include::grabbed.adoc[leveloffset=+1]
+include::held.adoc[leveloffset=+1]
 include::poisoned.adoc[leveloffset=+1]
 include::stunned.adoc[leveloffset=+1]
 include::unconscious.adoc[leveloffset=+1]

@@ -17,3 +17,11 @@ include::optional/index.adoc[leveloffset=+1]
 // poison/acid/oil/
 // smoke/steam
 // blood as a an element
+// throwing melee weapons
+// simplify skill rank
+// start HP and speed
+// Extended Check - rename
+// ositioning behind these obstacles can provide cover from enemies, while being exposed leaves you vulnerable. - refrase
+// vernut' moves
+// fix character’s speed and perception
+// add philosophy

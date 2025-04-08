@@ -1,0 +1,4 @@
+[[grabbed]]
+= Grabbed
+
+The *Grabbed* condition indicates that a target is being held or restrained by another creature. A grabbed target cannot move and suffers a *-1* dice pool penalty to other physical activities. The attacker can release the grabbed target as a <<short-action,short action>>. The grabbed target can attempt to break free by succeeding on a <<strength>> check. If the attacker becomes <<stunned>>, <<unconscious>>, or loses the arm or item grabbing the target, the grabbed creature is released.

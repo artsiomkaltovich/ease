@@ -1,6 +1,6 @@
 = Dagger
 
-Primary skill is <<dexterity,Dexterity>>, <<one-handed>>.
+Primary skill is <<spd,Speed>>, <<one-handed>>.
 
 == Damage
 1 for the main attack, 0 for the off-hand attack.

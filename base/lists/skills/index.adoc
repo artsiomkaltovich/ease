@@ -10,7 +10,6 @@ Lore skills are a special type of skill that represents knowledge about specific
 
 == Skill List
 
-include::first_aid.adoc[leveloffset=+2]
 include::agility.adoc[leveloffset=+2]
 include::endurance.adoc[leveloffset=+2]
 include::first_aid.adoc[leveloffset=+2]
@@ -25,3 +24,4 @@ include::strength.adoc[leveloffset=+2]
 include::survival.adoc[leveloffset=+2]
 include::throwing.adoc[leveloffset=+2]
 include::trade.adoc[leveloffset=+2]
+include::unarmed.adoc[leveloffset=+2]

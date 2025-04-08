@@ -1,8 +1,8 @@
 = Actions
 
-A fight is composed of a series of rounds. During each round, every creature can perform up to two different *full actions*. Additionally, each creature is allowed one short action per round.
+A fight is composed of a series of rounds. During each round, every creature can perform up to two different [[full-action]]*full actions*. Additionally, each creature is allowed one short action per round.
 
-*Short actions* are quick maneuvers, such as stowing a weapon or reloading a light crossbow, while full actions involve more complex or time-consuming tasks, such as attacking.
+[[short-action]]*Short actions* are quick maneuvers, such as stowing a weapon or reloading a light crossbow, while full actions involve more complex or time-consuming tasks, such as attacking.
 
 [[action-variety]]
 == Action Varieties

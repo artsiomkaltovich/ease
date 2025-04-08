@@ -8,3 +8,4 @@ Represents physical power and the ability to lift or move heavy objects.
 
 == Rank II
 - Grapple: You can grapple *one* additional creature. You need a free hand, but only one hand is required for both creatures.
+- Damage Increase: Your strength based attack damage increases by 1 for both the main attack and off-hand attacks.

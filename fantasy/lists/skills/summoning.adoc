@@ -1,0 +1,15 @@
+[[summoning]]
+= Summoning
+Proficiency in summoning creatures or entities to aid in combat or other tasks. The primary skill is <<lore-arcana, Lore: Arcana>>. Every summoned creature last until the end of the day or until its HP drops to 0.
+
+== Rank I
+- [[summon-gear]]Summon Gear: Perform a skill check to summon a set of gear, including armor and a melee weapon of your choice. The armor blocks 1 damage point for free and disappears after blocking damage or at the end of the day. The weapon deals 1 damage point and vanishes along with the armor. You can choose to summon a tool rather then a weapon and armor. The tool can be used to perform a skill check, but it cannot be used as a weapon. The tool disappears after use or at the end of the day.
+- [[summon-animal]]Summon Small Beast: Perform a skill check to summon a small beast, such as a mouse or bird. The beast cannot attack or communicate telepathically but can understand your gestures and words, following them to the best of its ability. It has 1 HP.
+- [[banish-summons]]Banish Summons: Perform a skill check to destroy a summoned creature or entity. This ability affects summoned creatures of any character, causing them to vanish immediately.
+- [[improve-summon]]Improve Summon: Perform a skill check to enhance the stats of a summoned creature or entity. The target's HP, EP, and damage are increased by 1. This ability can be used on any summoned creature, including those summoned by other characters.
+
+== Rank II
+- Summon Gear: Improve your gear to block 2 damage points and deal 2 damage points. You can choose to summon a ranged weapon, which can attack any creature in the same or an adjacent zone.
+- Summon Medium Beast: Perform a skill check to summon a medium beast, such as a dog or eagle. The beast can attack and communicate telepathically with you. It has 2 HP, 2 EP, and deals 2 damage. It can attack in melee. You must have the <<summon-animal, Summon Small Beast>> perk to use this skill.
+- Summon Insect: Perform a skill check to summon an insect, such as a fly. The insect cannot attack but communicates telepathically with you. It has 1 HP. You must have the <<summon-animal, Summon Small Beast>> perk to use this skill.
+- Reliable Summon: You can summon a creature or entity by spending 1 EP instead of performing a skill check.

@@ -6,3 +6,4 @@ Represents dexterity and coordination, useful for tasks requiring precision. All
 
 == Rank II
 - Evade: Reduce the attack roll of enemies by 2 dice on a successful roll, or spend 1 EP to achieve the same effect without rolling.
+- Damage Increase: Your strength based attack damage increases by 1 for both the main attack and off-hand attacks.
