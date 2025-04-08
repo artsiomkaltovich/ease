@@ -2,13 +2,18 @@
 Basic medical knowledge for treating wounds and injuries. Can be used in combat. Primary stat is <<obs, Observation>>.
 
 == Rank I
-- First Aid: Restore 1 EP on success.
-- Stabilize Condition: Reduce the severity of a condition (e.g., poisoned) by one level.
-- Stabilize Condition: Reduce the duration of a condition (e.g., poisoned) by one round.
+- [[quick-patch]]Quick Patch: Restore 1 EP on success. Requires 1 EP.
+- [[stabilize-condition]]Stabilize Condition: On a success reduce the severity of a medical condition (e.g., poisoned) by one level.
+- Stabilize Condition: On a success reduce the duration of a medical condition (e.g., poisoned) by one round.
 
-== Rank II
-- First Aid: Restore 1 EP without a roll.
-- First Aid: Restore 2 EP on success.
-- First Aid: Restore 1 health on success.
+== Rank I
+- Quick Patch: Restore 1 EP without a roll.
+- Quick Patch: Restore 2 EP on success.
+- Quick Patch: Restore 1 health on success.
 - Stabilize Condition: Further reduce the severity of a condition (e.g., poisoned) by one level.
 - Stabilize Condition: Further reduce the duration of a condition (e.g., poisoned) by one round.
+
+== Rank II
+- Quick Patch: On a success, additionally restore 1 HP. Requires any Quick Patch perk from Rank I.
+- Stabilize Condition: On a success, allow the target to ignore the effects of a condition for 1 round. Requires any Stabilize Condition perk from Rank I.
+- Stabilize Condition: On a success, provide immunity to the condition for 1 round. Immunity cannot be applied to conditions that are already in effect. Requires any Stabilize Condition perk from Rank I.
