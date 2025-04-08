@@ -4,6 +4,7 @@ The battlefield is divided into distinct zones. A character's position within a 
 
 Movement within the same zone is considered a short action. Stepping into an adjacent zone from the border of your current zone is also a short action. However, moving to a new zone from any other point within the current zone requires a full action.
 
+[[hard-to-move]]
 == Zone Effects
 
 Certain zones may impose movement restrictions, such as slippery or uneven terrain. These zones can increase the cost of movement. For example:

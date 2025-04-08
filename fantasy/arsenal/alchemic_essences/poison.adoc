@@ -1,0 +1,10 @@
+[[poison]]
+= Poison
+
+Poison is a type of alchemic essence designed to harm or debilitate living creatures. It is commonly used in traps, weapons, or potions to deliver its toxic effects.
+
+== Effects of Poison
+
+- **Toxic Damage:** When a creature is exposed to poison, it takes poison damage every round the effect persists. Healing is impossible until the poison is neutralized.
+
+- **Enhanced by Frost:** Exposure to frost slows down biological processes in living creatures, doubling the duration of the poison's effects.

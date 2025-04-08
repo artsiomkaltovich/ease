@@ -1,0 +1,11 @@
+[[lightning]]
+= Lightning
+
+Lightning is a fast and electrifying element, often associated with speed, precision, and raw energy. It can strike opponents with incredible force and disrupt their actions. Lightning magic is renowned for its ability to deal instantaneous damage and chain between multiple targets.
+
+== Effects of Lightning
+
+- **Chain Lightning:** Lightning can arc between multiple targets if they are close enough to each other. The damage decreases with each subsequent target, and the chain ends if no valid target is within range. An <<Acid>> surface enhances lightning's ability to spread.
+- **Electric Aftershock:** Residual electric charges can disrupt the target's nervous system or internal mechanisms, potentially causing a loss of EP or inducing <<stunned>> conditions. If the target is covered by acid the effect worsens.
+
+The game master should vividly describe the size of the lightning, its effects, and the number of characters or zones it impacts or could impact. The outcomes of lightning can vary depending on the environment and the intensity of the magic employed.

@@ -1,0 +1,14 @@
+[[acid]]
+= Acid
+
+Acid is a type of alchemic essence used in various applications, including the creation of potions and elixirs. Known for its corrosive properties, it is often employed in alchemical experiments to break down substances.
+
+== Effects of Acid
+
+- **Dissolves Gear:**  
+    * If a character is exposed to acid, they must mark an <<item-use-token, item use token>> as defined by the acid damage.  
+    * If the character has no armor or all armor use tokens are marked, they take the damage directly.
+
+- **Electrical Conductivity:**  
+    * Acid is electrically conductive, allowing it to spread more effectively. If a creature is covered in acid, all lightning damage they receive is increased by the acid's damage. 
+    * If there is an acid surface and it is struck by lightning, the lightning damage spreads to every character on the same surface.

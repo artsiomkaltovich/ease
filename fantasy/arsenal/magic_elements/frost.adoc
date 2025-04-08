@@ -1,0 +1,15 @@
+[[frost]]
+= Frost
+
+Frost is a chilling and immobilizing element, often associated with cold, ice, and stillness. It can be used to hinder opponents, create barriers, and control the battlefield. Frost magic is renowned for its ability to slow enemies and reduce their effectiveness in combat.
+
+== Effects of Frost
+
+- **Freezing:** 
+    * Frost can freeze objects and creatures, reducing their <<spd,speed>> and potentially immobilizing them. 
+    * It can affect biological processes, causing creatures to lose the ability to perform a <<short-action,short action>> or one of their two <<full-action,full actions>>.
+    * Frozen creatures may need to succeed on a strength check to break free. The severity of the freezing effect depends on the intensity of the frost magic used.
+    * Causes <<poison>> to last twice as long.
+- **Snow and Wind:** Frost can create icy surfaces, making it difficult for creatures to maintain their footing. Creatures moving across these surfaces are subject to <<hard-to-move, zone effects>>. The master describes which effects are in play when frost is used.
+
+The game master should describe the size of the frost, the area it affects, and the damage and effects it causes. The effects of frost can vary based on the environment and the intensity of the magic used.

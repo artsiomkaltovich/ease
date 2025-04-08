@@ -1,0 +1,10 @@
+[[oil]]
+= Oil
+
+Oil is a type of alchemic essence commonly used as a fuel or lubricant. It is highly flammable and often utilized in alchemical experiments or as a weapon enhancer.
+
+== Effects of Oil
+
+- **Flammable:** If a character or object is covered in oil, any fire will ignite it. The damage caused by the burning oil decreases by 1 each round until it reaches 0, at which point all the oil is burned.
+
+- **Slippery Surface:** Oil can be used to create a slippery surface. Creatures moving through the area must succeed on a <<agility, Agility>> check or fall prone.

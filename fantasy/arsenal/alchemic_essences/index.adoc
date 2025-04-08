@@ -1,0 +1,5 @@
+= Alchemic Essences
+
+include::acid.adoc[leveloffset=+1]
+include::oil.adoc[leveloffset=+1]
+include::poison.adoc[leveloffset=+1]

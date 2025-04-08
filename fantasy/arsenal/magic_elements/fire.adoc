@@ -1,0 +1,11 @@
+[[fire]]
+= Fire
+
+Fire is a powerful and destructive element, often associated with heat, light, and energy. It can be harnessed for both offensive and defensive purposes in combat. Fire magic is renowned for its ability to deal damage over time and create hazardous environments.
+
+== Effects of Fire
+
+- **Burning Damage:** Fire can ignite objects and creatures, causing them to take damage over time. This damage is typically dealt at the start of each round until the fire is extinguished. If no additional flammable material is present, the fire consumes its fuel, reducing the damage by 1 each round until it reaches 0, at which point the fire is extinguished. See <<oil>> for more details.
+- **Ignition:** Fire can ignite flammable objects and surfaces, causing it to spread. The same rules as in the previous point apply to the newly affected areas.
+
+The game master should describe the size of the fire, the area it affects, and the damage it causes.
