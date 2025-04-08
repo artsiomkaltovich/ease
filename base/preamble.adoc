@@ -1,0 +1,30 @@
+= Preamble
+
+== Why a New System?
+
+There are countless role-playing systems out there, yet debates (and sometimes even holy wars) persist about which one is the best. If you've already found your answer, I'm happy for you! This system is another attempt to create the ideal system for those still searching.
+
+== What's Wrong with Existing Systems?
+
+Some systems are overly complex, requiring extensive rulebooks and significant time to calculate each turn.
+
+Narrative systems can sometimes overwhelm players with options, causing paralysis during character creation and imbalances during gameplay.
+
+Other systems limit players to a selection of predefined "lunch boxes" instead of offering the freedom to choose from the entire menu.
+
+== Philosophy
+
+- Be as simple as possible, but not simpler.
+- Provide choices, not mathematical problems.
+- We are people, not robots; we don't like calculations.
+- Well, adding 12 to 6 is manageable.
+- Provide a lot of choices, but don't overwhelm players.
+- If something can be removed, remove it.
+- If something can't be removed, think again.
+- If something is not clear, clarify it.
+- If it is still not clear, remove it.
+- Prefer the rule of thumb to the rule of law.
+- Prefer fun over realism, but not always.
+- Prefer realism over complexity.
+- Players know their characters better than the master.
+- The master knows the world better than the players, but not their characters.

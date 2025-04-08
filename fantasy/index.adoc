@@ -4,6 +4,7 @@
 :toclevels: 2
 :no-chapter-page-breaks:
 
+include::../base/preamble.adoc[leveloffset=+1]
 include::../base/character/index.adoc[leveloffset=+1]
 include::../base/tests/index.adoc[leveloffset=+1]
 include::../base/fight/index.adoc[leveloffset=+1]
