@@ -3,6 +3,7 @@ Measures stamina and the ability to sustain physical effort over time.
 
 == Rank I
 - [[resist-condition]]Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *one* level for 1 round on a successful roll.
+- [[not-so-difficult]]Not So Difficult: 1 <<rest, exhaustion>> point has no effect on you. If you have 2 exhaustion points, your maximum EP is reduced by only 1, and so on.
 
 == Rank II
 - Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *one* level for 1 round without requiring a roll.

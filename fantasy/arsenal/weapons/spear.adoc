@@ -5,6 +5,7 @@ Primary skill is <<strength,Strength>>, <<two-handed>>. Base damage is 3.
 == Rank I
 - <<zone-of-control,Zone of Control>> - Control the zone in front of you (line).
 - Lunge - Perform a special <<attack>> that allows you to strike an enemy in the same zone as you, even if they are outside your normal reach. Costs 1 EP.
+- Throw: Throwing weapon cause normal damage.
 
 == Rank II
 - <<piercing-strike,Piercing Strike>> - Ignore 1 point of armor when attacking for a price of 1 EP.

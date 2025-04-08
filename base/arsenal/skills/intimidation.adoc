@@ -7,7 +7,8 @@ The ability to influence others through fear or threats. The primary attribute f
 
 == Rank II
 - Intimidate: You can choose up to *two* creatures, provided they are in the same zone.
-- Intimidate: An frightened creature cannot move during this round.
+- Intimidate: An frightened creature cannot move during this round. 
+- Intimidate: An frightened creature drops its weapon.
 
 == Rank III
-- Intimidate: An frightened creature loses its current action and instead flees from you.
+- Intimidate: An frightened creature loses its current action, drops the weapons and instead flees from you.

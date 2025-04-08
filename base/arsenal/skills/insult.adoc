@@ -1,5 +1,5 @@
 = Insult
-The art of delivering cutting remarks to provoke or demoralize others. Primary stat is <<chr, Charisma>>.
+The art of delivering cutting remarks to provoke others. Primary stat is <<chr, Charisma>>.
 
 == Rank I
 - [[provoke]]Provoke: Choose *one* creature. On a success, this creature is provoked, loses its current action, and instead tries to harm you.
