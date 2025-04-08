@@ -2,9 +2,15 @@
 
 Characters possess various skills, each with a [[skill-value]]*value* ranging from 0 to 7. Skills are 
 categorized into five [[rank]]*ranks* as outlined in the table below. Upon reaching a new rank, 
-players can select a <<perk, *perk*>> to enhance their abilities or unlock new actions.
+players can select a [[perk]]*perk* to enhance their abilities or unlock new actions.
 For example, improving the <<medicine, medicine>> skill allows characters to unlock perks that aid in treating and diagnosing more complex diseases and conditions, grant positive conditions or improve resistances, or even inflict harm under the guise of treatment.
 See more information <<experience-points,Experience Points>> section.
+
+Every weapon and armor type, as well as spells and certain other abilities like understanding a foreign language, are also considered skills.
+
+== Lore Skills
+
+Lore skills are a special type of skill that represents knowledge about specific subjects. Lore skills are typically associated with a particular field of study or expertise, such as history, religion, nature, geography, or arcana.
 
 [%unbreakable] 
 ====

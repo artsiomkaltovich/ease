@@ -1,27 +1,17 @@
 = Skills and Perks
 
-Some skills depend on other skills or <<stats, stats>>. For example, attacking with a heavy weapon requires the Strength skill. The <<skill-value, skill value>> of the dependent skill cannot exceed the skill value of the primary skill.
-
-Every weapon and armor type, as well as spells and certain other abilities like understanding a foreign language, are also considered skills.
-
-== Lore Skills
-
-Lore skills are a special type of skill that represents knowledge about specific subjects. Lore skills are typically associated with a particular field of study or expertise, such as history, religion, nature, geography, or arcana.
-
-== Skill List
-
-include::agility.adoc[leveloffset=+2]
-include::endurance.adoc[leveloffset=+2]
-include::first_aid.adoc[leveloffset=+2]
-include::insult.adoc[leveloffset=+2]
-include::intimidation.adoc[leveloffset=+2]
-include::medicine.adoc[leveloffset=+2]
-include::performance.adoc[leveloffset=+2]
-include::persuasion.adoc[leveloffset=+2]
-include::repair.adoc[leveloffset=+2]
-include::stealth.adoc[leveloffset=+2]
-include::strength.adoc[leveloffset=+2]
-include::survival.adoc[leveloffset=+2]
-include::throwing.adoc[leveloffset=+2]
-include::trade.adoc[leveloffset=+2]
-include::unarmed.adoc[leveloffset=+2]
+include::agility.adoc[leveloffset=+1]
+include::endurance.adoc[leveloffset=+1]
+include::first_aid.adoc[leveloffset=+1]
+include::insult.adoc[leveloffset=+1]
+include::intimidation.adoc[leveloffset=+1]
+include::medicine.adoc[leveloffset=+1]
+include::performance.adoc[leveloffset=+1]
+include::persuasion.adoc[leveloffset=+1]
+include::repair.adoc[leveloffset=+1]
+include::stealth.adoc[leveloffset=+1]
+include::strength.adoc[leveloffset=+1]
+include::survival.adoc[leveloffset=+1]
+include::throwing.adoc[leveloffset=+1]
+include::trade.adoc[leveloffset=+1]
+include::unarmed.adoc[leveloffset=+1]
