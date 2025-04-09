@@ -3,7 +3,7 @@
 Primary skill is <<strength,Strength>>, <<one-handed>>. Can attack only adjusted targets.
 
 == Damage
-2 for main attack and 1 for off-hand attack
+2 for main attack and 1 for off-hand attack.
 
 == Rank I
 - <<parry,Parry>> - You can block an incoming attack, reducing damage by 1.
