@@ -2,7 +2,9 @@
 
 == Player Character Difficulty
 
-The difficulty for player characters is *7* by default. This means that a player must roll a 7 or higher to succeed in their action targeting another player character, e.g., to treat a wound or inspire a character. The same difficulty applies to attacks from enemies targeting players.
+When an NPC or enemy targets a player character, the general rule is that the player makes a roll to oppose it and surpass <<enemies, the difficulty>>. An exception to this rule occurs when the player is targeted by another player character (whether through positive or negative actions) or attacked by NPCs. The latter exception is intended to speed up the combat.
+
+The default difficulty for player characters is *7*. This means a player must roll a 7 or higher to succeed in actions targeting another player character, such as treating a wound or inspiring a character. The same difficulty applies to enemy attacks targeting players.
 
 == Rounding
 
