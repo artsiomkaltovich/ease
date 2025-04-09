@@ -28,4 +28,5 @@ include::arsenal/weapons/index.adoc[leveloffset=+2]
 
 include::../base/optional/index.adoc[leveloffset=+1]
 
+// sleep in armor rules
 // magic system

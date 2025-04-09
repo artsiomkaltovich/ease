@@ -1,5 +1,9 @@
 = General Rules
 
+== Player Character Difficulty
+
+The difficulty for player characters is *7* by default. This means that a player must roll a 7 or higher to succeed in their action targeting another player character, e.g., to treat a wound or inspire a character. The same difficulty applies to attacks from enemies targeting players.
+
 == Rounding
 
 When performing arithmetic division, rounding follows standard mathematical rules. For example, 2 divided by 3 rounds to 1, and 2 divided by 4 also rounds to 1.
