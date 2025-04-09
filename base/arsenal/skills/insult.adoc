@@ -1,3 +1,4 @@
+[[insult]]
 = Insult
 The art of delivering cutting remarks to provoke others. Primary stat is <<chr, Charisma>>.
 
@@ -6,7 +7,7 @@ The art of delivering cutting remarks to provoke others. Primary stat is <<chr, 
 
 == Rank II
 - Provoke: You can choose up to *two* creatures, who must be in the same zone.
-- Provoke: An insulted creature can't move away from you this round.
+- Provoke: A provoked creature can't move away from you this round.
 
 == Rank III
 - Provoke: You can choose up to *three* creatures, who must be in the same zone.
