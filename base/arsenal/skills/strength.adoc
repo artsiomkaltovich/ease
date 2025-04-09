@@ -3,6 +3,7 @@
 Represents physical power and the ability to lift or move heavy objects.
 
 These actions are performed in combat and require a successful skill check. The target must be adjusted to the character performing the action:
+
 - [[grapple]]Grapple: You can attempt to grapple a creature. On a success, the target is <<held,held>>. The grappler should have a free hand all time to maintain the hold.
 
 == Rank I

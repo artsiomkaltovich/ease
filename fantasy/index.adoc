@@ -16,6 +16,7 @@ include::items/magic_items.adoc[leveloffset=+2]
 include::../base/etc/index.adoc[leveloffset=+1]
 
 == The Adventure Arsenal
+include::../base/arsenal/combat_actions.adoc[leveloffset=+2]
 include::../base/arsenal/skills/index.adoc[leveloffset=+2]
 include::arsenal/skills/index.adoc[leveloffset=+2]
 include::arsenal/alchemic_essences/index.adoc[leveloffset=+2]
