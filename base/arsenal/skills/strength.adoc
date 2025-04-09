@@ -2,6 +2,9 @@
 = Strength
 Represents physical power and the ability to lift or move heavy objects.
 
+These actions are performed in combat and require a successful skill check. The target must be adjusted to the character performing the action:
+- [[grapple]]Grapple: You can attempt to grapple a creature. On a success, the target is <<held,held>>. The grappler should have a free hand all time to maintain the hold.
+
 == Rank I
 - [[topple]]Topple: As an action, you can attempt to topple a creature. On a success, the target is knocked prone.
 - Grapple: You can attempt to grapple a creature even if you don't have a free hand. You can grapple *one* creature at a time.

@@ -2,4 +2,4 @@
 [[held]]
 = Held
 
-Held creatures cannot move farther away from the attacker than the attacker's reach. To break free, the creature must succeed on a <<strength>> check. The attacker can release the held creature as a <<short-action,short action>>. If the attacker becomes <<stunned>>, <<unconscious>>, or loses the arm or item holding the target, the held creature is released.
+Held creatures cannot move farther away from the attacker than the attacker's reach. To break free, the creature must succeed on a <<strength,Strength>> check. The attacker can release the held creature as a <<short-action,short action>>. If the attacker becomes <<stunned>>, <<unconscious>>, or loses the arm or item holding the target, the held creature is released.

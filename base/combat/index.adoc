@@ -2,5 +2,6 @@
 
 include::actions.adoc[leveloffset=+1]
 include::hp.adoc[leveloffset=+1]
+include::enemies.adoc[leveloffset=+1]
 include::zones.adoc[leveloffset=+1]
 include::vision_and_position.adoc[leveloffset=+1]

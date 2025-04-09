@@ -4,10 +4,10 @@ The art of combat without weapons, emphasizing physical strength and technique. 
 
 == Rank I
 - [[disarm]]Disarm: Instead of making an attack or off-hand attack, you can attempt to disarm a target. On success, the target drops their weapon.
-- <<hold, Hold>>: Attempt to hold a target and attack it as a single action by spending 1 EP. On success, the target is considered held.
+- [[hold-unarmed]]<<hold, Hold>>: Attempt to hold a target and attack it as a single action by spending 1 EP. On success, the target is considered held and received a full damage from the attack. This action can't be used in the same round <<attack>> or <<grapple>> were used.
 
 == Rank II
 - Disarm: On a successful disarm attempt, you deal full damage.
 - Damage Increase: Unarmed attack damage increases by 1 for both the main attack and off-hand attacks.
 - Hold: You no longer need to spend 1 EP to use this skill.
-- <<grab, Grab>>: Attempt to grab a target and attack it as a single action by spending 1 EP. On success, the target is considered grabbed. You need *hold* perk to use this skill. If you try to grab the held target, the <<enemies, difficulty>> of this check is halved.
+- <<grab, Grab>>: Attempt to grab a target and attack it as a single action by spending 1 EP. On success, the target is considered grabbed. You need the *hold* perk to use this skill. If you try to grab a held target, the <<enemies, difficulty>> of this check is halved. This action can't be used in the same round <<attack>>, <<grapple>>, or <<hold-unarmed,hold>> were used.

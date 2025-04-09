@@ -11,12 +11,13 @@ Creatures can benefit from cover, which comes in the following types:
 [[full-cover]] 
 - **Full Cover**: The target is completely obscured by an obstacle and is considered *hidden* but *<<undetected, detected>>* if it has not moved since gaining cover.
 
-== Vision, Hidden, and Undetected Characters
+== Seen, Hidden, and Undetected Characters
 
 Seeing a target is required for certain actions and attacks. [[hidden]]Hidden characters cannot be targeted by single-target attacks or skills at range. However, adjacent targets can still be attacked based on hearing or other senses, though such attacks incur a penalty of **one** die. Hidden characters can still be affected by area-of-effect abilities.
 
 *[[undetected]] Undetected characters* — characters the attacker is unaware of — cannot be targeted by single-target or area-of-effect actions.
 
+[[pose]]
 == Crouching, Laying, Getting Up and High Ground
 
 A character's pose plays an important role, giving bonuses or penalties to their attacks and defenses. These effects depend on the poses of both the attacker and the defender, as well as their positions on the battlefield. For example, crouching behind a low wall might provide full cover, which would not work for a standing character. On the other hand, targeting a prone character from higher ground can be easier than targeting a standing one, though this advantage is not the case for flat terrain.

@@ -18,6 +18,7 @@ A standard test uses 2d6, but specific conditions may increase or decrease the n
 
 Both successful and failed tests contribute to the story's progression, making repeated attempts at the exact same action unnecessary. However, alternative actions may be attempted to achieve the same goal, considering new conditions.
 
+[[help]]
 == Helping from Other Characters
 
 If a player decides to perform a help action, they must describe what they are doing to assist. The game master will determine whether the action is genuinely helpful. If it is, add *one* die to the pool. However, some actions may be ineffective or, in rare cases, harmful, resulting in a *one* die penalty to the pool. Multiple characters can choose to assist with the same action.

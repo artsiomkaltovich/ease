@@ -1,0 +1,21 @@
+= Combat Actions
+
+== <<full-action,Full Actions>>
+
+- <<attack,Attack>>
+- <<help,Help>>
+- <<first-aid, First Aid>>
+- <<item-quick-slot,Use Item>>
+- <<grapple,Grapple>>
+- <<recognize,Recognize>>
+- <<pose,Stand up from lying down>>
+- Interact with surroundings, e.g. open or close a door
+- Pick up an item
+
+== <<short-action,Short Actions>>
+
+- Equip or Stow Item
+- Reload weapon (unless weapon description states otherwise)
+- <<pose,Change Pose>> (except standing up from lying down)
+- Change the way you hold a weapon: <<one-handed>> or <<two-handed>>
+- Drop an item

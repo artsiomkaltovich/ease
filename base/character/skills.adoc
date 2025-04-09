@@ -18,8 +18,18 @@ Upon reaching a new rank, players can select a [[perk]]*perk* to enhance their a
 For example, improving the <<medicine, medicine>> skill allows characters to unlock perks that aid in treating and diagnosing more complex diseases and conditions, grant positive conditions or improve resistances, or even inflict harm under the guise of treatment.
 See more information <<experience-points,Experience Points>> section.
 
-Every weapon and armor type, as well as spells and certain other abilities like understanding a foreign language, are also considered skills.
+Proficiency in every weapon and armor type, as well as spells and certain other abilities like understanding a foreign language, are also considered skills.
 
+[[lore]]
 == Lore Skills
 
 Lore skills are a special type of skill that represents knowledge about specific subjects. Lore skills are typically associated with a particular field of study or expertise, such as history, religion, nature, geography, or arcana.
+
+[[recognize]]
+== Recognize
+
+*Recognize* is an action that can be used to identify a creature, object, entity, or anything else, such as spells. The game master declares which skill is used for the test: usually, it is one of the <<lore, lore skills>>. On success, the player gains some information about the target. The amount of information depends on the result of the test and the game master's discretion. It can include statistics, strengths and weaknesses of a creature, spell name, effect, recognition of the country of origin of coins or coat of arms, etc. In some cases, not all information can be obtained from one test, and additional actions may be required. The game master can also decide to give false information on a critical failure.
+
+The game master should provide information that player characters are expected to know without any tests, e.g., recognize the portrait of the king or the name and location of a city of their country.
+
+Some information about the weaknesses and resistances of a creature, as well as the effects of spells or surroundings (e.g., gas in the room), can be obtained without a test or spending an action if a character has sufficient <<obs, Observation>>.

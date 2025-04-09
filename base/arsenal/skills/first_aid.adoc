@@ -1,7 +1,9 @@
+[[first-aid]]
 = First Aid
 Basic medical knowledge for treating wounds and injuries. Can be used in combat. Primary stat is <<obs, Observation>>.
 
-== Rank I
+These actions can be performed in combat and requires a successful skill check. The target must be adjusted to the character performing the action.
+
 - [[quick-patch]]Quick Patch: Restore 1 EP on success. Requires 1 EP.
 - [[stabilize-condition]]Stabilize Condition: On a success reduce the severity of a medical condition (e.g., poisoned) by one level.
 - Stabilize Condition: On a success reduce the duration of a medical condition (e.g., poisoned) by one round.
