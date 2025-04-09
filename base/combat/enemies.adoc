@@ -2,3 +2,7 @@
 = Enemies
 
 Enemies are creatures that players can encounter in the game. Each enemy has a difficulty level that players must overcome to perform actions such as attacking, disarming, or scaring them. Some enemies may be immune to certain actions, or the difficulty for specific actions (e.g., scaring) may differ from others (e.g., hitting). However, such exceptions should not be common.
+
+== Player Character Difficulty
+
+The difficulty for player characters is *7* by default. This means that a player must roll a 7 or higher to succeed in their action targeting another player character, e.g., to treat a wound or inspire a character. The same difficulty applies to attacks from enemies targeting players.

@@ -1,3 +1,4 @@
+[[stealth]]
 = Stealth
 The ability to move silently and remain undetected. The primary skill is <<agility, Agility>>.
 
