@@ -1,0 +1,6 @@
+= Spells
+
+include::arc_bolt.adoc[leveloffset=+1]
+include::elements_control.adoc[leveloffset=+1]
+include::fire_blast.adoc[leveloffset=+1]
+include::glacial_path.adoc[leveloffset=+1]

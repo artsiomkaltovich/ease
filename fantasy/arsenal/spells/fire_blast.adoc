@@ -1,0 +1,22 @@
+[[fire-blast]]
+= Fire Blast
+
+Fire Blast is a fire spell that unleashes a burst of flames flying to the target. It deals 1 damage to all units in the adjacent zone and 0 damage in the same zone. See also <<fire, Fire>>.
+
+== Rank I
+
+- [[enhanced-flames]]Enhanced Flames: The spell now deals *one* extra damage in all zones.
+- Enhanced Flames: The spell can now attack one zone farther and deals 1 base damage in that zone; damage in other zones is unaffected.
+- [[create-bonfire]]Create Bonfire: Creates a bonfire that can be used for warming up or cooking food. Creatures standing in or passing through the bonfire receive 1 damage. You can spend 1 EP during casting to increase the size of the bonfire to a space occupied by two creatures. You must spend an action to make a test each round to maintain the bonfire.
+- [[flare]]Flare: On success, temporarily blinds all units in the same zone, making them <<blind, Blind>> for 1 round. It affects allies; however, you can spend 1 EP to make them <<partially-blind, Partially Blind>> instead.
+
+== Rank II
+
+- Enhanced Flames: The spell now deals *one* extra damage in all zones.
+- [[cone-of-fire]]Cone of Fire: The spell creates a cone of fire, dealing 2 damage to all units in the cone. You can spend 1 EP to partially control the fire, reducing the damage to allied units by 1.
+- Create Bonfire: Increases damage to 2.
+- [[molten-blast]]Molten Blast: Launches molten rocks at the adjacent zone, stunning the target for 1 turn.
+- [[burning-aura]]Burning Aura: Grants the caster an aura that deals 1 damage per round to all adjacent creatures. You must spend an action to make a test each round to maintain the aura.
+- [[fire-pulse]]Fire Pulse: Sends out a pulse of fire, dealing 2 damage to two units in an adjacent zone. Requires 1 EP to cast.
+- Flare: Allows the use of Flare in an adjacent zone as well.
+// - [[eruption]]Eruption: Causes the ground in the adjacent zone to erupt, dealing 4 damage and knocking back all units.

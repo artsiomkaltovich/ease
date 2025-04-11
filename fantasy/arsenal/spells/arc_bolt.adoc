@@ -1,0 +1,16 @@
+[[acr-bolt]]
+= Arc Bolt
+
+Arc Bolt is a lightning spell that channels electrical energy to strike targets. The basic damage is 1 in the same zone and 0 in adjacent zones. The arc can jump from creature to creature in the same zone, with each jump dealing 1 less damage. The spell ends when the damage reaches 0. See also <<lightning, Lightning>>.
+
+== Rank I
+
+- [[enhanced-damage]]Enhanced Damage: *one* additional damage point.
+- [[charging-blast]]Charging Blast: Spend 1 EP. On a success, it creates a charging blast between the caster and the target. The charging blast drains 1 EP from the target to the caster. The caster must make a test each round to maintain the charging blast. The blast is broken if you and the target are not in the same zones or if the test fails.
+
+== Rank II
+
+- Enhanced Damage: *one* additional damage point to the base Arc Bolt and Charging Blast.
+- Charging Blast: Can target and maintain the blast on creatures in adjacent zones.
+- Charging Blast: When you make a test to upkeep the spell, the spell can jump to another creature adjacent to the target or to you. The spell jumps on both a failure and a success, but the blast is kept on the original target only on success. The blast can jump only once per round.
+- [[energy-surge]]Energy Surge: The caster regains 1 EP if the spell successfully hits at least two targets.
