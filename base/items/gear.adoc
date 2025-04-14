@@ -2,8 +2,7 @@
 
 [[attack]]
 == Attack
-
-To make an attack make a check using the relevant skill. The result of the check is compared to the target's defense. Refer to the table below:
+To make an attack, perform a test using the relevant skill. Compare the result of the check to the <<enemies, target's difficulty>>. Refer to the table below:
 
 [options="header"]
 |===
@@ -12,19 +11,33 @@ To make an attack make a check using the relevant skill. The result of the check
 | All ones
 | Miss, No damage
 
-| Below the target's defense
+| Below the target's difficulty
 | Weapon damage - 1
 
-| Between the target's defense and defense + 5
+| Between the target's difficulty and difficulty + 5
 | Weapon damage
 
-| The target's defense + 6 or above
+| The target's difficulty + 6 or above
 | Weapon damage + 1
 |===
 
+.Example of Attack Roll
+[example]
+====
+Lira attacks a goblin using a sword that deals 2 damage. The goblin has a difficulty of 7. Lira rolls 2d6 and adds her skill bonus of +2, getting a total of 9.
+
+Since 9 is between the goblin's difficulty (7) and difficulty + 5 (12), Lira deals normal weapon damage. The goblin takes 2 damage.
+
+If Lira had rolled a total of 6 instead, she would have dealt 1 damage (weapon damage - 1), because the result was below the goblin's difficulty.
+
+If she had rolled a 13 or higher, she would have dealt 3 damage (weapon damage + 1).
+
+And if she had rolled double 1s, the attack would have missed entirely and dealt no damage.
+====
+
 == Equipping and Using Gear
 
-Equipping a shield or weapon requires a short action. The time needed to equip armor depends on the specific armor and is detailed in its description.
+Equipping a shield or weapon requires a <<short-action,short action>>. The time needed to equip armor depends on the specific armor and is detailed in its description.
 
 Equipped armor, shields, and weapons provide additional options:
 
@@ -32,4 +45,4 @@ Equipped armor, shields, and weapons provide additional options:
 - Armor can block damage, with the number of points blocked determined by the armor's specifications.
 - Each weapon type offers unique features, which vary depending on the weapon.
 
-To access these features, a player must have at least <<rank, rank I>> in the related skill. The number of uses for these features is determined by the number of [[item-use-token]]*item usage tokens*, which by default equals the <<skill-value, skill value>>. To reset the uses, a successful repair skill check is required.
+To access these features, a player must have at least <<rank, rank I>> and the related <<perk,perk>>. The number of uses for these features is determined by the number of [[item-use-token]]*item usage tokens*, which by default equals the <<skill-value, skill value>>. To reset the uses, a successful repair skill check is required.

@@ -1,3 +1,7 @@
-= Hidden Checks
+= Hidden Tests
 
-Some groups may choose to use hidden checks, where the game master rolls on behalf of the player's character using their skills. In this case, players would not know the result of the check and might adjust their future actions based on assumptions. For example, they might take a more direct approach if they suspect a stealth check was unsuccessful. This rule can enhance immersion but may also cause frustration if players feel they lack sufficient information to make informed decisions. The party should use this option judiciously and only when it improves the overall game experience.
+Some groups may choose to use hidden checks, where the game master rolls on behalf of the player's character using their skills. This prevents players from knowing whether a check was successful or not.
+
+Without hidden checks, players might change their behavior based on the result of a roll, even when their character wouldn't know the outcome. For example, if a stealth check fails, a player might stop sneaking and rush in—despite their character thinking they're still hidden.
+
+Hidden checks help make the game feel more immersive, but they also mean players have less control and information. Use them when they support the story and improve the group's experience.

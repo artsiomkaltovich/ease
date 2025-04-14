@@ -1,4 +1,4 @@
 [[enemies]]
 = Enemies
 
-Enemies are creatures that players can encounter in the game. Each enemy has a difficulty level that players must beat in their test to perform actions such as attacking, disarming, or scaring them. Some enemies may be immune to certain actions, or the difficulty for specific actions (e.g., scaring) may differ from others (e.g., hitting). However, such exceptions should not be common.
+Enemies are creatures that players can encounter in the game. Each enemy has a *difficulty level* that players must beat in their test to perform actions such as attacking, disarming, or scaring them. Some enemies may be immune to certain actions, or the difficulty for specific actions (e.g., scaring) may differ from others (e.g., hitting). However, such exceptions should not be common.

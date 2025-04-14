@@ -8,7 +8,7 @@ A skill representing knowledge of magical traditions, arcane symbols, and ancien
 
 == Rank I
 - [[arcane-rituals]]Arcane Rituals: You can assist in performing complex magical rituals.
-- [[black-magic-improved]]Black Magic Improved: Spend 1 EP before the check. On success, your spell deals 1 additional damage point.
+- [[black-magic-improved]]Black Magic Improved: Spend 1 EP before the check. Your spell deals 1 additional damage point.
 - [[dispel]]Dispel: Spend 1 EP. On success, you dispel a spell applied to an area or object, but not a creature.
 - [[magic-awareness]]Magic Awareness: On success, you can sense the presence of magic in your immediate surroundings.
 - [[magic-weaknesses]]Magic Weaknesses: On success, you can identify weaknesses in magical defenses.
