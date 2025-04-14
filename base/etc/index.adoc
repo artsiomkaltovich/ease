@@ -9,3 +9,13 @@ The default difficulty for player characters is *7*. This means a player must ro
 == Rounding
 
 When performing arithmetic division, rounding follows standard mathematical rules. For example, 3 divided by 2 rounds to 2, and 4 divided by 2 also rounds to 2.
+
+== Clocks, Counters, and Timers
+
+The game master can use clocks or timers to track time-sensitive events during an encounter — for example, how long before a building collapses or when a guard will notice the party.
+
+A die can serve as a simple, visible representation of a timer. For instance, the encounter might start with the die showing 6. Each round, the value is reduced by 1. When it reaches 0, something happens that dramatically changes the situation.
+
+Another example is a stealth mission in a boss's mansion. Instead of a single failed check ruining the entire plan, the game master places a die on the table showing 1 after the first failure. Each additional failure increases the value—some checks might even raise it by 2. When the die reaches 6, the guards are fully alerted and the party must respond.
+
+The game master can use different types of dice or values depending on the scene. It doesn't have to be a die - clocks can also be represented by a drawn circle or line that gets filled in, a bowl with tokens added or removed, a row of cards, or even a real countdown timer or clock. Use whatever fits the tone of the game and keeps tension visible and engaging. What matters most is that the players can clearly see and understand the progress of the timer. 
