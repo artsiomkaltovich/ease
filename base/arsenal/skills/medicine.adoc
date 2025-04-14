@@ -1,5 +1,5 @@
 [[medicine]]
-=== Medicine
+= Medicine
 Advanced medical knowledge for diagnosing and treating ailments. Typically used outside of combat as it requires significant time. The primary stat is <<obs, Observation>>.
 
 == Rank I

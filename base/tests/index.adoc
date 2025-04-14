@@ -14,8 +14,9 @@ To perform a basic test, roll two six-sided dice (2d6), sum the results, and add
 
 A standard test uses 2d6, but specific conditions may increase or decrease the number of dice rolled. If no dice are rolled (0 dice), the result of the roll is 0, but the skill value is still applied. If the number of dice is negative, the test automatically fails.
 
-== Retrying a test
+== When to Roll and Retrying a Test
 
+The test is necessary when the outcome is uncertain. The game master should declare if the task is too hard to even attempt, as well as allow the completion of easy tasks without rolling.
 Both successful and failed tests contribute to the story's progression, making repeated attempts at the exact same action unnecessary. However, alternative actions may be attempted to achieve the same goal, considering new conditions.
 
 [[help]]

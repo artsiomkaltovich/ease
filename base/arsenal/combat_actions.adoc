@@ -3,6 +3,8 @@
 == <<full-action,Full Actions>>
 
 - <<attack,Attack>>
+- <<dash,Dash>>
+- <<rest,Rest>>
 - <<help,Help>>
 - <<first-aid, First Aid>>
 - <<item-quick-slot,Use Item>>

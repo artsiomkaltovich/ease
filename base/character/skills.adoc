@@ -14,9 +14,9 @@ categorized into five [[rank]]*ranks* as outlined in the table below.
 | 7           | 4
 |===
 
-Upon reaching a new rank, players can select a [[perk]]*perk* to enhance their abilities or unlock new actions.
+Upon reaching a new rank, players can select a <<perk,perk>> to enhance their abilities or unlock new actions.
 For example, improving the <<medicine, medicine>> skill allows characters to unlock perks that aid in treating and diagnosing more complex diseases and conditions, grant positive conditions or improve resistances, or even inflict harm under the guise of treatment.
-See more information <<experience-points,Experience Points>> section.
+See more information in the <<experience-points,Experience Points>> section.
 
 Proficiency in every weapon and armor type, as well as spells and certain other abilities like understanding a foreign language, are also considered skills.
 

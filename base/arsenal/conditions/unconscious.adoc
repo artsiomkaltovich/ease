@@ -1,4 +1,4 @@
 [[unconscious]]
 = Unconscious
 
-Unconscious creatures lie prone and are unable to perform full or short actions, nor can they perceive their surroundings in any way.
+Unconscious creatures lie prone and are unable to perform <<full-action,full>> or <<short-action,short>> actions, nor can they perceive their surroundings in any way.

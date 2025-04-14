@@ -2,7 +2,7 @@
 
 == Why a New System?
 
-There are countless role-playing systems out there, yet debates (and sometimes even holy wars) persist about which one is the best. If you've already found your answer, I'm happy for you! This system is another attempt to create the ideal system for those still searching.
+There are countless role-playing systems out there, yet debates (and sometimes even holy wars) persist about which one is the best. If you've already found your answer, I'm happy for you! However, I would still like to hear your feedback. If you are one of those still searching, this system is another attempt to satisfy you.
 
 == What's Wrong with Existing Systems?
 
@@ -17,9 +17,11 @@ Most systems use turn-based combat, which is often boring, tedious, and time-con
 == Philosophy
 
 - Be as simple as possible, but not simpler.
-- Provide choices, not mathematical problems.
 - We are people, not robots; we don't like calculations.
-- Well, adding 12 to 6 is manageable.
+- Well, adding 12 to 6 is manageable, but adding 7 to 6 is easier.
+- Rolling more or fewer dice is more fun than adding 7 to 6.
+- Summing up 12d6 is not fun.
+- Provide choices, not mathematical problems.
 - Provide a lot of choices, but don't overwhelm players.
 - If something can be removed, remove it.
 - If something can't be removed, think again.
