@@ -1,15 +1,17 @@
 = Actions
 
-A fight is composed of a series of rounds. During each round, every creature can perform up to two different [[full-action]]*full actions*. Additionally, each creature is allowed one short action per round.
+A fight is composed of a series of rounds. During each round, every creature can perform up to two different [[full-action]]*full actions*. Additionally, creatures can perform short actions.
 
 [[short-action]]*Short actions* are quick maneuvers, such as stowing a weapon or reloading a light crossbow, while full actions involve more complex or time-consuming tasks, such as attacking.
+
+The number of short actions a creature can perform is at the game master's discretion and depends on the creature's <<spd, *Speed*>>, <<obs, *Observability*>>, and surroundings. Short actions can be performed as full actions, but not vice versa.
 
 [[action-variety]]
 == Action Varieties
 
-Some actions offer different varieties. Actions tied to specific skills typically correspond to distinct actions, but there are exceptions:
+Some actions offer different varieties. Actions tied to different skills typically correspond to distinct actions, but there are exceptions:
 
-- Attacking with any weapon, including unarmed attacks, is considered a variety of the *attack* action, even though different skills may be used.
+- Attacking with any weapon, including unarmed attacks, is considered a variety of the <<attack,Attack>> action, even though different skills may be used.
 - Grappling and attacking are separate actions, but both can utilize weapon skills if the weapon permits it.
 
 Using an item for different tasks is treated as separate actions. For example, using a rope to bind a creature, climb, or set on fire from campfire are distinct actions. However, using an item repeatedly for the same task, such as binding a creature and after that tying objects together, is not considered a different action.
