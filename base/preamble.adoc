@@ -8,9 +8,11 @@ There are countless role-playing systems out there, yet debates (and sometimes e
 
 Some systems are overly complex, requiring extensive rulebooks and significant time to calculate each turn.
 
-Narrative systems can sometimes overwhelm players with options, causing paralysis during character creation and imbalances during gameplay.
+Narrative systems can sometimes overwhelm players with options, leading to paralysis during character creation and causing imbalances between player characters during gameplay.
 
 Other systems limit players to a selection of predefined "lunch boxes" instead of offering the freedom to choose from the entire menu.
+
+Most systems use turn-based combat, which is often boring, tedious, and time-consuming. Players are forced to wait for their turn to act, making it difficult to maintain engagement and, more importantly, to cooperate effectively.
 
 == Philosophy
 

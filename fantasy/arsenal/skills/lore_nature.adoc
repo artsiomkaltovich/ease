@@ -1,3 +1,14 @@
 [[lore-nature]]
 = Lore: Nature
 Understanding of the natural world, including plants, animals, and ecosystems.
+
+== Rank I
+- [animal-behavior]Animal Behavior: Predict the behavior of nearby animals without tests.
+- [entangling-vines]Entangling Vines: Create vines to trap a creature. Make a test: on success, one target becomes <<grabbed, Grabbed>>. The vines dry up at the end of the round. If you become <<stunned>> or <<unconscious>> during the round, the vines persist. The target must be in the same zone as you.
+- [plant-growth]Plant Growth: As an action, you can make a test to grow plants in the adjacent or the same zone. On a success, the plants grow, provide cover, and make the terrain <<hard-to-move, hard to move>>. The plants wither at the end of the round.
+
+== Rank II
+- [commune]Commune: As an action, attempt to communicate with animals or plants in the area. Success provides useful information about the surroundings.
+- Entangling Vines: You can try to snare *two* creatures at the same time, the creatures should be in the same zone.
+- Entangling Vines: You can try to snare a creatures in the adjacent zone.
+- Plant Growth: The plants become so dense that they are difficult to move through. A target must make a <<strength, Strength>> test to avoid becoming <<grabbed, Grabbed>>. The plants wither at the end of the round. However, the creature becomes <<undetected, Undetected>> without needing to make a <<stealth, Stealth>> test as soon as it enters the zone. If you become <<stunned>> or <<unconscious>> during the round, the plants will persist.
