@@ -1,6 +1,6 @@
 [[agility]]
 = Agility
-Represents dexterity and coordination, useful for tasks requiring precision. Allows dodging some attacks
+Represents dexterity and coordination, useful for tasks requiring precision. Allows you to perform a dodge action.
 
 [[dodge]]Dodge: Reduce the attack roll of enemy for one attack by 1 die on a successful roll, or spend 1 EP to achieve the same effect without rolling.
 
