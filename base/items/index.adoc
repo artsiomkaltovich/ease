@@ -1,5 +1,6 @@
 = Items
 
+[[carrying-capacity]]
 Each player can carry a number of items equal to 4 + the rank of Strength + the rank of Endurance. Items must be equipped before use. Each player has the following equipment slots:
 
 - Head

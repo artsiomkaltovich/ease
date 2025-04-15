@@ -1,0 +1,13 @@
+[[arcane-prodigy]]
+== Arcane Prodigy
+
+*Benefit:* Start with +1 Energy and an additional cantrip.
+
+*Drawback:* -1 max HP.
+
+[[heavy-hitter]]
+== Heavy Hitter
+
+*Benefit:* Deal +1 damage with two-handed weapons.
+
+*Drawback:* -2 <<agility,Agility>> when wielding a two-handed weapon.

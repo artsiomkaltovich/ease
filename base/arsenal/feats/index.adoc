@@ -1,0 +1,44 @@
+[[feats]]
+= Feats
+
+[[berserker]]
+== Berserker
+
+*Benefit:* Your attacks deal +1 damage.
+
+*Drawback:* You take +1 additional damage from all attacks. This extra damage is not reduced by armor or other effects.
+
+[[lightfoot]]
+== Lightfoot
+
+*Benefit:* Increase starting <<agility,Agility>> and <<spd,Speed>> by 2.
+
+*Drawback:* Decrease starting <<strength,Strength>> by 2, as well as the maximum number of <<carrying capacity,carrying items>> by 2.
+
+[[lucky]]
+== Lucky
+
+*Benefit:* Once per session, reroll all dice in a failed test.
+
+*Drawback:* Maximum EP decreased by 1.
+
+[[sharpshooter]]
+== Sharpshooter
+
+*Benefit:* Ignore cover penalties with ranged attacks.
+
+*Drawback:* -1 die on attacks against adjacent enemies.
+
+[[survivalist]]
+== Survivalist
+
+*Benefit:* Gain +2 to starting <<survival,Survival>> and <<first-aid,First Aid>> skills.
+
+*Drawback:* -2 to started <<persuasion,Persuasion>> and <<performance,Performance>> skills.
+
+[[tactician]]
+== Tactician
+
+*Benefit:* Once per encounter, grant an ally +1 die to a test.
+
+*Drawback:* During the first round of combat, you roll -1 die on your own test, as you need time to gather information.
