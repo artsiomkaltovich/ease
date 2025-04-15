@@ -1,6 +1,6 @@
 = Dagger
 
-Primary skill is <<spd,Speed>>, <<one-handed>>.
+The dagger is a small, light weapon that can be used for both melee and thrown attacks. It is often used as a backup weapon or for stealthy attacks. The primary skill is <<spd,Speed>>, <<one-handed>>. <<throwable, Throwable>>. It can be easily concealed. Add your Dagger skill value to <<stealth,Stealth>> checks when hiding a dagger.
 
 == Damage
 1 for the main attack, 0 for the off-hand attack.
@@ -8,8 +8,8 @@ Primary skill is <<spd,Speed>>, <<one-handed>>.
 == Rank I
 - <<reliable-strike,Reliable Strike>>: Spend 1 EP to make a roll with a result of *9*. This cannot be used if your check pool has no dice.
 - Off-Hand Attack: Your off-hand attack has a base damage of 1.
-- <<throw,Throw>>: Throwing weapon cause normal damage.
-- <<flank,Flank>>
+- <<flank,Flank>>.
+- <<defensive-maneuver,Defensive Maneuver>>.
 
 == Rank II
 - <<reliable-strike,Reliable Strike>>: Increase the roll result to *12*. If your check pool has *zero* dice, the result of the roll is *3*. This cannot be used if your check pool has a negative number of dice.

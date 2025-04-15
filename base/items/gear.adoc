@@ -35,6 +35,7 @@ If she had rolled a 13 or higher, she would have dealt 3 damage (weapon damage +
 And if she had rolled double 1s, the attack would have missed entirely and dealt no damage.
 ====
 
+[[equipping-gear]]
 == Equipping and Using Gear
 
 Equipping a shield or weapon requires a <<short-action,short action>>. The time needed to equip armor depends on the specific armor and is detailed in its description.

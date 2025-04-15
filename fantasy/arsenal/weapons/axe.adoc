@@ -12,7 +12,7 @@ Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed>> 
 - Grub With a Weapon - When wielding an Axe two-handed, you can grapple an enemy without requiring a free hand. While grappling an enemy, you cannot use the weapon to attack.
 - Throw: Throwing weapon cause normal damage.
 - <<cleave,Cleave>> - Attack up to *two* adjacent enemies in a single swing.
-- Shield Breaker - If the enemy blocks your attack with a shield, they must spend twice as many <<item-use-token,item use tokens>>.
+- <<armor-breaker,Armor Breaker>>.
 
 == Rank II
 - <<push,Push>> - Increase the distance the enemy is pushed back.

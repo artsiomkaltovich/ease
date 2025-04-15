@@ -7,15 +7,18 @@
 Reduces the penalty of your next attack by 1 die.
 
 == [[armor-breaker]]Armor Breaker
-If the enemy blocks your attack with armor, they must spend twice as many <<item-use-token,item use tokens>>.
+If the enemy blocks your attack with armor or a shield, they must spend twice as many <<item-use-token,item use tokens>>.
 
 == [[cleave]]Cleave N
 Hits *N* adjacent enemies in a single swing. Each enemy must be within the weapon's range to you and to each other.
 
+== [[defensive-maneuver]]Defensive Maneuver
+After a successful attack, you can spend 1 EP to impose a -1 die penalty on the target's next attack. This action is not considered an attack.
+
 == [[demoralizing-blow]]Demoralizing Blow
 If an attack exceeds the enemy's difficulty by at least 6, it causes the target or one enemy in the same zone to become frightened.
 
-== [[disarm]]Disarm
+== [[disarm-with-weapon]]Disarm With a Weapon
 Make a Strength check to force an enemy to drop their weapon.
 
 == [[false-strike]]False Strike
@@ -48,16 +51,13 @@ On a successful attack, you can push an enemy back.
 == [[quick-stab]]Quick Stab
 Spend a short attack to make an additional attack.
 
-== [[reliable-strike]]Reliable Strike
-Spend 1 EP to make a roll with a result of **7**. This cannot be used if your check pool has no dice.
-
-== [[shield-breaker]]Shield Breaker
-If the enemy blocks your attack with a shield, they must spend twice as many <<item-use-token,item use tokens>>.
+== [[reliable-strike]]Reliable Strike N
+Spend 1 EP to make a roll with a result of **N**. This cannot be used if your check pool has no dice.
 
 == [[stun]]Stun N
 Temporarily stuns the target for *N* rounds.
 
-== [[throw]]Throw
+== [[throwable]]Throwable
 Throwing a weapon causes normal damage.
 
 == [[topple]]Topple

@@ -1,9 +1,19 @@
+[[agility]]
 = Agility
-Represents dexterity and coordination, useful for tasks requiring precision. Allow to evade some attacks.
+Represents dexterity and coordination, useful for tasks requiring precision. Allows dodging some attacks
+
+[[dodge]]Dodge: Reduce the attack roll of enemy for one attack by 1 die on a successful roll, or spend 1 EP to achieve the same effect without rolling.
 
 == Rank I
-- Evade: Reduce the attack roll of enemies by 1 die on a successful roll, or spend 1 EP to achieve the same effect without rolling.
+- Dodge: Reduce the attack roll of enemy for one attack by 2 dice on a successful roll, or spend 1 EP to achieve the same effect without rolling.
+- <<disarm,Disarm>>: You can attempt to disarm an opponent with an agility test instead of a <<strength, Strength>> test.
+- [[falling-acrobatics]]Falling Acrobatics: You can reduce fall damage after falling by rolling over your body.
+- [[quick-stand]]Quick Stand: Stand up from <<pose,prone>> as a short-action.
+- [[snatch-and-go]]Snatch and Go: Grab a small object as part of your movement. Additionally, you can catch thrown or dropped items mid-air without a test.
+- [[tumble]]Tumble: Move through enemies or tight spaces without penalty.
 
 == Rank II
-- Evade: Reduce the attack roll of enemies by 2 dice on a successful roll, or spend 1 EP to achieve the same effect without rolling.
-- Damage Increase: Your strength based attack damage increases by 1 for both the main attack and off-hand attacks.
+- [[agile-counter]]Agile Counter: After dodging an attack, you can immediately make a melee attack by spending 1 EP. You can counter only one attack per round.
+- [[agility-damage-increase]]Damage Increase: Your agility based attack damage increases by 1 for both the main attack and off-hand attacks.
+- Dodge: On a successful dodge, move 1 zone or reposition within your current zone.
+- [[vaulting-leap]]Vaulting Leap: You can leap from one cover to another and strike mid-air by spending 1 EP.

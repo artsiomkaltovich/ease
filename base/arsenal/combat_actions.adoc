@@ -16,7 +16,7 @@
 
 == <<short-action,Short Actions>>
 
-- Equip or Stow Item
+- <<equipping-gear,Equip or Stow Item>>
 - Reload weapon (unless weapon description states otherwise)
 - <<pose,Change Pose>> (except standing up from lying down)
 - Change the way you hold a weapon: <<one-handed>> or <<two-handed>>

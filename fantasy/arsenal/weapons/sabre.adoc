@@ -9,8 +9,10 @@ Primary skill is <<agility,Agility>>, <<one-handed>>. Can attack only adjusted t
 == Rank I
 - <<parry,Parry>> - You can block an incoming attack, reducing damage by 1.
 - <<reliable-strike,Reliable Strike>>: Spend 1 EP to make a roll with a result of *7*. This cannot be used if your check pool has no dice.
+- <<disarm-with-weapon,Disarm With a Weapon>>.
 
 == Rank II
 - <<parry,Parry>> - Increase the damage reduction by 1.
-- <<powerful-attack,Powerful attack>> - You can make a powerful attack, dealing 1 extra damage spending the same amount of EP.
+- <<defensive-maneuver,Defensive Maneuver>>.
 - <<false-strike,False Strike>>.
+- <<powerful-attack,Powerful attack>> - You can make a powerful attack, dealing 1 extra damage spending the same amount of EP.

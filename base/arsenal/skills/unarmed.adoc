@@ -3,7 +3,7 @@
 The art of combat without weapons, emphasizing physical strength and technique. The primary skill is <<strength, Strength>>. Base damage for unarmed attacks is 1 for the main attack and 0 for off-hand attacks.
 
 == Rank I
-- [[disarm]]Disarm: Instead of making an attack or off-hand attack, you can attempt to disarm a target. On success, the target drops their weapon.
+- [[disarm-unarmed]]Disarm: Instead of making an attack or off-hand attack, you can attempt to disarm a target. On success, the target drops their weapon.
 - [[hold-unarmed]]<<hold, Hold>>: Attempt to hold a target and attack it as a single action by spending 1 EP. On success, the target is considered held and received a full damage from the attack. This action can't be used in the same round <<attack>> or <<grapple>> were used.
 
 == Rank II

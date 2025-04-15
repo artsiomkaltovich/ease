@@ -8,6 +8,7 @@ When you equip a shield, you gain the following effects:
 
 == Rank I
 - [[shield-block]]Shield Block: Negate one attack completely at the cost of 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
+- [[block-and-attack]]Block and Attack: After you successfully block an attack during your <<raise-shield,Raise Shield>> action, you can immediately make a melee attack against the attacker. This is a separate action, so it can be combined with an <<attack, attack>> action. This attack has a -1 penalty to weapon damage.
 - [[guard]]Guard: Take an action to protect an adjacent ally. On success, block all damage they receive from one attack at the cost of 1 EP. You can still use Shield Block for yourself during this round if it has been unlocked.
 - [[shield-bash]]Shield Bash: Perform an attack with the shield. On success, the target is pushed away by their size. This is a separate action, so it can be combined with an <<attack, attack>> action.
 - Shielded: Penalties for casting spells while equipped with a shield no longer apply to you.
@@ -15,6 +16,7 @@ When you equip a shield, you gain the following effects:
 
 == Rank II
 - Shield Block: You can now negate attacks from *two* enemies simultaneously at the cost of 1 EP for both.
+- Block and Attack: Removes the -1 penalty to weapon damage.
 - Guard: When protecting an adjacent ally, you can block all damage without requiring a skill check.
 - Guard: You can protect up to *two* adjacent allies at the cost of 1 EP per ally.
 - Guard: You can protect target from *two* simultaneous attacks at the cost of 1 EP for both.

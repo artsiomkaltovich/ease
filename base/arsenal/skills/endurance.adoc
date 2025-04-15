@@ -1,13 +1,16 @@
 = Endurance
-Measures stamina and the ability to sustain physical effort over time.
+Measures the ability to sustain physical effort, resist poison, hold breath, and endure adverse conditions over time.
 
 == Rank I
 - [[resist-condition]]Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *one* level for 1 round on a successful roll.
 - [[not-so-difficult]]Not So Difficult: 1 <<rest, exhaustion>> point has no effect on you. If you have 2 exhaustion points, your maximum EP is reduced by only 1, and so on.
 
 == Rank II
-- Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *one* level for 1 round without requiring a roll.
 - Resist Condition: Spend 1 EP to reduce the severity of a condition (e.g., poisoned) by *two* levels for 1 round without requiring a roll.
+- [[quick-recovery]]Quick Recovery: Recover 1 additional HP after a full night's sleep.
+- [[deep-sleep]]Deep Sleep: Remove all levels of exhaustion after a full night's sleep.
+- [[poison-resistance]]Poison Resistance: All poison damage against you is decreased by 1 damage point.
 
+// - [[poison-immunity]]Poison Immunity: Automatically resist common poisons.
 // restore 1 HP
 // do not fall <<unconscious>>
