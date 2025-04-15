@@ -10,7 +10,7 @@ These actions are performed in combat and require a successful skill check. The 
 == Rank I
 - [[topple]]Topple: As an action, you can attempt to topple a creature. On a success, the target is knocked prone.
 - Grapple: You can attempt to grapple a creature even if you don't have a free hand. You can grapple *one* creature at a time.
-- Off Hands Attacks: Remove the penalty for off-hand attacks.
+- <<off-hand-attack,Off Hands Attacks>>: Remove the penalty for off-hand attacks.
 
 == Rank II
 - Grapple: You can grapple *one* additional creature. You need a free hand, but only one hand is required for both creatures.
