@@ -1,0 +1,4 @@
+[[feat]]
+= Feat
+
+*Feats* are a way to customize a character. They are small modifications that enhance individuality by adding one benefit and one penalty. Every character can select up to 2 feats or choose not to select any.

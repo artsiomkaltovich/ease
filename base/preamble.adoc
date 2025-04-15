@@ -14,7 +14,15 @@ Other systems limit players to a selection of predefined "lunch boxes" instead o
 
 Most systems use turn-based combat, which is often boring, tedious, and time-consuming. Players are forced to wait for their turn to act, making it difficult to maintain engagement and, more importantly, to cooperate effectively.
 
+== Collaborative Experience
+
+This system is designed to be a collaborative experience between the game master and players. The game master is not an enemy but a guide, storyteller, and referee. The goal is to create a fun and engaging experience for everyone involved.
+
+The options provided below shouldn't be considered a complete list but rather guidelines and examples. The players and game master are encouraged to adapt them to fit the needs of their group, game, and setting. If something doesn't work for you, feel free to change it. If you find a better way to do something, please share it. However, the final choice of what to allow is always up to the game master, who decides whether the selected options match the tone of the game and the setting.
+
 == Philosophy
+
+The following principles guide the design of this system:
 
 - Be as simple as possible, but not simpler.
 - We are people, not robots; we don't like calculations.

@@ -22,3 +22,5 @@ include::optional/index.adoc[leveloffset=+1]
 // sleight of hand skill
 // leaps and jumps
 // - Cling: Briefly stick to walls or ceilings as part of your movement.
+// sleep spell/perk
+// perk to reroll all 1s or/and 6s ones a test
