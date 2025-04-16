@@ -9,8 +9,8 @@ The art of delivering cutting remarks to provoke others. The primary stat is <<c
 - Provoke: A provoked creature can't move away from you this round.
 - Provoke: You can provoke a creature in an adjacent zone.
 - Stinging Jab: The provoked target suffers -1 die on its second action if it does not cause any harm to you.
-- Distraction: Successfully provoking a creature grants one ally advantage (+1 die) on their next action against that target. Choose an ally in the same zone as you.
-- Force a Mistake: If the provoked target misses you, it suffers -1 <<enemies,difficulty>> until the end of its next turn.
+- Distraction: Successfully provoking a creature grants one ally advantage (+1 die) on their next action against that target. Choose an ally in the same zone as target.
+- Force a Mistake: If the provoked creature misses an attack against you, it suffers a -1 penalty to <<enemies,difficulty>> until the end of its next turn.
 - Spiteful Style: Increase the difficulty of any mental actions from the provoked creature against you by one.
 - Ego Bruise: If a provoked creature fails to harm you until the end of the next round, it loses 1 EP out of frustration.
 - Taunting Pursuit: After provoking, you may move 1 zone closer to the provoked creature.
