@@ -37,7 +37,6 @@ include::../base/optional/index.adoc[leveloffset=+1]
 // mechanics for agility checks to prevent damage (e.g. traps)
 // атака с прыжка
 // command perk (make a target to do something or provide bonuses to player)
-// nature: snares
-// bleed-fire-acid
-// limbed-frost remove pain-oil
-// internal injuries - lightning helps to restart them - poison
+// bleed-fire-acid/piercing
+// limbed-frost remove pain-oil/cutting
+// internal injuries - lightning helps to restart them - poison/bludgeoning

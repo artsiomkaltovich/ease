@@ -3,7 +3,7 @@
 The ability to move silently and remain undetected. The primary skill is <<agility, Agility>>.
 
 == Rank I
-- Sneak: As an action, you can attempt to hide in a battle. On a success, you become hidden from all creatures in the same zone. You remain hidden until you attack or are discovered.
+- Sneak: As an action, you can attempt to hide in a battle. On a success, you become hidden. You remain hidden until you attack or are discovered.
 - [[hide-item]]Hide Item: As an action, you can attempt to hide an item. On a success, the item is concealed.
 - [[hide-steps]]Hide Steps: As an action, you can attempt to hide your tracks. On a success, you leave no trace of your passage.
 

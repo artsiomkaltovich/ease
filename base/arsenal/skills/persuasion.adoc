@@ -1,9 +1,10 @@
 = Persuasion
 The ability to influence others through charm and reasoning. The primary stat is <<chr, Charisma>>.
 
+[[demoralize]]Demoralize: As an action, you can attempt to demoralize a creature. On a success, the target is loses 1 EP.
+
 == Rank I
 - [[charm]]Charm: Charm a creature, making it <<charmed>> for 1 round.
-- [[demoralize]]Demoralize: As an action, you can attempt to demoralize a creature. On a success, the target is loses 1 EP.
 
 == Rank II
 - Charm: Charm up to *two* creatures in the same zone.
