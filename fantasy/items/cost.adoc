@@ -1,0 +1,32 @@
+[cols="3*a", frame=none, grid=none]
+|===
+|
+[cols="2,1", options="header"]
+!===
+! Item               ! Cost (XP)
+! One-Handed Weapon  ! 1
+! Two-Handed Weapon  ! 2
+! Shield             ! 1
+! Light Armor        ! 1
+! Heavy Armor        ! 1
+!===
+|
+[cols="2,1", options="header"]
+!===
+! Item                     ! Cost (XP)
+! Magic Wand or Staff      ! 1
+! Scroll Rank 0            ! 0.2
+! Scroll Rank I            ! 0.4
+! Scroll Rank II           ! 0.6
+! Scroll Rank III          ! 0.8
+! Scroll Rank IV           ! 1
+!===
+|
+[cols="2,1", options="header"]
+!===
+! Item                     ! Cost (XP)
+! Oil, Acid or Poison Potion ! 0.1
+! Energy Elixir            ! 0.1
+! Health Elixir            ! 0.1
+!===
+|===

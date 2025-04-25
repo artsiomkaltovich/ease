@@ -1,0 +1,7 @@
+= Spells and Magic System
+
+Characters can learn to cast spells. There are three main types of spell casting:
+
+- [item-casting]*Item Casting*: The caster uses a wand, staff, or scroll to cast spells. See <<magic-items>> for more information.
+- [energy-casting]*Energy Casting*: The caster must spend the number of energy points specified in the spell description to cast a spell.
+- [ritual-casting]*Ritual Casting*: The caster must spend time and pass a test to cast the spell. The game master determines the number of tests and the required difficulty. If the test fails or a critical failure occurs, the magic misfires. Possible consequences include losing the ability to cast this spell for the rest of the day, a magical energy backlash causing damage to the caster and/or nearby creatures, or other effects.

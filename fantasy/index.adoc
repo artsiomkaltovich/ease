@@ -6,12 +6,14 @@
 
 include::../base/preamble.adoc[leveloffset=+1]
 include::../base/character/index.adoc[leveloffset=+1]
+include::character/index.adoc[leveloffset=+1]
 include::../base/tests/index.adoc[leveloffset=+1]
 include::../base/combat/index.adoc[leveloffset=+1]
 
 include::../base/items/index.adoc[leveloffset=+1]
-include::items/throw_melee_weapon.adoc[leveloffset=+2]
+include::items/cost.adoc[leveloffset=+2]
 include::items/magic_items.adoc[leveloffset=+2]
+include::items/throw_melee_weapon.adoc[leveloffset=+2]
 
 include::../base/etc/index.adoc[leveloffset=+1]
 

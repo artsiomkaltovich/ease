@@ -1,11 +1,14 @@
 = Elements Control
 
-Some casters prefer to learn every element instead of specializing in any. When you learn this spell, you receive the basic bonuses of <<arc-bolt, Arc Bolt>>, <<fire-blast, Fire Blast>>, or <<glacial-path, Glacial Path>>.
+Some casters prefer to learn every element instead of specializing in one. When you learn this spell, you receive the basic bonuses of <<arc-bolt, Arc Bolt>>, <<fire-blast, Fire Blast>>, or <<glacial-path, Glacial Path>>.
+
+== Rank 0
+- [[initial-element]]Initial Element: Choose one of the Arc Bolt, Fire Blast, or Glacial Path spells. You receive the rank 0 bonuses of the spell you choose.
 
 == Rank I
 
-- [[other-element]]Other Elements: Choose one of the rank I perks of the spell you choose when you learn Element Control.
+- [[other-element]]Other Elements: Choose one of the Rank I perks of the spell you chose when you learned Elements Control. You also unlock the rank 0 bonuses of the other two spells.
 
 == Rank II
 
-- Other Elements: Choose one of the rank I perks of Arc Bolt, Fire Blast, or Glacial Path, except the one you've chosen before. You also receive the basic bonuses of the spell you choose.
+- Other Elements: You receive the other two Rank I perks of Arc Bolt, Fire Blast, or Glacial Path, except the one you chose before. You can't select more than two perks of the same spell.
