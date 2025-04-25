@@ -14,6 +14,7 @@ include::arsenal/index.adoc[leveloffset=+1]
 include::optional/index.adoc[leveloffset=+1]
 
 // one-handed ans two-handed rules
+// stats vs skills
 // - Nimble Movement: Ignore difficult terrain penalties for movement.
 // advantage against traps
 // climb speed
