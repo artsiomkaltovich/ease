@@ -1,0 +1,14 @@
+= One-Handed and Two-Handed Gear
+
+[[one-handed]]One-handed gear requires only one hand to wield and occupies one slot. In contrast, [[two-handed]]two-handed gear requires both hands to wield and occupies two slot.
+
+== One-Handed Gear
+
+A creature wielding one-handed gear can use their off-hand for other tasks. They can wield a shield, another one-handed weapon, or perform actions like grappling, climbing, or manipulating objects.
+
+If a creature wields only one one-handed gear and has their off-hand free, they gain a +1 bonus to their <<agility, Agility>> and <<spd, Speed>>.
+
+[[off-hand-attack]]
+== Off-Hand Attacks
+
+Off-hand attacks are made with a weapon held in the off-hand. These attacks incur a -1 penalty to the weapon's damage. Off-hand attacks are considered a separate action, allowing you to attack with both hands in the same turn.

@@ -35,11 +35,6 @@ If she had rolled a 13 or higher, she would have dealt 3 damage (weapon damage +
 And if she had rolled double 1s, the attack would have missed entirely and dealt no damage.
 ====
 
-[[off-hand-attack]]
-=== Off-Hand Attacks
-
-Off-hand attacks are made with a weapon held in the off-hand. These attacks incur a -1 penalty to the weapon's damage. Such attacks are considered a separate action, allowing you to attack with both hands in the same turn.
-
 [[equipping-gear]]
 == Equipping and Using Gear
 

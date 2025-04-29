@@ -1,3 +1,6 @@
+[[items-cost]]
+= Items Cost
+
 [cols="3*a", frame=none, grid=none]
 |===
 |
