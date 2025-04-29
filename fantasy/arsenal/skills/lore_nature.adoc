@@ -4,8 +4,10 @@ Understanding the natural world, including plants, animals, and ecosystems.
 
 == Rank I
 - [[animal-behavior]]Animal Behavior: Predict the behavior of nearby animals without tests.
-- [[sharper-thorns]]Sharper Thorns: Your spell-created plants deal *one* additional damage point.
+- [[sharper-thorns]]Sharper Thorns: Your spell-created plants deal *one* additional point of damage.
+- [[mushroom-lawn]]Mushroom Lawn: You can create a mushroom lawn in the same or an adjacent zone. The lawn is big enough for one humanoid only. The mushrooms heal for *one* HP to any creature inside the lawn at the end of each round. The lawn withers after use.
 
 == Rank II
 - [[speak-with-animal]]Speak-With-Animal: As an action, attempt to communicate with animals or plants in the area. Success provides useful information about the surroundings.
-- [[poisonous-thorns]]Poisonous Thorns: Your spell-created plants become poisonous, dealing *one* extra poison damage.
+- [[poisonous-thorns]]Poisonous Thorns: Your spell-created plants become poisonous, dealing *one* extra point of poison damage.
+- Mushroom Lawn: A creature in the lawn can teleport to another lawn as an action. The lawn it teleports from withers after use. The destination lawn withers only if used for healing or teleportation.
