@@ -1,0 +1,3 @@
+= Surfaces
+
+Alchemic Essences and Magic Elements can create surfaces. Surfaces are areas of the world that have specific effects on characters and objects within them. These surfaces can be created by spells, items, or other effects. Only one essence or element can influence the creatures and objects on a surface at a time. For example, fire melts ice, while oil burns, intensifying the fire. Poison applied to an icy surface simply replaces it.

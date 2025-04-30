@@ -7,4 +7,4 @@ Characters can learn to cast spells. Rank 0 perks can be cast every time with a 
 - [energy-casting]*Energy Casting*: The caster must spend the number of energy points specified in the spell description to cast a spell.
 - [ritual-casting]*Ritual Casting*: The caster must spend time and pass a test to cast the spell. The game master determines the number of tests and the required difficulty. If the test fails or a critical failure occurs, the magic misfires. Possible consequences include losing the ability to cast this spell for the rest of the day, a magical energy backlash causing damage to the caster and/or nearby creatures, or other effects.
 
-The player should select the casting method the spell uses when learning it.
+The player should select the casting method that the spell uses when learning it.

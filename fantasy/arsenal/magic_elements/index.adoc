@@ -3,3 +3,4 @@
 include::fire.adoc[leveloffset=+1]
 include::frost.adoc[leveloffset=+1]
 include::lightning.adoc[leveloffset=+1]
+include::surfaces.adoc[leveloffset=+1]

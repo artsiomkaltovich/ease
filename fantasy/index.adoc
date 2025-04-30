@@ -34,7 +34,6 @@ include::arsenal/weapons/index.adoc[leveloffset=+2]
 include::../base/optional/index.adoc[leveloffset=+1]
 
 // sleep in armor rules
-// magic system
 // mechanics for will save to attack / заклинание убежища
 // mechanics for agility checks to prevent damage (e.g. traps)
 // атака с прыжка
