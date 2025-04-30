@@ -13,13 +13,13 @@ If the enemy blocks your attack with armor or a shield, they must spend twice as
 Hits *N* adjacent enemies in a single swing. Each enemy must be within the weapon's range to you and to each other.
 
 == [[defensive-maneuver]]Defensive Maneuver
-After a successful attack, you can spend 1 EP to impose a -1 die penalty on the target's next attack. This action is not considered an attack.
+After a successful attack, you can spend 1 EP to impose a -1 die penalty on the target's next attack.
 
 == [[demoralizing-blow]]Demoralizing Blow
 If an attack exceeds the enemy's difficulty by at least 6, it causes the target or one enemy in the same zone to become frightened.
 
 == [[disarm-with-weapon]]Disarm With a Weapon
-Make a Strength check to force an enemy to drop their weapon.
+Make a weapon check to force an enemy to drop their weapon.
 
 == [[false-strike]]False Strike
 Attempt a deceptive strike to trick your opponent. Make a test: on success, your strike forces the opponent to block your attack instead of executing their own. If the opponent was preparing an attack, it will be canceled. This action is not an attack.
@@ -37,13 +37,13 @@ Move to a position behind an enemy. If you attack from behind, gain +1 damage to
 Allows a ranged attack at extended distance (+1 zone) at the cost of 1 EP.
 
 == [[parry]]Parry N
-Blocks an incoming attack, reducing damage by *N*.
+Blocks an incoming attack, reducing damage by *N*. Requires a 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
 
 == [[pierce]]Pierce N
 A powerful attack that ignores *N* points of armor and shields.
 
-== [[powerful-attack]]Powerful Attack
-When landing a successful attack, you can expose the enemy's weakness and deal 1 extra damage by spending 1 EP.
+== [[powerful-attack]]Powerful Attack N
+When landing a successful attack, you can expose the enemy's weakness and deal *N* extra damage by spending 1 EP.
 
 == [[push]]Push
 On a successful attack, you can push an enemy back.
