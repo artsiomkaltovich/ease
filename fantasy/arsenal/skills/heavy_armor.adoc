@@ -7,7 +7,7 @@ When you equip a heavy armor, you gain the following effects:
 - [[heavy-armor-block]]Armor Block: Reduces damage received from attacks by *2* at the cost of 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
 
 == Rank I
-- [[heavy-armor-penalty-decrease]]Heavy Armored: Reduces the penalties for your Speed, Agility and Stealth from wearing heavy armor by *1*.
+- Heavy Armored: Reduces the penalties for your Speed, Agility and Stealth from wearing heavy armor by *1*.
 - Heavy Armored: Reduces the penalties for casting spells from wearing heavy armor by *1*.
 
 == Rank II
