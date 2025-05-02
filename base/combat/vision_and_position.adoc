@@ -10,7 +10,7 @@ Creatures can benefit from cover, which comes in the following types:
 [[heavy-cover]] 
 - **Heavy Cover**: The target is almost completely obscured by an obstacle, such as a wall or building. This reduces the attack roll dice pool against the creature by **two** dice.
 [[full-cover]] 
-- **Full Cover**: The target is completely obscured by an obstacle and is considered *hidden* but *<<undetected, detected>>* if it has not moved since gaining cover.
+- **Full Cover**: The target is completely obscured by an obstacle and is considered *hidden* but *<<undetected, detected>>*.
 
 == Seen, Hidden, and Undetected Characters
 

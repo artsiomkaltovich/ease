@@ -1,7 +1,7 @@
 [[carrying-capacity]]
 = Carrying Capacity and Equipment Slots
 
-Each player can carry a number of positions equal to 4 + the rank of Strength + the rank of Endurance. Some items may take up several positions, and some items are too bulky to carry more than one at a time. Items must be equipped before use. Each player has the following equipment slots:
+Each player has the following equipment slots:
 
 - Head
 - Body/Chest
@@ -12,5 +12,8 @@ Each player can carry a number of positions equal to 4 + the rank of Strength + 
 - [[item-quick-slot]]A number of quick slots determined by your clothes/armor.
 
 Weapons, shields, armor, clothes, and jewelry are called [[gear]]*gear*. They are equipped in all slots except quick slots. Quick slots are used for one-time items: potions, scrolls, and other consumables. Each quick slot holds one item.
+Items must be equipped before use.
 
-All unequipped items are stored in the backpack. Equipping an item from the backpack or unequipping an item to the backpack requires an action and at least one free hand. Using an equipped item requires an action and a free hand, so using an item directly from the backpack requires two actions and a free hand.
+All unequipped items are stored in the backpack. Each player can carry a number of positions equal to 4 + the rank of Strength + the rank of Endurance. Equipped items (items the character wears) do not count against this limit. Some items may take up several positions, and some items are too bulky to carry more than one at a time.
+
+Equipping an item from the backpack or unequipping an item to the backpack requires an action and at least one free hand. Using an equipped item requires an action and a free hand, so using an item directly from the backpack requires two actions and a free hand.
