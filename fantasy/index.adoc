@@ -18,7 +18,7 @@ include::items/throw_melee_weapon.adoc[leveloffset=+2]
 include::../base/etc/index.adoc[leveloffset=+1]
 
 == The Adventure Arsenal
-include::../base/arsenal/combat_actions.adoc[leveloffset=+2]
+include::arsenal/actions/index.adoc[leveloffset=+2]
 include::../base/arsenal/skills/index.adoc[leveloffset=+2]
 include::arsenal/skills/index.adoc[leveloffset=+2]
 include::../base/arsenal/feats/index.adoc[leveloffset=+2]

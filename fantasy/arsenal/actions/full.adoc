@@ -1,0 +1,4 @@
+include::../../../base/arsenal/actions/full.adoc[]
+
+- <<follow-superstition,Follow a superstition>>
+- <<raise-shield,Raise Shield>>

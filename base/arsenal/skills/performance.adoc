@@ -1,11 +1,11 @@
 = Performance
 The skill of entertaining others through music, acting, or other arts. The primary stat is <<chr, Charisma>>.
 
-Inspire: Choose *one* creature and attempt to inspire it. On a success, the inspired creature reduces the penalty on their roll this round by 1 extra die.
+[[inspire]]Inspire: Choose *one* creature and attempt to inspire it. On a success, the inspired creature reduces the penalty on their roll this round by 1 extra die.
 
 == Rank I
 - [[perform]]Perform: Entertain an audience with a performance (e.g., music, dance, acting). On a successful roll, you cannot fail; the roll only determines the degree of success, ranging from ordinary to exceptional. The quality of the performance can influence the audience's mood and reactions.
-- [[inspire]]Inspire: Choose *one* creature and attempt to inspire it. On a success, the inspired creature gains 1 extra die on their roll this round. If used outside of battle, spend 1 EP, and the target can add 1 die to any roll that day. No roll is required for this action.
+- Inspire: Choose *one* creature and attempt to inspire it. On a success, the inspired creature gains 1 extra die on their roll this round. If used outside of battle, spend 1 EP, and the target can add 1 die to any roll that day. No roll is required for this action.
 - [[discourage]]Discourage: Choose *one* creature and attempt to discourage it. On a success, the discouraged creature loses 1 die from their roll this round.
 
 == Rank II

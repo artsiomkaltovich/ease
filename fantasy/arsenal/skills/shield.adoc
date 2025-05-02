@@ -3,8 +3,9 @@
 Proficiency in using shields for defense in combat. The primary skill is <<strength, Strength>>.
 
 When you equip a shield, you gain the following effects:
+
 - [[shielded]]Shielded: Your difficulty for incoming attacks increases by *1*. However, it decreases your <<spd, Speed>>, <<agility, Agility>>, and <<stealth, Stealth>>, as well as any test to cast a spell, by *1*.
-- [[raise-shield]]Raise Shield: You can raise your shield as an action. This allows you to block one incoming attack without spending EP. However, blocking an attack this way still uses an <<item-use-token, item use token>>. You can still use <<shield-block, Shield Block>> for yourself during this round if it has been unlocked.
+- [[raise-shield]]Raise Shield: You can raise your shield as an action. This allows you to block one incoming attack without spending EP. However, blocking an attack this way still uses an <<item-use-token, item use token>>. You can still use <<shield-block, Shield Block>> for yourself during this round.
 - [[shield-block]]Shield Block: Negate one attack completely at the cost of 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
 
 == Rank I

@@ -1,0 +1,4 @@
+= Combat Actions
+
+include::full.adoc[leveloffset=+1]
+include::short.adoc[leveloffset=+1]

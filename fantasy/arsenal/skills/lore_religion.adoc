@@ -1,6 +1,12 @@
 = Lore: Religion
 Knowledge of religious practices, beliefs, and deities.
 
+The Religion skill is used to identify the nature of a deity, their followers, and their practices. It can also be used to identify the nature of a curse or blessing and determine the effects of a curse or blessing.
+
+The Religion test is performed in the following action:
+
+- [[follow-superstition]]Follow a superstition: On success, remove a curse from yourself.
+
 == Rank I
 - [bless]Bless: As an action, <<blessed, bless 2>> a target on a success. The effect lasts until the end of the round.
 - [curse]Curse: As an action, curse a target on a success, making it <<cursed, cursed 5>>, the effect last until the end of the round.

@@ -1,6 +1,6 @@
 = The Adventure Arsenal
 
-include::combat_actions.adoc[leveloffset=+1]
+include::actions/index.adoc[leveloffset=+1]
 include::skills/index.adoc[leveloffset=+1]
 include::feats/index.adoc[leveloffset=+1]
 include::conditions/index.adoc[leveloffset=+1]

@@ -1,0 +1,21 @@
+= <<full-action,Full Actions>>
+
+- <<attack,Attack>>
+- <<dash,Dash>>
+- <<help,Help>>
+- <<disarm,Disarm>>
+- <<hold,Hold>>
+- <<grapple,Grapple>>
+- <<dodge,Dodge>>
+- <<first-aid, First Aid>>
+- <<provoke,Provoke>>
+- <<intimidate,Intimidate>>
+- <<inspire,Inspire>>
+- <<demoralize,demoralize>>
+- <<item-quick-slot,Use Item>>
+- Interact with surroundings, e.g. open or close a door
+- Pick up an item
+- <<pose,Stand up from lying down>>
+- <<provoke,Provoke>>
+- <<recognize,Recognize>>
+- <<rest,Rest>>
