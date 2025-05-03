@@ -1,6 +1,6 @@
 = One-handed Sword
 
-Primary skill is <<strength,Strength>>. <<one-handed, One-Handed>> weapon. Can attack only adjusted targets.
+Primary skill is <<strength,Strength>>. <<one-handed,One-Handed>> weapon. Can attack only adjusted targets.
 
 == Damage
 2 for main attack and 1 for off-hand attack.

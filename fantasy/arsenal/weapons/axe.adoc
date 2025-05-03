@@ -1,6 +1,6 @@
 = Axe
 
-Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed>> or <<two-handed>>.
+Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed,one-handed>> or <<two-handed,two-handed>>.
 
 == Damage
 - One-Handed: 2 for the main attack, 1 for the off-hand attack.

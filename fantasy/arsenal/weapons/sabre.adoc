@@ -1,7 +1,7 @@
 [[sabre]]
 = Sabre
 
-Primary skill is <<agility,Agility>>, <<one-handed>>. Can attack only adjusted targets.
+Primary skill is <<agility,Agility>>, <<one-handed,one-handed>>. Can attack only adjusted targets.
 
 == Damage
 2 for main attack and 1 for off-hand attack.

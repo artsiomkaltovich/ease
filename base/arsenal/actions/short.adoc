@@ -1,6 +1,6 @@
 = <<short-action,Short Actions>>
 
-- Change the way you hold a weapon: <<one-handed>> or <<two-handed>>
+- Change the way you hold a weapon: <<one-handed,one-handed>> or <<two-handed,two-handed>>
 - <<equipping-gear,Equip or Stow Item>>
 - Drop an item
 - <<pose,Change Pose>> (except standing up from lying down)

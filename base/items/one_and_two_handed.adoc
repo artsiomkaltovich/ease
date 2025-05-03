@@ -1,6 +1,6 @@
 = One-Handed and Two-Handed Gear
 
-[[one-handed]]One-handed gear requires only one hand to wield and occupies one slot. In contrast, [[two-handed]]two-handed gear requires both hands to wield and occupies two slot.
+[[one-handed]]*One-handed* gear requires only one hand to wield and occupies one slot. In contrast, [[two-handed]]*two-handed* gear requires both hands to wield and occupies two slot.
 
 == One-Handed Gear
 

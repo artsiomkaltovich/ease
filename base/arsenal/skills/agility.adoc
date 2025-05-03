@@ -2,7 +2,7 @@
 = Agility
 Represents dexterity and coordination, useful for tasks requiring precision. Allows you to perform a dodge action.
 
-[[dodge]]Dodge: Reduce the attack roll of enemy for one attack by 1 die on a successful roll, or spend 1 EP to achieve the same effect without rolling.
+[[dodge]]*Dodge*: Reduce the attack roll of enemy for one attack by 1 die on a successful roll, or spend 1 EP to achieve the same effect without rolling.
 
 == Rank I
 - Dodge: Reduce the attack roll of enemy for one attack by 2 dice on a successful roll, or spend 1 EP to achieve the same effect without rolling.
@@ -14,6 +14,7 @@ Represents dexterity and coordination, useful for tasks requiring precision. All
 - [[tumble]]Tumble: Move through enemies or tight spaces without penalty.
 
 == Rank II
+- [[evasive-maneuver]]Evasive Maneuver: Increase your difficulty for incoming attacks by 1.
 - [[agile-counter]]Agile Counter: After dodging an attack, you can immediately make a melee attack by spending 1 EP. You can counter only one attack per round.
 - [[agility-damage-increase]]Damage Increase: Your agility based attack damage increases by 1 for both the main attack and off-hand attacks.
 - Dodge: On a successful dodge, move 1 zone or reposition within your current zone.
