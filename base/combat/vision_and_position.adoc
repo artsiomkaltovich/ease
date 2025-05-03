@@ -14,9 +14,14 @@ Creatures can benefit from cover, which comes in the following types:
 
 == Seen, Hidden, and Undetected Characters
 
-Seeing a target is required for certain actions and attacks. [[hidden]]Hidden characters cannot be targeted by single-target attacks or skills at range. However, targets situated in melee range can still be attacked based on hearing or other senses, though such attacks incur a penalty of **one** die. Hidden characters can still be affected by area-of-effect abilities.
+Seeing a target is required for certain actions and attacks. [[hidden]]*Hidden* characters cannot be targeted by single-target attacks or skills at range. However, targets situated in melee range can still be attacked based on hearing or other senses, though such attacks incur a penalty of **one** die. Hidden characters can still be affected by area-of-effect abilities. Creatures remain hidden until they attack or are discovered.
 
 *[[undetected]] Undetected characters* — characters the attacker is unaware of — cannot be targeted by single-target or area-of-effect actions.
+
+[[surprised]]
+== Surprised Targets
+
+Surprise attacks occur when an undetected character attacks a target. The attacker gains a short round during which they can perform one action. Targeted creatures cannot react to the attack. After the attack, undetected characters become seen.
 
 [[pose]]
 == Crouching, Laying, Getting Up and High Ground

@@ -11,7 +11,7 @@
 - <<provoke,Provoke>>
 - <<intimidate,Intimidate>>
 - <<inspire,Inspire>>
-- <<demoralize,demoralize>>
+- <<demoralize,Demoralize>>
 - <<item-quick-slot,Use Item>>
 - Interact with surroundings, e.g. open or close a door
 - Pick up an item

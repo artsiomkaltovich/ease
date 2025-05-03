@@ -2,14 +2,18 @@
 = Stealth
 The ability to move silently and remain undetected. The primary skill is <<agility, Agility>>.
 
+Characters untrained in Stealth can only attempt to sneak outside of combat, as combat is too dynamic and unpredictable an environment.
+
 == Rank I
-- Sneak: As an action, you can attempt to hide in a battle. On a success, you become hidden. You remain hidden until you attack or are discovered.
+- Sneak: As an action, you can try to hide in a battle. On a success, you become <<hidden,hidden>>. You remain hidden until you attack or are discovered.
 - Sneak: If you have one free hand while sneaking, you receive a +1 bonus to your test. If you have two free hands, you receive a +2 bonus.
 - [[hide-item]]Hide Item: As an action, you can attempt to hide an item. On a success, the item is concealed.
-- [[hide-steps]]Hide Steps: As an action, you can attempt to hide your tracks. On a success, you leave no trace of your passage.
+- [[hide-steps]]Hide Steps: You can try to hide your tracks. On a success, you leave no trace of your passage.
+- You <<surprised, surprised attacks>> can't miss, if the test roll is a <<attack,critical failure>> you still makes weapon damage - 1.
 
 == Rank II
 - Sneak: You can attempt to hide in dim light.
+- Sneak: If you attack while hidden and reduce the target's HP to 0, you remain hidden.
 - Hide Steps: On a success, your entire group leaves no trace of passage.
 - Hide Steps: Hiding your steps no longer requires a roll.
 
