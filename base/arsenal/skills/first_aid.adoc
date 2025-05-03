@@ -16,7 +16,6 @@ These actions can be performed in combat and requires a successful skill check. 
 
 == Rank II
 - Quick Patch: On a success, additionally restore 1 HP.
-- Stabilize Condition: Successfully stabilizing a condition makes the target immune to reapplying this condition for 1 round. Additionally, you can make a target immune to any applied condition for 1 round.
-- Quick Patch: When you apply a first aid action to an unconscious target, it can act immediately.
-
-// treat two targets
+- Stabilize Condition: Successfully stabilizing a condition makes the target immune to reapplying this condition for 1 round. Additionally, you can perform a separate action to make a target immune to any applied condition for 1 round.
+- Quick Patch: When you apply a first aid action to an unconscious target, it can act immediately instead of waiting for its next action.
+- [[field-medic-technique]]Field Medic Technique: You can treat two targets with a single action when using Quick Patch or Stabilize Condition. The targets must be adjacent to you.
