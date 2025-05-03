@@ -1,3 +1,4 @@
+//[toclevels=3]
 [[feats]]
 = Feats
 

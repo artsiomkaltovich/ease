@@ -5,24 +5,24 @@ The art of delivering cutting remarks to provoke others. The primary stat is <<c
 [[provoke]]Provoke: Choose *one* creature in the same zone as you. On success, this creature is <<provoked, provoked>>, loses its current action, and instead attempts to harm you.
 
 == Rank I
-- Provoke: You can choose up to two creatures, who must be in the same zone.
-- Provoke: A provoked creature can't move away from you this round.
-- Provoke: You can provoke a creature in an adjacent zone.
-- Stinging Jab: The provoked target suffers -1 die on its second action if it does not cause any harm to you.
-- Distraction: Successfully provoking a creature grants one ally advantage (+1 die) on their next action against that target. Choose an ally in the same zone as target.
-- Force a Mistake: If the provoked creature misses an attack against you, it suffers a -1 penalty to <<enemies,difficulty>> until the end of its next turn.
-- Spiteful Style: Increase the difficulty of any mental actions from the provoked creature against you by one.
-- Ego Bruise: If a provoked creature fails to harm you until the end of the next round, it loses 1 EP out of frustration.
-- Taunting Pursuit: After provoking, you may move 1 zone closer to the provoked creature.
-- Final Word: If you reduce a provoked creature to 0 HP, one enemy in the same zone becomes frightened. Powerful creatures can resist the fear caused by the fall of their minion, which may require an additional Insult test.
+- Provoke: A provoked creature cannot move away from you during this round.
+- Prolonged Provoke: The provoked target suffers a -1 die penalty on its next action if it does not harm you. You must spend 1 EP for each creature you target with this perk before the roll.
+- Taunting Resilience: You can choose to spend 1 EP to take 1 less damage from the provoked creature. You can't use this ability more than once against the same attack.
+- Final Word: If you reduce a provoked creature to 0 HP, one enemy of the same or lower <<enemies,difficulty>> in the same zone becomes frightened.
+- <<effect-on-mass,Effect on Mass>>.
+- <<distant-influence,Distant Influence>>.
+// - Distraction: Successfully provoking a creature grants one ally +1 die bonus on their next action against that target. Choose an ally in the same zone as target.
+// - Force a Mistake: If the provoked creature misses an attack against you, it incurs a -1 penalty to <<enemies,difficulty>> on actions against it during this stage.
+// - Spiteful Style: Increase the difficulty of any mental actions from the provoked creature against you by one.
+// - Ego Bruise: If a provoked creature fails to harm you until the end of the next round, it loses 1 EP out of frustration.
+// - Taunting Pursuit: After provoking, you may move 1 zone closer to the provoked creature.
 
 == Rank II
-- Provoke: You can provoke all enemies in the same zone as you.
-- Provoke: You can provoke up to two creatures from up to two different zones. These zones must be a zone you are in or adjacent to it.
-- Provoke: Provoke now affects creatures up to 2 zones away (they must hear/see you).
-- Provoke: A provoked creature loses its entire round instead of just one action. It still has its normal number of full and short actions but can't do anything except harm you. You can provoke only one creature in this way per round.
-- Stinging Jab: If the provoked creature uses its second action to not harm you, you receive one extra die on your next test against it. This bonus persists until the end of your next round.
+- Prolonged Provoke: A provoked creature loses its entire round instead of just one action. It retains its normal number of full and short actions but cannot do anything except attempt to harm you.
+- Prolonged Provoke: If the provoked creature uses its next action without harming you, you gain one extra die when performing a test against it during this action.
 - Scathing Remark: If you beat the target difficulty by 6 or more, the provoked creature loses 1 EP.
-- Spiteful Style: Gain +1 EP when a creature fails a provoke or other mental action test against you.
 - Taunting Resilience: You receive 1 less damage from the provoked creature.
-- Force a Mistake: Increase the penalty to -2.
+- Final Word: You can attempt to affect a creature with a higher difficulty. This requires a successful <<intimidation, Intimidation>> test against the target's <<enemies,difficulty>>. If you succeed, the target becomes frightened.
+- <<counter-influence,Counter Influence>>.
+// - Spiteful Style: Gain +1 EP when a creature fails a provoke or other mental action test against you.
+// - Force a Mistake: Increase the penalty to -2.

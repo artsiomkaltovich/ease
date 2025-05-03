@@ -1,3 +1,4 @@
+//[toclevels=3]
 = Skills and Perks
 
 include::agility.adoc[leveloffset=+1]

@@ -1,0 +1,26 @@
+= Common Perks
+
+[[counter-influence]]
+== Counter Influence
+
+- *Rank II*: You can attempt to affect a creature that is trying to influence you. If you succeed on the Serenity check and exceed the difficulty by 6 or more, the creature becomes affected by the same condition it attempted to impose on you. You must have this perk unlocked for the related skill.
+
+[[distant-influence]]
+== Distant Influence
+
+- *Rank I*: Spend 1 EP to affect a creature in an adjacent zone. With <<effect-on-mass,Effect on Mass>>, spend 2 EP for each additional target in the adjacent zone. You must spend the EP before making the roll.
+- *Rank II*: You can affect creatures up to 2 zones away (they must be able to hear or see you). Additionally, you don't need to spend EP to affect a creature in an adjacent zone, but you still need to spend EP if the target is farther away.
+// do not spend EP if test failed?
+- *Rank III*: You can affect a creature anywhere in the battlefield, as long as they can see or hear you. You don't need to spend EP to affect a creature in an adjacent zone, but you still need to spend 1 EP if the target is farther away.
+
+[[effect-on-mass]]
+== Effect on Mass
+
+- *Rank I*: You can increase the number of targets affected by an action by spending 1 EP for each additional target. You must spend the EP before making the roll.
+- *Rank II*: You pay 1 EP to affect an additional pair of targets. You can affect up to two targets for free.
+- *Rank III*: You can affect up to 2 targets for free. Any additional number requires just 1 EP.
+
+// [[focused]]
+// == Focused N
+// 
+// - You can spend 1 EP to affect a creature with a <<enemies, difficulty>> of *N* or less without rolling.

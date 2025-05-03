@@ -1,3 +1,4 @@
+//[toclevels=3]
 = Conditions
 
 include::blind.adoc[leveloffset=+1]
