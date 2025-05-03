@@ -21,3 +21,5 @@ stem:[5 original EP - 2 level of exhaustion = 3 current max].
 ====
 
 Skipping rest or doing tough tasks can make exhaustion worse. The game master might increase the exhaustion level by 1 in situations like a long journey or a difficult night.
+
+Characters can act normally with 0 EP (when their exhaustion level equals their maximum number of EP). If the exhaustion level exceeds the maximum EP, the character becomes <<unconscious,unconscious>> and cannot act.
