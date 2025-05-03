@@ -6,12 +6,10 @@ The ability to maintain self-control, composure, and focus under pressure. It is
 == Rank I
 
 - [[mental-support]]Mental Support: You can spend 1 EP and make a test. On success, you <<help, Help>> an ally resist an existing or new mental condition.
-- [[inner-peace]]Inner Peace: Reduce the duration of mental conditions by *one* round.
-- Inner Peace: Reduce the severity of mental conditions by *one* step.
+- [[inner-peace]]Inner Peace: Spend 1 EP to attempt reducing the duration or severity of a mental condition by *one* round. Requires a successful test.
 
 == Rank II
 
-- [[serenity-resilience]]Serenity Resilience: Resist a single instance of any mental or emotional effect applied to you. This ability can be used once per day and requires spending 1 EP. It does not work if the same condition is applied again later.
 - Mental Support: This ability does not require a check and is neither a full action nor a short action.
 - [[iron-will]]Iron Will: Spend 1 EP, choose one mental condition, and make a test. On success, you gain immunity to that condition for 10 minutes or 1 combat.
 

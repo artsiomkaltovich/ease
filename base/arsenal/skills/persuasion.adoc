@@ -1,12 +1,15 @@
 = Persuasion
 The ability to influence others through charm and reasoning. The primary stat is <<chr, Charisma>>.
 
-[[demoralize]]Demoralize: As an action, you can attempt to demoralize a creature. On a success, the target is loses 1 EP.
+Persuasion is tested to perform the following actions, each of them requires 1 EP to be spent before making the roll and work only on a successful test, unless otherwise specified.
+
+- [[demoralize]]Demoralize: As an action, you can attempt to demoralize a creature. On a success, the target loses 1 EP.
+- [[charm]]Charm: Charm a creature, making it <<charmed>> for 1 round.
 
 == Rank I
-- [[charm]]Charm: Charm a creature, making it <<charmed>> for 1 round.
-- <<effect-on-mass,Effect on Mass>> applies to all actions you attempt with the Persuasion skill, e.g., Demoralize and Charm.
-- <<distant-influence,Distant Influence>> applies to all actions you attempt with the Persuasion skill, e.g., Demoralize and Charm.
+- Effortless Persuasion: You no longer need to spend 1 EP to attempt Demoralize and Charm actions.
+- <<effect-on-mass,Effect on Mass>>, applies to all actions you attempt with the Persuasion skill, e.g., Demoralize and Charm.
+- <<distant-influence,Distant Influence>>, applies to all actions you attempt with the Persuasion skill, e.g., Demoralize and Charm.
 
 == Rank II
 - Charm: On a successful charm, you can choose one ally. The affected creature is charmed by both you and the chosen ally.

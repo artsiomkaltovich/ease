@@ -46,4 +46,4 @@ Equipped armor, shields, and weapons provide additional options:
 - Armor can block damage, with the number of points blocked determined by the armor's specifications.
 - Each weapon type offers unique features, which vary depending on the weapon.
 
-The number of uses for these features is determined by the number of [[item-use-token]]*item usage tokens*, which by default equals the <<skill-value, skill value>>. To reset the uses, a successful repair skill check is required.
+The number of uses for these features is determined by the number of [[item-use-token]]*item usage tokens*, which by default equals the <<skill-value, skill value>>. To reset the uses, a successful <<repair,repair>> skill check is required.
