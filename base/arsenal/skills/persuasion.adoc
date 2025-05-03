@@ -5,9 +5,10 @@ The ability to influence others through charm and reasoning. The primary stat is
 
 == Rank I
 - [[charm]]Charm: Charm a creature, making it <<charmed>> for 1 round.
+- <<effect-on-mass,Effect on Mass>> applies to all actions you attempt with the Persuasion skill, e.g., Demoralize and Charm.
+- <<distant-influence,Distant Influence>> applies to all actions you attempt with the Persuasion skill, e.g., Demoralize and Charm.
 
 == Rank II
-- Charm: Charm up to *two* creatures in the same zone.
 - Charm: On a successful charm, you can choose one ally. The affected creature is charmed by both you and the chosen ally.
 - Demoralize: On success the target loses 2 EP.
-- Demoralize: You can demoralize up to *two* creatures in the same zone.
+- <<counter-influence,Counter Influence>>.
