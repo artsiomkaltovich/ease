@@ -5,14 +5,14 @@ Represents physical power and the ability to lift or move heavy objects.
 These actions are performed in combat and require a successful skill check. The target must be adjusted to the character performing the action:
 
 - [[disarm]]Disarm: You can attempt to disarm a target. On success, the target drops their weapon.
-- [[hold]]Hold: You can attempt to hold a creature. On a success, the target is <<held,held>>. The holder should have a free hand all time to maintain the hold.
-- [[grapple]]Grapple: You can attempt to grapple a creature. On a success, the target is <<grabbed,grabbed>>. The grappler should have a free hand all time to maintain the hold.
+- [[hold]]Hold: You can attempt to hold a creature. On success, the target becomes <<held,held>>. A free hand is required to perform this action, and it remains occupied to maintain the hold.
+- [[grapple]]Grapple: You can attempt to grapple a creature. On success, the target is <<grabbed,grabbed>>. Two free hands are required to perform this action, and they remain occupied to maintain the hold.
 
 == Rank I
+- Grapple: If the creature is prone, you can use your foot to attempt and maintain a grapple.
 - [[topple]]Topple: As an action, you can attempt to topple a creature. On a success, the target is knocked prone.
-- Grapple: You can attempt to grapple a creature even if you don't have a free hand. You can grapple *one* creature at a time.
 - <<off-hand-attack,Off Hands Attacks>>: Remove the penalty for off-hand attacks.
 
 == Rank II
-- Grapple: You can grapple *one* additional creature. You need a free hand, but only one hand is required for both creatures.
+- [[iron-grip]]Iron Grip: You can grapple or hold *one* additional creature. No extra hands are required to initiate or maintain the hold.
 - Damage Increase: Your strength based attack damage increases by 1 for both the main attack and off-hand attacks.
