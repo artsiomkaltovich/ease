@@ -1,5 +1,7 @@
 = Common Perks
 
+This page provides a list of perks that can be used with specific skills that explicitly mention them.
+
 [[counter-influence]]
 == Counter Influence
 

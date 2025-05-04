@@ -1,6 +1,7 @@
 = <<full-action,Full Actions>>
 
 - <<attack,Attack>>
+- <<aim,Aim>>
 - <<dash,Dash>>
 - <<help,Help>>
 - <<disarm,Disarm>>

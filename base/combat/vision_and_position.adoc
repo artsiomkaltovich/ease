@@ -31,3 +31,8 @@ A character's pose plays an important role, giving bonuses or penalties to their
 Weapons also influence these bonuses and penalties. For instance, attacking a prone character in melee is generally easier than attacking a standing character, but attacking a prone character with a ranged weapon is usually harder. The attack rolls of crouching or prone characters using ranged weapons depend on the weapon type: easily reloaded firearms are often easier to use while crouching or lying down, whereas bows and slings are more difficult to handle in such positions.
 
 Changing your pose is a <<short-action,short action>>, except getting up which is a <<full-action,full action>>.
+
+[[aim]]
+== Aiming
+
+Aiming is a special action that allows a character to focus on their target, reducing cover or pose penalties for their next ranged or thrown attack. To aim, the character must perform a <<throwing,Throwing>> or ranged weapon skill test. On a success, aiming reduces the penalty by **one** die for the next attack.
