@@ -17,8 +17,10 @@ include::optional/index.adoc[leveloffset=+1]
 // - Nimble Movement: Ignore difficult terrain penalties for movement.
 // advantage against traps
 // climb speed
-// falling damage
-// sleight of hand skill - pickpocket quick slot item
+// falling damage (1 HP per creature size)
 // leaps and jumps
 // - Cling: Briefly stick to walls or ceilings as part of your movement.
+// sleight of hand skill
+// - pickpocket quick slot item
+// - disarm traps
 // sleep spell/perk
