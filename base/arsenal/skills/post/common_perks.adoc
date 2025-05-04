@@ -20,7 +20,7 @@ This page provides a list of perks that can be used with specific skills that ex
 
 - *Rank I*: You can increase the number of targets affected by an action by spending 1 EP for each additional target. You must spend the EP before making the roll.
 - *Rank II*: You pay 1 EP to affect an additional pair of targets. You can affect up to two targets for free.
-- *Rank III*: You can affect up to 2 targets for free. Any additional number requires just 1 EP.
+- *Rank III*: You can affect up to 2 targets for free. Any additional targets beyond this require only 1 EP for the entire group.
 
 // [[focused]]
 // == Focused N

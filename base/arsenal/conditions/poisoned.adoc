@@ -1,4 +1,4 @@
 [[poisoned]]
 = Poisoned
 
-*Poisoned N* creatures take N damage at the beginning of each round.
+*Poisoned N* creatures take N damage at the end of each round.
