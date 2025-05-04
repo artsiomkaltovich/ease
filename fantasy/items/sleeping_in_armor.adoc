@@ -1,0 +1,4 @@
+[[sleeping-in-armor]]
+= Sleeping in Armor
+
+Armor makes it harder to sleep well. If you sleep in light armor, you lose 1 exhaustion level and restore 1 energy point. Sleeping in heavy armor does not restore any HP or EP, and you gain 1 exhaustion level instead.

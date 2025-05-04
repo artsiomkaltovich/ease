@@ -14,6 +14,7 @@ include::../base/items/index.adoc[leveloffset=+1]
 include::items/cost.adoc[leveloffset=+2]
 include::items/magic_items.adoc[leveloffset=+2]
 include::items/throw_melee_weapon.adoc[leveloffset=+2]
+include::items/sleeping_in_armor.adoc[leveloffset=+2]
 
 include::../base/etc/index.adoc[leveloffset=+1]
 
@@ -34,7 +35,6 @@ include::arsenal/weapons/index.adoc[leveloffset=+2]
 
 include::../base/optional/index.adoc[leveloffset=+1]
 
-// sleep in armor rules
 // mechanics for will save to attack / заклинание убежища
 // protecting orb / no projectile can reach in or out
 // mechanics for agility checks to prevent damage (e.g. traps)
