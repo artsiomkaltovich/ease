@@ -1,0 +1,38 @@
+= Armor and Clothing
+
+== Ordinary Clothing
+Ordinary clothing is the most basic type of clothing. It is so common that it takes no effort to acquire.
+
+Number of <<item-quick-slot,*quick slots*>> - *4*.
+
+*Time to put on* - One action.
+
+[[light-armor]]
+== Light Armor
+Light armor provides a small amount of protection and is designed for mobility. Related skill is <<light-armor-skill>>.
+
+When you wearing a light armor, you gain the following effects:
+
+- [[lightly-armored]]Lightly Armored: Your difficulty for incoming attacks increases by *1*. However, it decreases your <<spd, Speed>>, <<agility, Agility>>, and <<stealth, Stealth>>, as well as any test to cast a spell, by *1*.
+- [[light-armor-block]]Armor Block: Reduces damage received from attacks by *1* at the cost of 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
+
+Number of *quick slots* - *3*.
+
+*Time to put on* - 2 rounds. This time can be halved with a successful Light Armor skill test.
+
+*Sleeping*: Armor makes it harder to sleep well. If you sleep in light armor, you lose 1 exhaustion level and restore 1 energy point.
+
+[[heavy-armor]]
+== Heavy Armor
+Heavy armor provides significant protection but limits mobility. Related skill is <<heavy-armor-skill>>.
+
+When you equip a heavy armor, you gain the following effects:
+
+- [[heavy-armored]]Heavy Armored: Your difficulty for incoming attacks increases by *2*. However, it decreases your <<spd, Speed>>, <<agility, Agility>>, and <<stealth, Stealth>>, as well as any test to cast a spell, by *2*.
+- [[heavy-armor-block]]Armor Block: Reduces damage received from attacks by *2* at the cost of 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
+
+Number of *quick slots* - *2*.
+
+*Time to put on* - 4 rounds. This time can be halved with a successful Heavy Armor skill test.
+
+*Sleeping*: Sleeping in heavy armor does not restore any HP or EP, and you gain 1 exhaustion level instead.

@@ -1,0 +1,3 @@
+= Stats vs Skills
+
+Stats are not used for tests, unlike skills. For example, to spot a hidden creature, trap, or loot, the player does not make a test but instead succeeds or fails depending on the stat value. Your charisma defines how others perceive you; first impressions do not require a test and instead depend on your charisma and reputation, which is influenced by your previous actions. Skills, on the other hand, are used for tests, and their values are directly added to the test results.

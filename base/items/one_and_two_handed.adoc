@@ -6,7 +6,7 @@
 
 A creature wielding one-handed gear can use their off-hand for other tasks. They can wield a shield, another one-handed weapon, or perform actions like grappling, climbing, or manipulating objects.
 
-If a creature wields only one piece of one-handed gear while keeping their off-hand free, they gain a +1 bonus to their <<agility, Agility>> and <<spd, Speed>>.
+If a creature wields only one piece of one-handed gear while keeping their off-hand free, or does not equip any handed gear at all, they gain a +1 bonus to their <<agility, Agility>> and <<spd, Speed>>.
 
 [[off-hand-attack]]
 == Off-Hand Attacks

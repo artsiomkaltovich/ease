@@ -9,6 +9,13 @@
 
 *Drawback:* You take +1 additional damage from all attacks. This extra damage is not reduced by armor or other effects.
 
+[[doctor-averse]]
+== Doctor-Averse
+
+*Benefit:* You have 1 additional HP.
+
+*Drawback:* Your difficulty for <<first-aid>> and <<medicine>> tests increases by 1, making it harder to treat you.
+
 [[lightfoot]]
 == Lightfoot
 

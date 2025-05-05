@@ -1,9 +1,6 @@
+[[light-armor-skill]]
 = Light Armor
 The skill of wearing and maintaining lightweight protective gear. The primary skill is <<agility, Agility>>.
-
-When you wearing a light armor, you gain the following effects:
-- [[lightly-armored]]Lightly Armored: Your difficulty for incoming attacks increases by *1*. However, it decreases your <<spd, Speed>>, <<agility, Agility>>, and <<stealth, Stealth>>, as well as any test to cast a spell, by *1*.
-- [[light-armor-block]]Armor Block: Reduces damage received from attacks by *1* at the cost of 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
 
 == Rank I
 - Lightly Armored: Completely removes penalties for Speed, Agility and Stealth from wearing light armor.

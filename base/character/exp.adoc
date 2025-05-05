@@ -1,7 +1,7 @@
 [[experience-points]]
 = Experience Points
 
-The starting experience points (**XP**), as well as HP and EP for a character, are determined by the story. It is recommended to use *2-4* as starting values. During a session, a character receives **2 XP**: one during the mid-session break and one at the end of the session. XP can be used to increase the <<skill-value,skill value>> or acquire a new <<perk,perk>>.
+The starting experience points (**XP**), as well as HP and EP for a character, are determined by the story. It is recommended to use *2-4* as starting values. During a session, a character receives **2 XP**: one during the mid-session break and one at the end of the session. XP can be used to increase the <<skill-value,skill value>>, stat value, or acquire a new <<perk,perk>>.
 
 XP not only represents the experience of the characters but also the material rewards, loot and possessions they acquire. Therefore, XP can be exchanged to buy additional <<gear,gear>> or items such as homes, horses, ships, etc.
 

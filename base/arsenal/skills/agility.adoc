@@ -8,8 +8,8 @@ Represents dexterity and coordination, useful for tasks requiring precision. All
 - Dodge: Reduce the attack roll of enemy for one attack by 2 dice on a successful roll, or spend 1 EP to achieve the same effect without rolling.
 - <<off-hand-attack,Off Hands Attacks>>: Remove the penalty for off-hand attacks.
 - <<disarm,Disarm>>: You can attempt to disarm an opponent with an agility test instead of a <<strength, Strength>> test.
-- [[falling-acrobatics]]Falling Acrobatics: You can reduce fall damage after falling by rolling over your body.
-- [[quick-stand]]Quick Stand: Stand up from <<pose,prone>> as a short-action.
+- [[falling-acrobatics]]Falling Acrobatics: You have mastered a technique to roll your body to mitigate falling damage. You can reduce falling damage by half and move within the zone you fall into. This movement does not require an action.
+- [[quick-stand]]Quick Stand: Stand up from <<pose,prone>> as a short action.
 - [[snatch-and-go]]Snatch and Go: Grab a small object as part of your movement. Additionally, you can catch thrown or dropped items mid-air without a test.
 - [[tumble]]Tumble: Move through enemies or tight spaces without penalty.
 

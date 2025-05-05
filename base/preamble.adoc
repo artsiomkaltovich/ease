@@ -27,7 +27,7 @@ The following principles guide the design of this system:
 - Be as simple as possible, but not simpler.
 - We are people, not robots; we don't like calculations.
 - Well, adding 12 to 6 is manageable, but adding 7 to 6 is easier.
-- Rolling more or fewer dice in the roll is more fun than adding 7 to 6 to the result of the roll.
+- Rolling more or fewer dice in the roll is more fun than adding 7 to the result of the roll.
 - Summing up 12d6 is not fun.
 - Provide choices, not mathematical problems.
 - Provide a lot of choices, but don't overwhelm players.

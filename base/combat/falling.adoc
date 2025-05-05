@@ -1,0 +1,7 @@
+= Falling Damage
+
+When a player character falls from a height, they take damage based on the distance fallen. The distance equal to a character's height causes 1 point of damage. This damage can't be reduced by armor or by using EP unless the character has a special ability or item that allows them to do so.
+
+Other creatures can be more resilient or vulnerable to fall damage.
+
+If one creature falls on another creature, the falling creature takes damage as usual, while the other creature takes damage equal to half the distance fallen. This latter damage can be reduced by armor or EP.

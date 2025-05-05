@@ -10,8 +10,8 @@
 ! One-Handed Weapon  ! 1
 ! Two-Handed Weapon  ! 2
 ! Shield             ! 1
-! Light Armor        ! 1
-! Heavy Armor        ! 1
+! <<light-armor>>    ! 1
+! <<heavy-armor>>    ! 1
 !===
 |
 [cols="2,1", options="header"]

@@ -1,0 +1,7 @@
+= Unconsciousness and Recovery
+
+When a creature recovers from <<unconscious>>, they do not suffer any immediate penalties. This can lead to situations where a character repeatedly loses and regains consciousness during a single battle, potentially reducing the tension and immersion of the encounter. To address this, the following system can be introduced:
+
+Whenever a creature is healed from unconsciousness, they gain 1 level of <<rest, exhaustion>>. This represents the physical and mental toll of repeatedly being brought back from the brink of defeat. Each level of exhaustion reduces their maximum EP by 1, symbolizing their diminishing stamina and resilience.
+
+Alternatively, a different system could be implemented where the creature's maximum HP is reduced by 1 instead. This reflects the lasting injuries and strain on their body from enduring such extreme conditions.
