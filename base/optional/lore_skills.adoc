@@ -1,0 +1,3 @@
+= Lore Skills Learning
+
+The party can decide the lore skills are not available by default for everybody, rather to the characters who have a specific background or training. In this case, the game master can allow players to learn these skills by spending <<experience-points>>.

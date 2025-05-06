@@ -7,7 +7,7 @@ The ability to influence others through fear or threats. The primary attribute f
 == Rank I
 - [[terrify]]Terrify: A frightened creature cannot move during this round. 
 - Terrify: A frightened creature drops its weapon.
-- [[counter-intimidation]]Counter Intimidation: You experience in intimidation makes in easier to resist it. You receive +1 bonus to test <<serenity, Serenity>> against intimidation.
+- [[counter-intimidation]]Counter Intimidation: Your experience in intimidation makes it easier to resist. You receive +1 bonus to test <<serenity, Serenity>> against intimidation.
 - [[weakened-spirit]]Weakened Spirit: Creatures frightened by you suffer a -1 die penalty to Strength-based tests this round.
 - <<effect-on-mass,Effect on Mass>>.
 - <<distant-influence,Distant Influence>>.

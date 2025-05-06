@@ -14,4 +14,4 @@ Persuasion is tested to perform the following actions, each of them requires 1 E
 == Rank II
 - Charm: On a successful charm, you can choose one ally. The affected creature is charmed by both you and the chosen ally.
 - Demoralize: On success the target loses 2 EP.
-- <<counter-influence,Counter Influence>>.
+- <<counter-influence,Counter Influence>>, applies to all actions you attempt with the Persuasion skill, e.g., Demoralize and Charm.

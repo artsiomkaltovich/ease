@@ -12,7 +12,6 @@ All perks require 1 EP to be spent before making the roll and work only on a suc
 
 == Rank II
 - Diagnose Condition: Identify the severity of a condition (e.g., poisoned) without requiring a roll.
-- Treat Wound: Restore 2 health.
-- Treat Wound: Restore 1 health without requiring a roll.
+- Treat Wound: On a failed test, the target heals 1 HP. On a successful test, the target heals 2 HP.
 - False Diagnosis: Deal 1 additional damage point to the target.
 - [[prophylactic]]Prophylactic: The target gains a positive condition for 1 day. The treated character must rest for 1 hour to benefit from the treatment. Can be used only once per day per target.

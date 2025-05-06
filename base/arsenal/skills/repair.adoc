@@ -2,7 +2,7 @@
 = Repair
 The ability to fix broken or damaged equipment and structures. The primary stat is <<obs, Observation>>.
 
-Repairing: Outside of combat, you can make a test. On a success, you repair a number of <<item-use-token, use tokens>> equal to your <<skill-value, skill value>>. On a failure, you repair *half* that value.
+Repairing: Outside of combat, you can make a test. On a success, you repair a number of <<item-use-token, use tokens>> equal to your <<skill-value, skill value>>. On a failure, you repair *half* that amount. The item you are repairing must be within your reach, such as in your hands, in the hands of someone next to you, or placed on the ground in front of you.
 
 == Rank I
 - [[combat-repair]]Combat Repair: As an action, spend 1 EP to repair *one* usable token of an item.

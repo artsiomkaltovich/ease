@@ -7,6 +7,7 @@
 - <<disarm,Disarm>>
 - <<hold,Hold>>
 - <<grapple,Grapple>>
+- <<discourage,Discourage>>
 - <<dodge,Dodge>>
 - <<first-aid, First Aid>>
 - <<provoke,Provoke>>

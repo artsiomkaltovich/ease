@@ -1,11 +1,12 @@
 = Performance
 The skill of entertaining others through music, acting, or other arts. The primary stat is <<chr, Charisma>>.
 
-[[inspire]]Inspire: Choose *one* creature in your zone and attempt to inspire it. On a success, the inspired creature reduces the penalty on their roll this round by 1 extra die.
+[[inspire]]Inspire: Choose *one* creature in your zone and attempt to inspire it. On success, the inspired creature reduces the penalty on its roll this round by 1 die. This has no effect on a creature without a penalty.
+[[discourage]]Discourage: Choose *one* creature in your zone and attempt to discourage it. On success, the discouraged creature reduces the bonus on its roll this round by 1 die. This has no effect on a creature without a bonus.
 
 == Rank I
 - [[perform]]Perform: Entertain an audience with a performance (e.g., music, dance, acting). On a successful roll, you cannot fail; the roll only determines the degree of success, ranging from ordinary to exceptional. The quality of the performance can influence the audience's mood and reactions.
-- Inspire: Choose *one* creature and attempt to inspire it. On a success, the inspired creature gains 1 extra die on one of its rolls this round. If used outside of battle, spend 1 EP, and the target can add 1 die to any roll that day; no roll is required for this. Additionally, you can discourage: Choose *one* creature and attempt to discourage it. On a success, the discouraged creature loses 1 die from its roll this round.
+- Inspire: Choose *one* creature and attempt to inspire it. On a success, the inspired creature gains 1 extra die on one of its rolls this round. If used outside of battle, spend 1 EP, and the target can add 1 die to any roll that day; no roll is required for this. Additionally, you can discourage: Choose *one* creature and attempt to discourage it. On a success, the discouraged creature loses 1 die from its roll this round. You can inspire or discourage a creature without a bonus or penalty.
 - <<distant-influence,Distant Influence>>.
 
 == Rank II

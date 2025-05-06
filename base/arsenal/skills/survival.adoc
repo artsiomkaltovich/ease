@@ -1,15 +1,16 @@
+[[survival]]
 = Survival
-Expertise in navigating and surviving in the wilderness or urban environments, such as locating food and shelter. Includes practical knowledge of natural terrains or city neighborhoods. Primary skill is <<endurance, Endurance>>.
+Expertise in navigating and surviving in the wilderness or urban environments, such as locating food and shelter. Includes practical knowledge of natural terrains or city neighborhoods. The exact terrains the character benefits from depend on the player's background. The primary skill is <<endurance,Endurance>>.
 
 == Rank I
 - Animal Calls: Mimic animal sounds to attract or distract them.
 - [[track]]Track: As an action, you can attempt to locate a creature even if your <<obs, Observation>> skill is insufficient to spot it.
 - [[find-food]]Find Food: You automatically succeed in finding food in the wilderness. The roll determines the quality and an amount of the food, ranging from ordinary to very good.
-- [[find-ingredients]]Find Ingredients: You automatically succeed in finding ingredients in the wilderness. The roll determines the quality and the amount of the ingredients, ranging from ordinary to very good. The terrain you can use this skill in is limited to your background.
-- [[find-shelter]]Find Shelter: You automatically succeed in finding shelter. The roll determines the quality of the shelter, ranging from ordinary to very good. The terrain you can use this skill in is limited to your background.
+- [[find-ingredients]]Find Ingredients: You automatically succeed in finding ingredients in the wilderness. The roll determines the quality and the amount of the ingredients, ranging from ordinary to very good.
+- [[find-shelter]]Find Shelter: You automatically succeed in finding shelter. The roll determines the quality of the shelter, ranging from ordinary to very good.
 - [[predict-weather]]Predict Weather: You can predict the weather for the next 24 hours with a successful roll, allowing you to prepare accordingly.
-- [[natural-camouflage]]Natural Camouflage: You can use your Survival skill instead of <<stealth, Stealth>> to make a test to hide. The terrain you can use this skill in is limited to your background.
-- [[resist-contaminants]]Resilient Consumption: You can negate negative effects from consuming spoiled food or contaminated water. Instead of making a test, you spend 1 EP to resist these effects.
+- [[natural-camouflage]]Natural Camouflage: In an environment familiar to you, you can use your Survival skill instead of <<stealth, Stealth>> to make a test to hide.
+- [[resist-contaminants]]Resilient Consumption: You can negate negative effects from consuming spoiled food or contaminated water. Instead of making an Endurance test, you spend 1 EP to resist these effects.
 
 == Rank II
 - Advanced Tracking: You can track a creature even if its footprints are not in the same zone as you, using subtle environmental clues to follow its path.

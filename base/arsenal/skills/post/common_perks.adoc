@@ -22,6 +22,11 @@ This page provides a list of perks that can be used with specific skills that ex
 - *Rank II*: You pay 1 EP to affect an additional pair of targets. You can affect up to two targets for free.
 - *Rank III*: You can affect up to 2 targets for free. Any additional targets beyond this require only 1 EP for the entire group.
 
+[[guaranteed-success]]
+== Guaranteed Success
+
+- *Rank I*: Spend 1 EP to make a roll with a result of 7. <<skill-value,Skill value>> is applied as usual. This cannot be used if your <<dice-pool,test pool>> has no dice.
+
 // [[focused]]
 // == Focused N
 // 

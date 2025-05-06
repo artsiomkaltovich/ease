@@ -1,16 +1,16 @@
 [[serenity]]
 = Serenity
 
-The ability to maintain self-control, composure, and focus under pressure. It is tested when you are subjected to mental or emotional effects, such as <<provoke, Provoke>> or <<charm, Charm>>. By default, it is tested only before the condition applies.
+The ability to maintain self-control, composure, and focus under pressure. It is tested when an enemy attempts to apply mental or emotional effects, such as <<provoke, Provoke>> or <<charm, Charm>>.
 
 == Rank I
 
-- [[mental-support]]Mental Support: You can spend 1 EP and make a test. On success, you <<help, Help>> an ally resist an existing or new mental condition.
-- [[inner-peace]]Inner Peace: Spend 1 EP to attempt reducing the duration or severity of a mental condition by *one* round. Requires a successful test.
+- [[inner-peace]]Inner Peace: Spend 1 EP to attempt to reduce the duration or severity of a mental condition applied to you by *one* round. This requires a successful test.
+- [[mental-support]]Mental Support: You can spend 1 EP and make a test. On success, you <<help, Help>> an ally resist an existing or new mental condition. The ally can be in another zone but must be able to see or hear you.
 
 == Rank II
 
 - Mental Support: This ability does not require a check and is neither a full action nor a short action.
-- [[iron-will]]Iron Will: Spend 1 EP, choose one mental condition, and make a test. On success, you gain immunity to that condition for 10 minutes or 1 combat.
+- [[iron-will]]Iron Will: Spend 1 EP and choose a mental condition. Make a test against the <<enemies,difficulty>> of the creature that applied the condition, or against the result of the test if it was applied by a player character. On success, you gain immunity to that condition for 10 minutes or the duration of 1 combat.
 
 // - [[calm-aura]]Calm Aura: Enemies within 10 feet have disadvantage on Intimidation checks.
