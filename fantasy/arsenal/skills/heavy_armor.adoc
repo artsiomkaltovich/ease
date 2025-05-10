@@ -7,7 +7,7 @@ The skill of wearing and maintaining heavy protective gear. The primary attribut
 - Heavy Armored: Reduces the penalties for casting spells from wearing heavy armor by *1*.
 
 == Rank II
-- Armor Block: Increases the damage reduction to *3*.
+- Armor Block: Increases the damage reduction by 1 point.
 - Heavy Armored: Reduces the penalties for your Speed, Agility and Stealth from wearing heavy armor by another *1*.
 - Heavy Armored: Reduces the penalties for casting spells from wearing heavy armor by another *1*.
 - Heavy Armored: Increases your difficulty for incoming attacks by another *1*.

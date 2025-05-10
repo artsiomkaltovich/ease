@@ -5,16 +5,19 @@ A skill representing knowledge of magical traditions, arcane symbols, and ancien
 == Rank 0
 - [[arcane-knowledge]]Arcane Knowledge: On success, you can identify the type of magic used in a spell or magical effect.
 - [[magic-creatures]]Magic Creatures: On success, you recognize common magical creatures and their traits.
+- [[magic-awareness]]Magic Awareness: On success, you can sense the presence of magic in your immediate surroundings.
 
 == Rank I
+- <<distant-influence>>. Does not affect your spells, only the perks specified in this skill.
 - [[arcane-rituals]]Arcane Rituals: You can assist in performing complex magical rituals.
 - [[black-magic-improved]]Black Magic Improved: Spend 1 EP before the check. Your spell deals 1 additional damage point.
 - [[dispel]]Dispel: Spend 1 EP. On success, you dispel a spell applied to an area or object, but not a creature.
-- [[magic-awareness]]Magic Awareness: On success, you can sense the presence of magic in your immediate surroundings.
-- [[magic-weaknesses]]Magic Weaknesses: On success, you can identify weaknesses in magical defenses.
-- [[spell-countering]]Spell Countering: Spend 1 EP. On success, you can disrupt or counter basic spells.
-- [[warding]]Warding: On success, you can create simple protective wards against magic.
+- [[spell-countering]]Spell Countering: Spend 1 EP. On success, you can disrupt or counter spells.
+- [[warding]]Warding: On success, you create a protective ward in your zone that shields one creature or small object from a single spell or magical effect. The ward activates if you overcome the effect's <<enemies,difficulty>> with a test made before the effect applies. It remains active until the end of the round or until it blocks one effect.
+- [[antimagic]]Antimagic: You can create an antimagic field around a creature in the same zone. If the creature attempts to cast a spell, test against its difficulty. On success, the creature takes 1 point of damage to both HP and EP, but the effect still occurs. The field lasts until the end of the round or until it blocks one effect.
 
 == Rank II
 - Black Magic Improved: Your spells deal 1 additional damage point.
 - Dispel: You can attempt to remove a spell from a creature.
+- Warding: The protective ward lasts until the end of the round and can block any number of spells.
+- Antimagic: The antimagic field lasts until the end of the round and can block any number of spells.

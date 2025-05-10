@@ -1,19 +1,24 @@
 = Lore: Religion
 Knowledge of religious practices, beliefs, and deities.
 
-The Religion skill is used to identify the nature of a deity, their followers, and their practices. It can also be used to identify the nature of a curse or blessing and determine the effects of a curse or blessing.
+The Religion skill is used to identify the nature of a deity, their followers, and their practices.
+It can also be used to identify the nature of a curse or blessing and determine the effects of a curse or blessing.
 
 The Religion test is performed in the following action:
 
 - [[follow-superstition]]Follow a superstition: On success, remove a curse from yourself.
+- Resist a curse: A test performed when someone tries to curse you.
+On success, you resist the effects of the curse.
+Does not require an action.
 
 == Rank I
-- [bless]Bless: As an action, <<blessed, bless 2>> a target on a success. The effect lasts until the end of the round.
-- [curse]Curse: As an action, curse a target on a success, making it <<cursed, cursed 5>>, the effect last until the end of the round.
+- [[bless]][[curse]]Bless/Curse: As an action, bless a target on a success, making it <<blessed, blessed 2>>, or curse a target on a success, making it <<cursed, cursed 5>>. 
+The effect lasts until the end of the round, and the target must be in the same zone as you.
+
+- <<counter-influence>>. You perform a Religion test instead of Serenity to resist the effects of a curse or blessing.
+- <<distant-influence>>.
+- <<effect-on-mass>>.
+- <<reliable-skill>>: Affects only a Bless.
 
 == Rank II
-- Bless: As an action, bless a target on a success, making it **blessed 6**.
-- Bless: Bless a target without requiring a roll.
-- Bless: You can choose up to *two* creatures to bless at once. The creatures must be in the same zone.
-- Curse: As an action, curse a target on a success, making it <<cursed 1>>.
-- Curse: You can choose up to *two* creatures to curse at once. The creatures must be in the same zone.
+- Bless/Curse: As an action, bless a target on a success, making it <<blessed, blessed 6>>, or curse a target on a success, making it <<cursed, cursed 1>>.

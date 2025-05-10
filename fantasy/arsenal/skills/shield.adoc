@@ -1,17 +1,29 @@
 [[shield-skill]]
 = Shield
-Proficiency in using shields for defense in combat. The primary skill is <<strength, Strength>>.
+Proficiency in using shields for defense in combat.
+The primary skill is <<strength, Strength>>.
 
 When you equip a shield, you gain the following effects:
 
-- [[shielded]]Shielded: Your difficulty for incoming attacks increases by *1*. However, it decreases your <<spd, Speed>>, <<agility, Agility>>, and <<stealth, Stealth>>, as well as any test to cast a spell, by *1*.
-- [[raise-shield]]Raise Shield: You can raise your shield as an action. This allows you to block one incoming attack without spending EP. However, blocking an attack this way still uses an <<item-use-token, item use token>>. You can still use <<shield-block, Shield Block>> for yourself during this round.
-- [[shield-block]]Shield Block: Negate one attack completely at the cost of 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
+- [[shielded]]Shielded: Your difficulty for incoming attacks increases by *1*.
+However, it decreases your <<spd, Speed>>, <<agility, Agility>>, and <<stealth, Stealth>>, as well as any test to cast a spell by *1*.
+- [[raise-shield]]Raise Shield: You can raise your shield as an action.
+This allows you to block one incoming attack without spending EP.
+However, blocking an attack this way still uses an <<item-use-token, item use token>>.
+You can still use <<shield-block, Shield Block>> for yourself during this round.
+- [[shield-block]]Shield Block: Negate one attack completely at the cost of 1 EP and 1 <<item-use-token, item use token>>.
+Does not require an action.
 
 == Rank I
-- [[block-and-attack]]Block and Attack: After you successfully block an attack during your <<raise-shield,Raise Shield>> action, you can immediately make a melee attack against the attacker. This is a separate action, so it can be combined with an <<attack, attack>> action. This attack has a -1 penalty to weapon damage.
-- [[guard]]Guard: Take an action to protect an adjacent ally. On success, block all damage they receive from one attack at the cost of 1 EP. You can still use Shield Block for yourself during this round if it has been unlocked.
-- [[shield-bash]]Shield Bash: Perform an attack with the shield. On success, the target is pushed away by their size. This is a separate action, so it can be combined with an <<attack, attack>> action.
+- [[block-and-attack]]Block and Attack: After you successfully block an attack during your <<raise-shield,Raise Shield>> action, you can immediately make a melee attack against the attacker.
+This is a separate action, so it can be combined with an <<attack, attack>> action.
+This attack has a -1 penalty to weapon damage.
+- [[guard]]Guard: Take an action to protect an adjacent ally.
+On success, block all damage they receive from one attack at the cost of 1 EP.
+You can still use Shield Block for yourself during this round.
+- [[shield-bash]]Shield Bash: Perform an attack with the shield.
+On success, the target is pushed away by your size.
+This is a separate action, so it can be combined with an <<attack, attack>> action.
 - Shielded: Penalties for casting spells while equipped with a shield no longer apply to you.
 - Shielded: Penalties to Speed, Agility, and Stealth while equipped with a shield no longer apply to you.
 
@@ -24,11 +36,12 @@ When you equip a shield, you gain the following effects:
 - Shield Bash: During a shield bash, you can choose one of the following effects:
     * Knock the target *prone*.
     * Reduce the target's EP by 1.
-- When you equip a shield your difficulty for incoming attacks is increased by *1*.
-- Shielded: Your difficulty for incoming attacks is increased by *2*.
+- Shielded: Your difficulty for incoming attacks is increased by *1*.
 
 == Rank III
 - Shield Bash: Your shield bash deals an additional 1 damage point to the target's HP.
 
 == Rank IV
-- Shield Bash: Throw your shield at an enemy in the same or an adjacent zone. All other shield bash effects apply. Use a shield skill check instead of a <<throwing, throwing>> check.
+- Shield Bash: Throw your shield at an enemy in the same or an adjacent zone.
+All other shield bash effects apply.
+Use a shield skill check instead of a <<throwing, throwing>> check.

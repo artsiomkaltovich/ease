@@ -1,11 +1,17 @@
 = Alchemy
-The skill of creating potions, poisons, and other chemical concoctions. The primary skill is <<lore-nature, Lore: Nature>>.
+The skill of creating potions, poisons, and other chemical concoctions.
+The primary skill is <<lore-nature, Lore: Nature>>.
 
 [NOTE]
 You can use an action to hand the potion to an ally (no check required) or hurl it at an enemy (requires <<throwing, Throwing Skill>>).
+Allies can use one of their actions to grab the potion from you.
+
+Brewing a potion requires ingredients and time.
+Without the necessary perk, potion brewing cannot be performed during battle.
 
 == Rank I
-- [[brew-potion]] Brew Potion: Spend 2 actions to brew a new potion. You must have alchemy instruments in your hands and the required ingredients in your <<item-quick-slot, quick slots>>.
+- [[brew-potion]] Brew Potion: Spend 2 actions to brew a new potion.
+You should have the required ingredients in your <<item-quick-slot, quick slots>>.
 - [[alchemy-recognition]]Alchemy Recognition: You can identify the effects of a non-rare potion or poison by spending 1 minute without check.
 
 == Rank II

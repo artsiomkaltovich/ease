@@ -8,5 +8,5 @@ The skill of wearing and maintaining lightweight protective gear. The primary sk
 - Light Armor Feels Like a Second Skin: Removes penalties for sleeping in light armor and reduces the time required to equip light armor by half.
 
 == Rank II
-- Armor Block: Increases the damage reduction to *2*.
+- Armor Block: Increases the damage reduction by 1 point.
 - Lightly Armored: Your difficulty for incoming attacks is increased by another *1*.
