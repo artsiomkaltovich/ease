@@ -1,5 +1,6 @@
 = Roleplaying Game System
 :doctype: book
+:revnumber: 0.1.0
 :toc:
 :toc-title: Table of Contents
 :toclevels: 2
