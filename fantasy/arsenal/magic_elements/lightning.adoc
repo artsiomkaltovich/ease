@@ -1,11 +1,17 @@
 [[lightning]]
 = Lightning
 
-Lightning is a fast and electrifying element, often associated with speed, precision, and raw energy. It can strike opponents with incredible force and disrupt their actions. Lightning magic is renowned for its ability to deal instantaneous damage and chain between multiple targets.
+Lightning is a fast and electrifying element, often associated with speed, precision, and raw energy.
+It can strike opponents with immense force, draining their energy in the process.
+Lightning magic is renowned for its ability to deal instantaneous damage and chain between multiple targets.
 
 == Effects of Lightning
 
-- **Chain Lightning:** Lightning can arc between multiple targets if they are close enough to each other. The damage decreases with each subsequent target, and the chain ends if no valid target is within range. An <<Acid>> surface enhances lightning's ability to spread.
-- **Electric Aftershock:** Residual electric charges can disrupt the target's nervous system or the internal mechanisms of a machine, potentially causing a loss of EP or inducing <<stunned>> conditions. If the target is covered in acid, the effect worsens.
+- **Chain Lightning:** Lightning can arc between multiple targets if they are close enough to each other.
+The damage decreases by 1 point with each subsequent target, and the chain ends if no valid targets are within range.
+An <<acid>> surface enhances lightning's ability to spread, preventing the damage from decreasing as it reaches new targets.
+- **Electric Aftershock:** Residual electric charges can disrupt the target's nervous system or the internal mechanisms of a machine, potentially causing a loss of EP or inducing <<stunned>> conditions.
+If the target is covered in acid, the effect worsens.
 
-The game master should vividly describe the size of the lightning, its effects, and the number of characters or zones it impacts or could impact. The outcomes of lightning can vary depending on the environment and the intensity of the magic employed.
+The game master should vividly describe the size and origin of the lightning, its effects, and the number of characters or zones it impacts or could potentially impact.
+The outcomes of lightning can vary depending on the environment and the intensity of the magic employed.

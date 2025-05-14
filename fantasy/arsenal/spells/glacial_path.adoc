@@ -1,21 +1,27 @@
 [[glacial-path]]
 = Glacial Path
 
-Glacial Path is a frost spell that conjures a sheet of ice on the ground, creating a treacherous surface for enemies. Create a surface of ice large enough to affect 2 humanoids in this area. The surface is slippery, and any creature that moves through it must succeed on an Agility roll or fall prone and take 1 damage. See also <<frost, Frost>>.
+Glacial Path is a frost spell that conjures a sheet of ice on the ground, creating a treacherous surface for enemies.
+Create a surface of ice large enough to affect 2 humanoids in this area.
+The surface is slippery, and any creature that moves through it must succeed on an Agility roll or fall prone and take 1 damage.
+See also <<frost, Frost>>.
 
 == Rank I
 
-- [[frostbite-expansion]]Frostbite Expansion: The icy surface now extends into a circle that can affect 4 creatures.
+- [[frostbite-expansion]]Frostbite Expansion: The icy surface now extends into a circle that can affect up to 4 creatures.
 - [[freeze]]Freeze: A creature that spends 1 full round in the zone of your spell becomes <<grabbed, Grabbed>> if it fails an <<endurance, Endurance>> test.
 - [[chilling-aura]]Chilling Aura: Creatures who spend a round on the icy surface take 1 damage if they fail an <<endurance, Endurance>> test.
 - [[frozen-footing]]Frozen Footing: Creatures that fall prone on the ice are subject to a <<hard-to-move, difficult to move zone>> in every zone they try to walk through for 1 round.
 - [[shard-spikes]]Shard Spikes: The ice surface sprouts spikes, dealing 1 additional damage to creatures that fall prone.
 - [[frosted-vision]]Frosted Vision: The icy surface emits a mist, imposing *one* dice penalty on ranged attacks through it.
-- [[frozen]]Frozen: On success, make a target <<frozen, Frozen>>. Can affect an ally.
+- [[icy-embrace]]Icy Embrace: On success, make a target <<frozen, Frozen>>. Can affect an ally.
 
 == Rank II
 
-- [[blizzards-wrath]]Blizzard's Wrath: The caster summons a blizzard in a radius large enough to affect 4 humanoids. On success, the creatures become <<blind, Blind>> for 1 round. The caster can spend 1 EP to increase the radius to affect the whole zone. You must make a test each round to maintain the blizzard.
+- [[blizzards-wrath]]Blizzard's Wrath: Summon a blizzard in a radius large enough to affect up to 4 creatures. 
+Creatures within the blizzard become <<blind, Blind>> for 1 round. 
+Spend 1 EP to expand the radius to cover the entire zone. 
+Maintaining the blizzard requires a successful test as an action each round.
 - Freeze: Improve your Freeze perk, making the target frozen instead.
 - [[frost-wall]]Frost Wall: The caster creates a wall of ice that blocks movement and line of sight for 1 round. The wall is 1x2 grids but can be increased to 1x4 by spending 1 EP. The wall can be destroyed by dealing 2 damage to it.
 - [[arctic-winds]]Arctic Winds: The caster summons freezing winds that, on success, push creatures to the adjacent zone.

@@ -1,14 +1,30 @@
 [[plant-grows]]
 = Plant Grows
-Plant Grows is a nature-based spell that allows you to control vegetation to create traps, barriers, and challenging terrain. The primary skill is <<nature, Nature>>.
+Plant Grows is a nature-based spell that allows you to control vegetation to create traps, barriers, and challenging terrain.
+The primary skill is <<nature, Nature>>.
+
+If you become <<stunned>> or <<unconscious>> during the round, the plants persist as usual.
+
+== Rank 0
+
+Choose one of the following:
+
+- [[entangling-vines]]Entangling Vines: As an action, you can create vines to trap a creature. Make a test: on success, one target in the same zone becomes <<grabbed, Grabbed>>.
+The vines wither at the end of the round.
+- [[growth-harmony]]Growth Harmony: As an action, you can make a test to grow plants in the adjacent or the same zone.
+On a success, the plants grow and provide cover, and make the terrain <<hard-to-move, hard to move>>.
+The plants wither at the end of the round.
+- [[thorn-lawn]]Thorn Lawn: As an action, you can make a test to create a thorny lawn in your zone.
+On a success, the lawn becomes <<difficult-terrain, difficult terrain>>, and any creature moving through it takes 1 damage.
+The lawn is large enough to affect up to *two* humanoids.
+The lawn withers at the end of the round.
 
 == Rank I
-- [[entangling-vines]]Entangling Vines: Create vines to trap a creature. Make a test: on success, one target becomes <<grabbed, Grabbed>>. The vines dry up at the end of the round. If you become <<stunned>> or <<unconscious>> during the round, the vines persist. The target must be in the same zone as you.
-- [[growth-harmony]]Growth Harmony: As an action, you can make a test to grow plants in the adjacent or the same zone. On a success, the plants grow and provide cover, and make the terrain <<hard-to-move, hard to move>>. The plants wither at the end of the round.
-- [[thorn-lawn]]Thorn Lawn: As an action, make a test to create a thorny lawn in your zone or. On success, the lawn becomes <<difficult-terrain, difficult terrain>>, and any creature moving through it takes 1 damage. The lawn withers at the end of the round.
 
-== Rank II
-- Entangling Vines: You can try to snare *two* creatures at the same time, the creatures should be in the same zone.
-- Entangling Vines: You can try to snare a creature in the adjacent zone.
-- Growth Harmony: The plants become so dense that they are difficult to move through. A target must make a <<strength, Strength>> test to avoid becoming <<grabbed, Grabbed>>. The plants wither at the end of the round. Additionally, any creature becomes <<undetected, Undetected>> without needing to make a <<stealth, Stealth>> test as soon as it enters the zone. If you become <<stunned>> or <<unconscious>> during the round, the plants will persist.
-- Thorn Lawn: You can create a thorny lawn in the adjacent zone.
+- <<distant-influence>>.
+- <<effect-on-mass>>.
+- Growth Harmony: The plants become so dense that they are difficult to move through.
+A target must make a <<strength, Strength>> test to avoid becoming <<grabbed, Grabbed>>.
+The plants wither at the end of the round.
+Additionally, any creature becomes <<undetected, Undetected>> without needing to make a <<stealth, Stealth>> test as soon as it enters the zone.
+- Master of Plants: Gain access to all Rank 0 perks.

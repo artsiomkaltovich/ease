@@ -1,0 +1,13 @@
+[[frozen]]
+= Frozen
+
+The creature is encased in a block of ice, rendering it immobile.  
+To break free, the creature must succeed on a <<strength>> test.  
+The ice block can also be destroyed by dealing damage to it.  
+
+The caster may spend 1 EP and an action to increase the ice block's HP by 1.  
+The ice block starts with 1 HP.  
+
+While encased, the frozen creature is immune to damage dealt by attacks until the ice block is destroyed. Additionally, no projectiles can pass through the ice block in either direction, and the frozen creature cannot attack creatures outside the ice block.
+
+The perk description may specify if the frozen creature is unable to perform any actions while encased.
