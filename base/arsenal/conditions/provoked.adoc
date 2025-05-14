@@ -1,4 +1,7 @@
 [[provoked]]
 = Provoked
 
-A provoked creature loses its current action and instead attempts to harm the creature that provoked it. In some cases, it may be unable to move away from the provoking creature, potentially losing its entire turn, as it focuses on harming the provoking creature. The exact effect is specified in the description of the provoking action.
+A provoked creature loses its current action and instead attempts to harm the creature that provoked it.
+
+In some cases, it may be unable to move away from the provoking creature, potentially losing its entire turn, as it focuses on harming the provoking creature.
+The exact effect is specified in the description of the provoking action.
