@@ -1,3 +1,4 @@
+[[spells]]
 = Spells
 
 include::arc_bolt.adoc[leveloffset=+1]

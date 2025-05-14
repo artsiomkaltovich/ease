@@ -1,7 +1,7 @@
 [[arcane-prodigy]]
 == Arcane Prodigy
 
-*Benefit:* Start with +1 Energy and an additional cantrip.
+*Benefit:* Start with +1 Energy and an additional <<spells,spell>>.
 
 *Drawback:* -1 max HP.
 
