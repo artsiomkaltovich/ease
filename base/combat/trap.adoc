@@ -1,5 +1,8 @@
 = Traps
 
-Traps are concealed hazards designed to hinder or harm adventurers on their journey. To avoid damage from a trap, characters can rely on their <<agility,Agility>> (to dodge or evade traps like projectiles) and <<endurance,Endurance>> (to resist persistent effects, such as gas filling a room). Traps can often be detected in advance if the adventurers' <<obs,Observability>> stat is high enough, enabling them to spot the traps before they become a threat.
+Traps are concealed hazards designed to hinder or harm adventurers on their journey.
+To avoid damage from a trap, characters can rely on their <<agility,Agility>> (to dodge or evade traps like projectiles) and <<endurance,Endurance>> (to resist persistent effects, such as gas filling a room).
+Traps can often be detected in advance if the adventurers' <<obs,Observability>> stat is high enough, enabling them to spot the traps before they are triggered.
 
-Characters can attempt to disarm a detected trap. The skill required to disarm a trap varies by type, but it is most commonly <<agility,Agility>>.
+Characters can attempt to disarm a detected trap.
+The skill required to disarm a trap varies by type, but it is most commonly <<agility,Agility>>.
