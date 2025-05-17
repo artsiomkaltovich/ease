@@ -1,16 +1,16 @@
 = Two-handed Sword
 
-Primary skill is <<strength,Strength>>, <<two-handed>>.
+Primary skill is <<strength,Strength>>, <<two-handed,two-handed>>.
 
 == Damage
-4 for the main attack. If you exceed the <<enemies>> difficulty by 6 or more, deal an additional 2 damage instead of the standard 1.
+4 for the main attack. If you exceed the <<enemies,difficulty>> by 6 or more, deal an additional 2 damage instead of the standard 1.
 
 == Rank I
 - <<zone-of-control, Zone of Control>> - Can control the zone before you (half circle).
-- <<powerful-attack,Powerful attack>> - You can make a powerful attack, dealing 1 or 2 extra damage spending the same amount of EP.
-- <<demoralizing-blow,Demoralizing Blow>>
+- <<powerful-attack,Powerful attack 2>> - Cost 2 EP.
+- <<demoralizing-blow,Demoralizing Blow>>.
 
 == Rank II
 - <<zone-of-control, Zone of Control>> - Increase the zone of control to a full circle.
-- <<powerful-attack,Powerful attack>> - Increase the damage by 1, leaving the EP cost unchanged.
+- <<powerful-attack,Powerful attack 3>> - Cost 2 EP.
 - <<demoralizing-blow,Demoralizing Blow>> - You frighten the target and *one* additional enemy situated in the same zone.

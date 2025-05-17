@@ -10,7 +10,9 @@ These actions are performed in combat and require a successful skill check. The 
 
 == Rank I
 - Grapple: If the creature is prone, you can use your foot to attempt and maintain a grapple.
-- [[topple]]Topple: As an action, you can attempt to topple a creature. On a success, the target is knocked prone.
+- [[topple]]Topple: As an action, you can attempt to topple a creature.
+On a success, the target is knocked prone.
+This is not considered an attack action, allowing you to use it in the same round as a regular attack.
 - <<off-hand-attack,Off Hands Attacks>>: Remove the penalty for off-hand attacks.
 
 == Rank II

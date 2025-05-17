@@ -7,11 +7,12 @@ Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed,on
 - Two-Handed: 3.
 
 == Rank I
-- <<push,Push>>
-- <<powerful-attack,Powerful Attack>>
-- Armor Breaker - If the enemy blocks your attack with an armor, they must spend twice as many <<item-use-token,item use tokens>>.
+- <<push,Push>>.
+- <<powerful-attack,Powerful Attack 1>>.
+- <<armor-breaker>>.
+- <<stun,Stun 1>> - Use your attack action to attempt to stun a target instead of dealing damage. Requires to spend 1 <<item-use-token>>.
 
 == Rank II
-- Powerful Attack - Increase the damage by 1, leaving the EP cost unchanged.
-- <<push,Push>> - Increase the distance the enemy is pushed back.
-- <<stun,Stun>> - Instead of making a damage your attack stun target for 1 action.
+- <<powerful-attack,Powerful Attack 2>>.
+- <<stun,Stun 1>> - You can stun a target as part of an ordinary attack by spending 1 EP and 1 Item Use Token.
+You may attempt to stun a target only once per round.

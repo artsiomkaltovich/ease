@@ -1,18 +1,18 @@
 [[sabre]]
 = Sabre
 
-Primary skill is <<agility,Agility>>, <<one-handed,one-handed>>. Can attack only adjusted targets.
+Primary skill is <<agility,Agility>>, <<one-handed,one-handed>>.
 
 == Damage
 2 for main attack and 1 for off-hand attack.
 
 == Rank I
-- <<parry,Parry>> - Parry 1.
-- <<reliable-strike,Reliable Strike>>.
+- <<parry,Parry 1>>.
+- <<reliable-strike,Reliable Strike 7>>.
 - <<disarm-with-weapon,Disarm With a Weapon>>.
 
 == Rank II
-- <<parry,Parry>> - Parry 2.
+- <<parry,Parry 2>>.
 - <<defensive-maneuver,Defensive Maneuver>>.
 - <<false-strike,False Strike>>.
-- <<powerful-attack,Powerful attack>>.
+- <<powerful-attack,Powerful attack 2>>.

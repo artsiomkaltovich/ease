@@ -7,14 +7,14 @@ Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed,on
 - Two-Handed: 3.
 
 == Rank I
-- <<push,Push>>
-- <<powerful-attack,Powerful Attack>>
-- Grub With a Weapon - When wielding an Axe two-handed, you can grapple an enemy without requiring a free hand. While grappling an enemy, you cannot use the weapon to attack.
-- Throw: Throwing weapon cause normal damage.
-- <<cleave,Cleave>> - Attack up to *two* adjacent enemies in a single swing.
-- <<armor-breaker,Armor Breaker>>.
+- <<push>>.
+- <<powerful-attack,Powerful Attack 1>>.
+- <<grub-with-weapon>>.
+- <<throwable>>.
+- <<cleave,Cleave 2>>.
+- <<armor-breaker>>.
 
 == Rank II
-- <<push,Push>> - Increase the distance the enemy is pushed back.
-- <<topple,Topple>> - Requires the *Push* perk. A heavy attack that makes the enemy prone.
-- <<cleave,Cleave>> - Attack one additional enemy.
+- <<push>> - Increase the distance an enemy is pushed back, allowing you to push them up to an adjusted zone.
+- <<topple-with-weapon>> - Requires the *Push* perk.
+- <<cleave,Cleave 3>>.

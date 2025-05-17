@@ -3,68 +3,109 @@
 // == [[rapid-fire]]Rapid Fire
 // Fires multiple arrows in quick succession, making 2 attacks instead of one. Costs 1 EP.
 
-== [[aim]]Aim
-Reduces the penalty of your next attack by 1 die.
+[[armor-breaker]]
+== Armor Breaker
+If the enemy blocks your attack with armor or a shield, you can spend 1 EP to force them to spend twice as many <<item-use-token,item use tokens>>.
 
-== [[armor-breaker]]Armor Breaker
-If the enemy blocks your attack with armor or a shield, they must spend twice as many <<item-use-token,item use tokens>>.
+[[cleave]]
+== Cleave N
+Strike *N* adjacent enemies in a single sweeping attack.
+Each enemy must be within your weapon's reach.
+Costs 1 EP.
 
-== [[cleave]]Cleave N
-Hits *N* adjacent enemies in a single swing. Each enemy must be within the weapon's range to you and to each other.
-
-== [[defensive-maneuver]]Defensive Maneuver
+[[defensive-maneuver]]
+== Defensive Maneuver
 After a successful attack, you can spend 1 EP to impose a -1 die penalty on the target's next attack.
 
-== [[demoralizing-blow]]Demoralizing Blow
-If an attack exceeds the enemy's difficulty by at least 6, it causes the target or one enemy in the same zone to become frightened.
+[[demoralizing-blow]]
+== Demoralizing Blow
+Your attacks can demoralize your enemies.
 
-== [[disarm-with-weapon]]Disarm With a Weapon
+- If an attack exceeds the enemy's difficulty by 6 or more, the target becomes frightened.
+- If your attack reduces any creature's HP to 0, one enemy in the same zone becomes frightened.
+
+[[disarm-with-weapon]]
+== Disarm With a Weapon
 Make a weapon check to force an enemy to drop their weapon.
+This is not considered an attack, allowing you to use it in the same round as a regular attack.
 
-== [[false-strike]]False Strike
-Attempt a deceptive strike to trick your opponent. Make a test: on success, your strike forces the opponent to block your attack instead of executing their own. If the opponent was preparing an attack, it will be canceled. This action is not an attack.
+[[false-strike]]
+== False Strike
+Attempt a deceptive strike to trick your opponent.
+Make a test: on success, your strike forces the opponent to block your attack instead of executing their own.
+If the opponent was preparing an attack, it will be canceled.
+This action is not an attack.
 
-== [[fix-on]]Fix On
-Your next attack ignores the target's cover.
+[[flank]]
+== Flank
+A tactical action that combines movement and attack into a single action, costing 1 EP. Move to a position behind an enemy within reach of a single move, then attack from behind to deal +1 damage on this attack.
+You can not combine this action with a <<move,Move>> and <<attack>> actions.
 
-== [[flank]]Flank
-Move to a position behind an enemy. If you attack from behind, gain +1 damage to your attack roll. Spend 1 EP.
+[[grub-with-weapon]]
+== Grub with a Weapon
+A <<action-variety,Variety>> of Grapple that allows you to <<grabbed,Grab>> an enemy without requiring a free hand.
+While maintaining a grab, you cannot use the weapon to attack.
 
-== [[grub-with-weapon]]Grub with a Weapon
-<<action-variety,Variety>> of Grapple. Grabs an enemy without requiring a free hand.
+[[lock-on]]
+== Lock On
+As an action, you can focus on an opponent.
+Perform a test: on success, your next attack ignores the target's cover.
 
-== [[long-shot]]Long Shot
+[[long-shot]]
+== Long Shot
 Allows a ranged attack at extended distance (+1 zone) at the cost of 1 EP.
 
-== [[parry]]Parry N
-Blocks an incoming attack, reducing damage by *N*. Requires a 1 EP and 1 <<item-use-token, item use token>>. Does not require an action.
+[[parry]]
+== Parry N
+Blocks an incoming attack, reducing damage by *N*.
+Requires a 1 EP and 1 <<item-use-token, item use token>>.
+Does not require an action.
 
-== [[pierce]]Pierce N
-A powerful attack that ignores *N* points of armor and shields.
+[[pierce]]
+== Pierce N
+An attack that penetrates defenses, ignoring *N* points of damage reduction from armor and shields.
 
-== [[powerful-attack]]Powerful Attack N
-When landing a successful attack, you can expose the enemy's weakness and deal *N* extra damage by spending 1 EP.
+[[pinning-shot]]
+== Pinning Shot
+Immobilizes the target during an attack, preventing movement until the end of their next turn. Costs 1 EP.
 
-== [[push]]Push
-On a successful attack, you can push an enemy back.
+[[powerful-attack]]
+== Powerful Attack N
+When landing a successful attack, you can expose the enemy's weakness and deal *N* extra damage by spending 1 EP and 1 <<item-use-token>>.
 
-== [[quick-stab]]Quick Stab
+[[push]]
+== Push
+On a successful attack or as a separate action, you can push an enemy back by your size.
+
+[[quick-stab]]
+== Quick Stab
 Spend a short attack to make an additional attack.
 
-== [[reliable-strike]]Reliable Strike N
-Spend 1 EP to make a roll with a result of **N**. This cannot be used if your check pool has no dice.
+[[reliable-strike]]
+== Reliable Strike N
+Spend 1 EP and 1 <<item-use-token>> to make a roll with a result of *N*.
+This cannot be used if your check pool has no dice.
 
-== [[stun]]Stun N
+[[stun]]
+== Stun N
 Temporarily stuns the target for *N* rounds.
 
-== [[throwable]]Throwable
+[[throwable]]
+== Throwable
 Throwing a weapon causes normal damage.
 
-== [[topple]]Topple
-A heavy attack that makes the enemy prone.
+[[topple-with-weapon]]
+== Topple With a Weapon
+As an action, you can spend 1 EP to attempt to knock an enemy down.
+This is not considered an attack, allowing you to use it in the same round as a regular attack.
 
-== [[unexpected-attack]]Unexpected Attack
-Perform an <<attack,attack>> action using a <<stealth,Stealth>> check instead of a weapon attack check. On a success, the target cannot block the damage from the attack.
+[[unexpected-attack]]
+== Unexpected Attack
+Perform an <<attack,attack>> action using a <<stealth,Stealth>> check instead of a weapon attack check.
+On a success, the target cannot block the damage from the attack.
 
-== [[zone-of-control]]Zone of Control
-Wave and brandish your weapon in a threatening manner. You can make an attack against *any* enemy that enters your zone.
+[[zone-of-control]]
+== Zone of Control
+Wave and brandish your weapon menacingly as an action.
+You can attack *any* enemy that enters your zone during this round.
+These attacks do not require an action, but you must spend 1 EP for each target beyond the first.

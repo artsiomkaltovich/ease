@@ -1,23 +1,23 @@
 = <<full-action,Full Actions>>
 
-- <<attack,Attack>>
 - <<aim,Aim>>
+- <<attack,Attack>>
 - <<dash,Dash>>
-- <<help,Help>>
+- <<demoralize,Demoralize>>
 - <<disarm,Disarm>>
-- <<hold,Hold>>
-- <<grapple,Grapple>>
 - <<discourage,Discourage>>
 - <<dodge,Dodge>>
 - <<first-aid, First Aid>>
-- <<provoke,Provoke>>
+- <<grapple,Grapple>>
+- <<help,Help>>
+- <<hold,Hold>>
+- Interact with surroundings, e.g. open or close a door
 - <<intimidate,Intimidate>>
 - <<inspire,Inspire>>
-- <<demoralize,Demoralize>>
 - <<item-quick-slot,Use Item>>
-- Interact with surroundings, e.g. open or close a door
 - Pick up an item
 - <<pose,Stand up from lying down>>
 - <<provoke,Provoke>>
+- <<move,Move>>
 - <<recognize,Recognize>>
 - <<rest,Rest>>

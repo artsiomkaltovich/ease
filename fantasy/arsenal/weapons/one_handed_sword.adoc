@@ -6,10 +6,10 @@ Primary skill is <<strength,Strength>>. <<one-handed,One-Handed>> weapon. Can at
 2 for main attack and 1 for off-hand attack.
 
 == Rank I
-- <<parry,Parry>> - You can block an incoming attack, reducing damage by 1.
-- <<powerful-attack,Powerful attack>> - You can make a powerful attack, dealing 1 extra damage spending the same amount of EP.
+- <<parry,Parry 1>>.
+- <<powerful-attack,Powerful attack 1>>.
 
 == Rank II
-- <<parry,Parry>> - Increase the damage reduction by 1.
-- <<powerful-attack,Powerful attack +1>> - Increase the damage by 1, leaving the EP cost unchanged.
-- <<demoralizing-blow,Demoralizing Blow>>
+- <<parry,Parry 2>>.
+- <<powerful-attack,Powerful attack 2>>.
+- <<demoralizing-blow,Demoralizing Blow>>.

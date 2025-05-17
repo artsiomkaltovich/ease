@@ -1,6 +1,6 @@
-= Weapon Types
+= Weapons and Skills
 
-The following table outlines the requirements, damage, and rank options for different weapon types:
+An overview of various weapon types and their associated skills to help adventurers choose the perfect tool for their journey.
 
 include::axe.adoc[leveloffset=+1]
 include::bow.adoc[leveloffset=+1]

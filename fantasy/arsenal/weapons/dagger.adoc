@@ -1,17 +1,24 @@
 = Dagger
 
-The dagger is a small, light weapon that can be used for both melee and thrown attacks. It is often used as a backup weapon or for stealthy attacks. The primary skill is <<spd,Speed>>, <<one-handed,one-handed>>. <<throwable, Throwable>>. It can be easily concealed. Add your Dagger skill value to <<stealth,Stealth>> checks when hiding a dagger.
+The dagger is a small, light weapon that can be used for both melee and thrown attacks.
+It is often used as a backup weapon or for stealthy attacks.
+The primary skill is <<spd,Speed>>.
+The weapon is <<one-handed,one-handed>> and <<throwable, Throwable>>.
+It can be easily concealed.
+Add your Dagger skill value to <<stealth,Stealth>> checks when hiding a dagger.
 
 == Damage
 1 for the main attack, 0 for the off-hand attack.
 
 == Rank I
-- <<reliable-strike,Reliable Strike>>: Spend 1 EP to make a roll with a result of *9*. This cannot be used if your check pool has no dice.
+- <<reliable-strike,Reliable Strike 9>>.
 - Off-Hand Attack: Your off-hand attack has a base damage of 1.
-- <<flank,Flank>>.
+- <<flank>>.
 - <<defensive-maneuver,Defensive Maneuver>>.
 
 == Rank II
-- <<reliable-strike,Reliable Strike>>: Increase the roll result to *12*. If your check pool has *zero* dice, the result of the roll is *3*. This cannot be used if your check pool has a negative number of dice.
-- [[unexpected-attack]]Unexpected Attack: Perform an <<attack,attack>> action using a <<stealth,Stealth>> check instead of a weapon attack check. On a success, the target cannot block the damage from the attack.
+- <<reliable-strike,Reliable Strike 12>>: Increase the roll result to *12*.
+If your check pool has *zero* dice, the result of the roll is *3*.
+This cannot be used if your check pool has a negative number of dice.
+- <<unexpected-attack>>.
 - <<quick-stab,Quick Stab>>: Spend a short attack for an additional attack. The base damage is 0.
