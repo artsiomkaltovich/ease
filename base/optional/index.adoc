@@ -3,7 +3,7 @@
 Optional rules are additional rules that can be used to enhance or modify the core gameplay experience. These rules are not mandatory and can be included at the discretion of the players and a game master.
 
 include::moving.adoc[leveloffset=+1]
-include::hidden_checks.adoc[leveloffset=+1]
+include::hidden_test.adoc[leveloffset=+1]
 include::lore_skills.adoc[leveloffset=+1]
 include::plot_points.adoc[leveloffset=+1]
 include::one_shots.adoc[leveloffset=+1]
