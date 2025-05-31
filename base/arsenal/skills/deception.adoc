@@ -1,0 +1,28 @@
+[[deception]]
+= Deception
+
+Deception is the art of manipulating others through lies, misdirection, and illusion.
+It allows you to create false narratives, disguise your true intentions, and influence the perceptions of those around you.
+The primary stat is <<chr>>.
+
+Deception is checked for the following action:
+
+[[attract-attention]]
+- Attract Attention: Attract the attention of a guard to make them look elsewhere.
+This can help you or your allies sneak past a guard, prevent one enemy in your zone from blocking your ally's attack with a shield or armor, or mitigate the effect of the <<evade,Evade>> action.
+
+== Rank I
+
+[[feigned-retreat]]
+- Feigned Retreat: As part of a movement action, you can make a deception test to convince one enemy in your zone that you are retreating.
+If successful, the enemy will leave cover for this round.
+[[mock-command]]
+- Mock Command: You can spend 1 EP and make a deception test to imitate the voice of your enemy's commander, causing one enemy in your zone to follow your order for one action.
+- <<distant-influence,Distant Influence>>.
+- <<effect-on-mass,Effect on Mass>>
+
+== Rank II
+
+- Feigned Retreat: You can perform this action without moving.
+- Mock Command: Doesn't cost EP anymore.
+- <<counter-influence,Counter Influence>>.

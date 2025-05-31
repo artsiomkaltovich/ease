@@ -3,6 +3,7 @@ The skill of entertaining others through music, acting, or other arts. The prima
 
 - [[inspire]]Inspire: Choose *one* creature in your zone and attempt to inspire it. On success, the inspired creature reduces the penalty on its roll this round by 1 die. This has no effect on a creature without a penalty.
 - [[discourage]]Discourage: Choose *one* creature in your zone and attempt to discourage it. On success, the discouraged creature reduces the bonus on its roll this round by 1 die. This has no effect on a creature without a bonus.
+- [[fake]]Fake Action: You can spend 1 EP to make a Performance test to convince creatures that you are performing another action (e.g., spellcasting). On a success, one creature in your zone will act accordingly.
 
 == Rank I
 - [[perform]]Perform: Entertain an audience with a performance (e.g., music, dance, acting). On a successful roll, you cannot fail; the roll only determines the degree of success, ranging from ordinary to exceptional. The quality of the performance can influence the audience's mood and reactions.

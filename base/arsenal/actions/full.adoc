@@ -1,12 +1,15 @@
 = <<full-action,Full Actions>>
 
 - <<aim,Aim>>
+- <<attract-attention,Attract Attention>>
 - <<attack,Attack>>
 - <<dash,Dash>>
 - <<demoralize,Demoralize>>
 - <<disarm,Disarm>>
 - <<discourage,Discourage>>
 - <<dodge,Dodge>>
+- <<fake,Fake Action>>
+- <<feigned-retreat,Feigned Retreat>>
 - <<first-aid, First Aid>>
 - <<grapple,Grapple>>
 - <<help,Help>>
@@ -15,6 +18,7 @@
 - <<intimidate,Intimidate>>
 - <<inspire,Inspire>>
 - <<item-quick-slot,Use Item>>
+- <<mock-command,Mock Command>>
 - Pick up an item
 - <<pose,Stand up from lying down>>
 - <<provoke,Provoke>>

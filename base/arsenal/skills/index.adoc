@@ -2,6 +2,7 @@
 = Skills and Perks
 
 include::agility.adoc[leveloffset=+1]
+include::deception.adoc[leveloffset=+1]
 include::endurance.adoc[leveloffset=+1]
 include::first_aid.adoc[leveloffset=+1]
 include::insult.adoc[leveloffset=+1]
