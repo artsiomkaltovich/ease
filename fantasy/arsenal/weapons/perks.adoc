@@ -56,10 +56,10 @@ Perform a test: on success, your next attack ignores the target's cover.
 Allows a ranged attack at extended distance (+1 zone) at the cost of 1 EP.
 
 [[parry]]
-== Parry N
-Blocks an incoming attack, reducing damage by *N*.
-Requires a 1 EP and 1 <<item-use-token, item use token>>.
-Does not require an action.
+== Parry
+Spoil an incoming attack, subtracting your skill value with this weapon from its roll.
+Requires 1 EP or 1 <<item-use-token, item use token>>.
+Can be used once per round as a <<short-action, short action>>.
 
 [[pierce]]
 == Pierce N
@@ -71,7 +71,7 @@ Immobilizes the target during an attack, preventing movement until the end of th
 
 [[powerful-attack]]
 == Powerful Attack N
-When landing a successful attack, you can expose the enemy's weakness and deal *N* extra damage by spending 1 EP and 1 <<item-use-token>>.
+When landing a successful attack, you can expose the enemy's weakness and deal *N* extra damage by spending 1 EP or 1 <<item-use-token>>.
 
 [[push]]
 == Push
@@ -83,7 +83,7 @@ Spend a short attack to make an additional attack.
 
 [[reliable-strike]]
 == Reliable Strike N
-Spend 1 EP and 1 <<item-use-token>> to make a roll with a result of *N*.
+Spend 1 EP or 1 <<item-use-token>> to make a roll with a result of *N*.
 This cannot be used if your check pool has no dice.
 
 [[stun]]

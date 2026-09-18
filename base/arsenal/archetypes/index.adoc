@@ -1,0 +1,4 @@
+= Archetypes
+Archetypes are a way to further customize characters. They change the mechanics of a character, allowing for complex and unique playstyles. Archetypes are not meant to be used with every character, but rather to provide a unique experience for those who want it. Availability and price of archetypes are determined by the game master, and they can be used to create a unique experience for the players.
+
+include::barbarian.adoc[leveloffset=+1]

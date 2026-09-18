@@ -7,12 +7,12 @@ Primary skill is <<agility,Agility>>, <<one-handed,one-handed>>.
 2 for main attack and 1 for off-hand attack.
 
 == Rank I
-- <<parry,Parry 1>>.
+- <<parry,Parry>>.
 - <<reliable-strike,Reliable Strike 7>>.
 - <<disarm-with-weapon,Disarm With a Weapon>>.
 
 == Rank II
-- <<parry,Parry 2>>.
+- <<parry,Parry>> - Can be used twice per round.
 - <<defensive-maneuver,Defensive Maneuver>>.
 - <<false-strike,False Strike>>.
 - <<powerful-attack,Powerful attack 2>>.

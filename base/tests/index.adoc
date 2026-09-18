@@ -1,15 +1,7 @@
 = Tests
 
 To perform a basic test, roll two six-sided dice (2d6), sum the results, and add the relevant skill value.
-Compare the total to a difficulty level (N) to determine the outcome.
-
-[%autowidth, options="header", align="center"]
-|===
-| Roll           | Result
-| All dice are 1 | Critical Fail
-| Below N        | Failure
-| N or above     | Success
-|===
+Compare the total to a difficulty level (N) to determine the outcome: a total of N or above is a success, anything below it is a failure.
 
 include::stat_vs_skill.adoc[leveloffset=+1]
 

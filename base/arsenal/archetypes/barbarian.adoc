@@ -1,0 +1,17 @@
+[[barbarian]]
+= Barbarian
+Barbarians are fierce warriors who thrive in the heat of battle. Their rage fuels their power, making them hard to control and increasing their combat abilities, but decreasing their ability to think clearly and solve problems peacefully or creatively.
+They are often found on the front lines of battle, charging headlong into danger with little regard for their own safety.
+
+Barbarians do not have <<ep, Energy Points>>; instead, they use [[rage]]*Rage*.
+Barbarians gain rage in two ways: by taking damage, and whenever any creature drops to 0 HP for the first time in a combat.
+Damage grants 1 rage point per attack that lands, no matter how much damage it deals, and the point is gained only after the blow is resolved — it cannot be spent to block the damage from the attack that granted it.
+The second source does not care who struck the blow — downing an enemy yourself, an ally downing an enemy, and an enemy downing one of your allies all grant rage.
+Rage can be used in the same way as energy points and provides the following benefits:
+
+- The character can spend any amount of rage to block 1 point of damage from an attack per point spent. This can be declared after the roll.
+- The character can spend any amount of rage to increase the damage of an attack by 1 per point spent.
+- The character adds their current rage to <<intimidation>> tests, and to <<serenity>> tests made to avoid becoming <<frightened, frightened>> by an enemy's <<intimidate, Intimidate>>. This rage is not spent.
+- The character receives a -1 penalty per rage point they currently have to all tests that require concentration and communication, as well as to every other <<serenity>> test — including those against <<provoke, Provoke>>, <<insult, Insult>> and <<charm, Charm>> effects, which gain no bonus from rage.
+
+When a fight ends, the character loses all remaining rage.

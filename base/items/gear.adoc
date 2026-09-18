@@ -2,37 +2,12 @@
 
 [[attack]]
 == Attack
-To make an attack, perform a test using the relevant skill. Compare the result of the check to the <<enemies, target's difficulty>>. Refer to the table below:
-
-[options="header"]
-|===
-| Roll Result | Outcome
-
-| All ones
-| Miss, No damage
-
-| Below the target's difficulty
-| Weapon damage - 1
-
-| Between the target's difficulty and difficulty + 5
-| Weapon damage
-
-| The target's difficulty + 6 or above
-| Weapon damage + 1
-|===
+To make an attack, perform a test using the relevant skill and compare the result to the <<enemies, target's difficulty>>. On a success the attack hits and deals the weapon's damage; on a failure it misses and deals nothing.
 
 .Example of Attack Roll
 [example]
 ====
-Lira attacks a goblin using a sword that deals 2 damage. The goblin has a difficulty of 7. Lira rolls 2d6 and adds her skill bonus of +2, getting a total of 9.
-
-Since 9 is between the goblin's difficulty (7) and difficulty + 5 (12), Lira deals normal weapon damage. The goblin takes 2 damage.
-
-If Lira had rolled a total of 6 instead, she would have dealt 1 damage (weapon damage - 1), because the result was below the goblin's difficulty.
-
-If she had rolled a 13 or higher, she would have dealt 3 damage (weapon damage + 1).
-
-And if she had rolled double 1s, the attack would have missed entirely and dealt no damage.
+Lira attacks a goblin using a sword that deals 2 damage. The goblin has a difficulty of 7. Lira rolls 2d6 and adds her skill bonus of +2, getting a total of 9 — the attack hits, and the goblin takes 2 damage. A total of 6 would have missed.
 ====
 
 [[equipping-gear]]
@@ -42,7 +17,7 @@ Equipping a shield or weapon requires a <<short-action,short action>>. The time 
 
 Equipped armor, shields, and weapons provide additional options:
 
-- Shields allow a player to completely negate one attack at the cost of 1 EP.
+- Shields allow a player to completely negate one attack at the cost of one <<item-use-token, item use token>>.
 - Armor can block damage, with the number of points blocked determined by the armor's specifications.
 - Each weapon type offers unique features, which vary depending on the weapon.
 

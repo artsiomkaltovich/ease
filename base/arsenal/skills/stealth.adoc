@@ -9,7 +9,7 @@ Characters untrained in Stealth can only attempt to sneak outside of combat, as 
 - Sneak: If you have one free hand while sneaking, you receive a +1 bonus to your test. If you have two free hands, you receive a +2 bonus.
 - [[hide-item]]Hide Item: As an action, you can attempt to hide an item. On a success, the item is concealed.
 - [[hide-steps]]Hide Steps: You can try to hide your tracks. On a success, you leave no trace of your passage.
-- You <<surprised, surprised attacks>> can't miss, if the test roll is a <<attack,critical failure>> you still makes weapon damage - 1.
+- Your <<surprised, surprised attacks>> can't miss: they deal weapon damage regardless of the test roll.
 
 == Rank II
 - Sneak: You can attempt to hide in dim light.

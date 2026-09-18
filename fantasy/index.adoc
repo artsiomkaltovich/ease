@@ -33,6 +33,8 @@ include::../base/arsenal/conditions/index.adoc[leveloffset=+2]
 include::arsenal/conditions/index.adoc[leveloffset=+2]
 include::arsenal/weapons/perks.adoc[leveloffset=+2]
 include::arsenal/weapons/index.adoc[leveloffset=+2]
+include::../base/arsenal/archetypes/index.adoc[leveloffset=+2]
+include::arsenal/archetypes/index.adoc[leveloffset=+2]
 
 include::../base/optional/index.adoc[leveloffset=+1]
 include::../base/supplement/index.adoc[leveloffset=+1]

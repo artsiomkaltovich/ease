@@ -32,7 +32,7 @@ Lore skills are a special type of skill that represents knowledge about specific
 On success, the player gains some information about the target.
 The amount of information depends on the result of the test and the game master's discretion. It can include statistics, strengths and weaknesses of a creature, spell name, effect, recognition of the country of origin of coins or coat of arms, etc.
 
-In some cases, not all information can be obtained from one test, and additional tests may be required. The game master can also decide to provide false information on a critical failure.
+In some cases, not all information can be obtained from one test, and additional tests may be required. The game master can also decide to provide false information on a failure, especially when every die comes up 1.
 
 The game master should provide information that player characters are expected to know without any tests, e.g., recognizing the portrait of the king or the name and location of a city in their country.
 

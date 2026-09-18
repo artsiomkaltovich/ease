@@ -14,5 +14,5 @@ Primary skill is <<strength,Strength>>. Can be wielded as either <<one-handed,on
 
 == Rank II
 - <<powerful-attack,Powerful Attack 2>>.
-- <<stun,Stun 1>> - You can stun a target as part of an ordinary attack by spending 1 EP and 1 Item Use Token.
+- <<stun,Stun 1>> - You can stun a target as part of an ordinary attack by spending 1 EP or 1 Item Use Token.
 You may attempt to stun a target only once per round.
